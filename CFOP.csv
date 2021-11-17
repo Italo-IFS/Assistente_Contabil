@@ -86,7 +86,7 @@
 1603;Ressarcimento de ICMS retido por substituição tributária;Lançamento destinado ao registro de ressarcimento de ICMS retido por substituição tributária à contribuinte substituído, efetuado pelo contribuinte substituto, ou, ainda, quando o ressarcimento for apropriado pelo próprio contribuinte substituído, nas hipóteses previstas na legislação aplicável.
 1604;Lançamento do crédito relativo à compra de bem para o ativo imobilizado;Lançamento destinado ao registro da apropriação de crédito de bem do ativo imobilizado. (Dec.25.068/2003-EFEITOS A PARTIR DE 01.01.2003)
 1605;Recebimento, por transferência, de saldo devedor do ICMS de outro estabelecimento da mesma empresa;Lançamento destinado ao registro da transferência de saldo devedor do ICMS, recebido de outro estabelecimento da mesma empresa, para efetivação da apuração centralizada do imposto. (ACR Ajuste SINIEF 03/2004) (DECRETO Nº 26.810/2004) (a partir de 01.01.2005)
-1650;ENTRADAS DE COMBUSTÍVEIS, DERIVADOS OU NÃO DE PETRÓLEO, E LUBRIFICANTES (ACR Ajuste SINIEF 9/2003 - a partir 01.01.2004);Início
+1650;ENTRADAS DE COMBUSTÍVEIS, DERIVADOS OU NÃO DE PETRÓLEO, E LUBRIFICANTES (ACR Ajuste SINIEF 9/2003 - a partir 01.01.2004);
 1651;Compra de combustível ou lubrificante para industrialização subseqüente;Compra de combustível ou lubrificante a ser utilizados em processo de industrialização do próprio produto. (ACR Ajuste SINIEF 9/2003 - a partir 01.01.2004)
 1652;Compra de combustível ou lubrificante para comercialização;Compra de combustível ou lubrificante a ser comercializados. (ACR Ajuste SINIEF 9/2003 - a partir 01.01.2004)
 1653;Compra de combustível ou lubrificante por consumidor ou usuário final;Compra de combustível ou lubrificante, a ser consumidos em processo de industrialização de outros produtos, na produção rural, na prestação de serviço ou por usuário final.
@@ -619,6 +619,6 @@
 7651;Venda de combustível ou lubrificante de produção do estabelecimento;Venda de combustível ou lubrificante industrializados no estabelecimento e destinados ao exterior. (a partir 01.01.2004 -  Decreto Nº 26.174 de 26/11/2003)
 7654;Venda de combustível ou lubrificante adquiridos ou recebidos de terceiros;Venda de combustível ou lubrificante, adquiridos ou recebidos de terceiros, destinados ao exterior. (a partir 01.01.2004 -  Decreto Nº 26.174 de 26/11/2003)
 7667;Venda de combustível ou lubrificante a consumidor ou usuário final;Venda de combustível ou lubrificante a consumidor ou a usuário final, cuja operação tenha sido equiparada a uma exportação. ACR Ajuste SINIEF 05/2009 – a partir de 01.07.2009)(Decreto nº 34.490/2009)
-7900;OUTRAS SAIDAS DE MERCADORIA OU PRESTAÇÕES DE SERVIÇOS;Início
+7900;OUTRAS SAIDAS DE MERCADORIA OU PRESTAÇÕES DE SERVIÇOS;
 7930;Lançamento efetuado a título de devolução de bem cuja entrada tenha ocorrido sob amparo de regime especial aduaneiro de admissão temporária;Classificam-se neste código os lançamentos efetuados a título de saída em devolução de bens cuja entrada tenha ocorrido sob amparo de regime especial aduaneiro de admissão temporária.
 7949;Outra saída de mercadoria ou prestação de serviço não especificado;Classificam-se neste código as outras saídas de mercadorias ou prestações de serviços que não tenham sido especificados nos códigos anteriores.

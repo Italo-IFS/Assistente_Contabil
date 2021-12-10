@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<Lista_Ramais>
+	<Setor Nome="Comercial">
+		<Ramal>
+			<Telefone>8001</Telefone>
+			<Nome>Iramar</Nome>
+		</Ramal>
+	</Setor>
+	<Setor Nome="Financeiro">
+		<Ramal>
+			<Telefone>8004</Telefone>
+			<Nome>Andressa</Nome>
+		</Ramal>
+	</Setor>
+	<Setor Nome="Paralegal">
+		<Ramal>
+			<Telefone>8005</Telefone>
+			<Nome>Itamar (Home Office)</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8006</Telefone>
+			<Nome>Washington</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8007</Telefone>
+			<Nome>Marcel</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8008</Telefone>
+			<Nome>Karine</Nome>
+		</Ramal>
+	</Setor>
+	<Setor Nome="Contábil">
+		<Ramal>
+			<Telefone>8009</Telefone>
+			<Nome>Vanda (Home Office)</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8010</Telefone>
+			<Nome>Ana Kelly</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8011</Telefone>
+			<Nome>Sinara</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8012</Telefone>
+			<Nome>Giovanni</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8013</Telefone>
+			<Nome>Samuel</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8014</Telefone>
+			<Nome>Camila</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8015</Telefone>
+			<Nome>Italo</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8016</Telefone>
+			<Nome>Maria</Nome>
+		</Ramal>
+	</Setor>
+	<Setor Nome="Fiscal">
+		<Ramal>
+			<Telefone>8017</Telefone>
+			<Nome>Cristiane</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8018</Telefone>
+			<Nome>Jefferson</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8019</Telefone>
+			<Nome>Bruno Nascimento</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8020</Telefone>
+			<Nome>Bruno</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8021</Telefone>
+			<Nome>Tamyres (Home Office)</Nome>
+		</Ramal>
+	</Setor>
+	<Setor Nome="Pessoal">
+		<Ramal>
+			<Telefone>8024</Telefone>
+			<Nome>Mirian</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8025</Telefone>
+			<Nome>Lanny</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8026</Telefone>
+			<Nome>Katia</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8027</Telefone>
+			<Nome>Leili</Nome>
+		</Ramal>
+	</Setor>
+	<Setor Nome="Marketing">
+		<Ramal>
+			<Telefone>8028</Telefone>
+			<Nome>Edyr</Nome>
+		</Ramal>
+	</Setor>
+	<Setor Nome="Conmax CE">
+		<Ramal>
+			<Telefone>8000</Telefone>
+			<Nome>Recepção</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8002</Telefone>
+			<Nome>Sala de Reunião Gde.</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8003</Telefone>
+			<Nome>Sala de Reunião Peq.</Nome>
+		</Ramal>
+	</Setor>
+	<Setor Nome="Conmax SP">
+		<Ramal>
+			<Telefone>8050</Telefone>
+			<Nome>Paulo</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8051</Telefone>
+			<Nome>Cleide</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone>8053</Telefone>
+			<Nome>Paulo (Home Office)</Nome>
+		</Ramal>
+	</Setor>
+</Lista_Ramais>

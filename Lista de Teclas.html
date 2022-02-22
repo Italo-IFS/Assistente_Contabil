@@ -1,0 +1,350 @@
+<html>
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
+    <style>
+      h2 {
+        margin-top:1.1em;
+        margin-bottom:.5em;
+      }
+
+      h5 {
+        margin-top:1.5em;
+        margin-bottom:.5em;
+        margin-left:1.5rem;
+      }
+
+      .table-striped {
+        margin-left:1.5rem;
+      }
+
+      .note {
+        margin-left:1.5rem;
+      }
+    </style>
+
+  </head> 
+  <body>
+    <div class="container g-3">
+      <h1>Lista de Teclas</h1>
+      <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <h5 class="card-title">Índice</h5>
+          <ul class="card-text">
+            <li><a href="#mouse">Mouse</a>
+              <ul>
+                <li><a href="#mouse-general">Botões Básicos</a></li>
+                <li><a href="#mouse-advanced">Botões Avançados</a></li>
+                <li><a href="#mouse-wheel">Roda</a></li>
+              </ul>
+            </li>
+            <li><a href="#keyboard">Teclado</a>
+              <ul>
+                <li><a href="#general">Teclas Básicas</a></li>
+                <li><a href="#cursor">Teclas de Controle do Cursor</a></li>
+                <li><a href="#numpad">Teclado Numérico</a></li>
+                <li><a href="#function">Teclas de Funções</a></li>
+                <li><a href="#modifier">Teclas Modificadoras</a></li>
+                <li><a href="#other">Outras Teclas</a></li>
+              </ul>
+            </li>        
+          </ul>
+        </div>
+      </div>
+
+      <hr>
+      
+      <h2 id="mouse">Mouse</h2>
+      <h5 id="mouse-general">Botões Básicos</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>{LButton}</td>
+          <td>Botão esquerdo do mouse.</td>
+        </tr>
+        <tr>
+          <td>{RButton}</td>
+          <td>Botão direito do mouse.</td>
+        </tr>
+        <tr>
+          <td>{MButton}</td>
+          <td>Botão do scroll do mouse.</td>
+        </tr>
+      </table>
+      <h5 id="mouse-advanced">Botões Avançados</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>{XButton1}</td>
+          <td>4º botão do mouse. Normalmente age como <code>retornar</code> em browsers.</td>
+        </tr>
+        <tr>
+          <td>{XButton2}</td>
+          <td>5º botão do mouse. Normalmente age como <code>avançar</code> em browsers.</td>
+        </tr>
+      </table>
+      <h5 id="mouse-wheel">Roda</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>{WheelDown}</td>
+          <td>Gira o scroll para baixo.</td>
+        </tr>
+        <tr>
+          <td>{WheelUp}</td>
+          <td>Gira o scroll para cima.</td>
+        </tr>
+        <tr>
+          <td>{WheelLeft}<br>{WheelRight}</td>
+          <td><p><span class="ver">[v1.0.48+]:</span> Scroll to the left or right.</p>
+          <p>Gira o scroll horizontalmente para esquerda ou direita.</p></td>
+        </tr>
+      </table>
+      <h2 id="keyboard">Teclado</h2>
+      <p class="note"><strong>Nota</strong>: Os nomes das letras e das teclas numéricas são iguais aos da letra ou dígito. Por exemplo: b é <kbd>B</kbd> e 5 é <kbd>5</kbd>.</p>      
+      <h5 id="general">Teclas Básicas</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>CapsLock</td>
+          <td><kbd>CapsLock</kbd></td>
+        </tr>
+        <tr>
+          <td>{Space}</td>
+          <td><kbd>Espaço</kbd></td>
+        </tr>
+        <tr>
+          <td>{Tab}</td>
+          <td><kbd>Tab ↹</kbd></td>
+        </tr>
+        <tr>
+          <td>{Enter}</td>
+          <td><kbd>Enter</kbd></td>
+        </tr>
+        <tr>
+          <td>{Escape} ou {Esc}</td>
+          <td><kbd>Esc</kbd></td>
+        </tr>
+        <tr>
+          <td>{Backspace} ou {BS}</td>
+          <td><kbd>Backspace</kbd></td>
+        </tr>
+      </table>
+      <h5 id="cursor">Teclas de Controle do Cursor</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>{ScrollLock}</td>
+          <td><kbd>ScrollLock</kbd></td>
+        </tr>
+        <tr>
+          <td>{Delete} ou {Del}</td>
+          <td><kbd>Del</kbd></td>
+        </tr>
+        <tr>
+          <td>{Insert} ou {Ins}</td>
+          <td><kbd>Ins</kbd></td>
+        </tr>
+        <tr>
+          <td>{Home}</td>
+          <td><kbd>Home</kbd></td>
+        </tr>
+        <tr>
+          <td>{End}</td>
+          <td><kbd>End</kbd></td>
+        </tr>
+        <tr>
+          <td>{PgUp}</td>
+          <td><kbd>PgUp</kbd></td>
+        </tr>
+        <tr>
+          <td>{PgDn}</td>
+          <td><kbd>PgDn</kbd></td>
+        </tr>
+        <tr>
+          <td>{Up}</td>
+          <td><kbd>&uarr;</kbd> (Seta para cima)</td>
+        </tr>
+        <tr>
+          <td>{Down}</td>
+          <td><kbd>&darr;</kbd> (Seta para baixo)</td>
+        </tr>
+        <tr>
+          <td>{Left}</td>
+          <td><kbd>&larr;</kbd> (Seta para esquerda)</td>
+        </tr>
+        <tr>
+          <td>{Right}</td>
+          <td><kbd>&rarr;</kbd> (Seta para direita)</td>
+        </tr>
+      </table>
+      <h5 id="numpad">Teclado Numérico</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>{Numpad0} / {NumpadIns}</td><td><kbd>0</kbd> / <kbd>Ins</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad1} / {NumpadEnd}</td><td><kbd>1</kbd> / <kbd>End</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad2} / {NumpadDown}</td><td><kbd>2</kbd> / <kbd>&darr;</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad3} / {NumpadPgDn}</td><td><kbd>3</kbd> / <kbd>PgDn</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad4} / {NumpadLeft}</td><td><kbd>4</kbd> / <kbd>&larr;</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad5}</td><td><kbd>5</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad6} / {NumpadRight}</td><td><kbd>6</kbd> / <kbd>&rarr;</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad7} / {NumpadHome}</td><td><kbd>7</kbd> / <kbd>Home</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad8} / {NumpadUp}</td><td><kbd>8</kbd> / <kbd>&uarr;</kbd></td>
+        </tr>
+        <tr>
+          <td>{Numpad9} / {NumpadPgUp}</td><td><kbd>9</kbd> / <kbd>PgUp</kbd></td>
+        </tr>
+        <tr>
+          <td>{NumpadDot} / {NumpadDel}</td><td><kbd>.</kbd> / <kbd>Del</kbd></td>
+        </tr>
+        <tr>
+          <td>{NumLock}</td>
+          <td><kbd>NumLock</kbd></td>
+        </tr>
+        <tr>
+          <td>{NumpadDiv}</td>
+          <td><kbd>/</kbd> (Divisão)</td>
+        </tr>
+        <tr>
+          <td>{NumpadMult}</td>
+          <td><kbd>*</kbd> (Multiplicação)</td>
+        </tr>
+        <tr>
+          <td>{NumpadAdd}</td>
+          <td><kbd>+</kbd> (Adição)</td>
+        </tr>
+        <tr>
+          <td>{NumpadSub}</td>
+          <td><kbd>-</kbd> (Subtração)</td>
+        </tr>
+        <tr>
+          <td>{NumpadEnter}</td>
+          <td><kbd>Enter</kbd></td>
+        </tr>
+      </table>
+      <h5 id="function">Teclas de Funções</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>{F1} a {F24}</td>
+          <td>As 12 ou mais teclas de função na parte superior da maioria dos teclados.</td>
+        </tr>
+      </table>
+      <h5 id="modifier">Teclas Modificadoras</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>{LWin}</td>
+          <td><kbd>Win Esq.</kbd> (Windows Esquerdo)</td>
+        </tr>
+        <tr>
+          <td>{RWin}</td>
+          <td><kbd>Win Dir.</kbd> (Windows Direito)</td>
+        </tr>
+        <tr>
+          <td>{Control} ou {Ctrl}</td>
+          <td><kbd>Ctrl</kbd> (Control)</td>
+        </tr>
+        <tr>
+          <td>{Alt}</td>
+          <td><kbd>Alt</kbd></td>
+        </tr>
+        <tr>
+          <td>{Shift}</td>
+          <td><kbd>Shift</kbd></td>
+        </tr>
+        <tr>
+          <td>{LControl} ou {LCtrl}</td>
+          <td><kbd>Ctrl Esq.</kbd> (Control Esquerdo)</td>
+        </tr>
+        <tr>
+          <td>{RControl} ou {RCtrl}</td>
+          <td><kbd>Ctrl Dir.</kbd> (Control Direito)</td>
+        </tr>
+        <tr>
+          <td>{LShift}</td>
+          <td><kbd>Shift Esq.</kbd> (Shift Esquerdo)</td>
+        </tr>
+        <tr>
+          <td>{RShift}</td>
+          <td><kbd>Shift Esq.</kbd> (Shift Direito)</td>
+        </tr>
+        <tr>
+          <td>{LAlt}</td>
+          <td><kbd>Alt Esq.</kbd> (Alt Esquerdo)</td>
+        </tr>
+        <tr>
+          <td>{RAlt}</td>
+          <td><kbd>Alt Dir.</kbd> (Alt Direito)</td>
+        </tr>
+      </table>
+      
+      <h5 id="other">Outras Teclas</h5>
+      <table class="table table-striped">
+        <tr class="table-dark">
+          <th style="width:12em">Name</th>
+          <th abbr="Descr">Description</th>
+        </tr>
+        <tr>
+          <td>{AppsKey}</td>
+          <td><kbd>Menu</kbd> Menu contextual de clique esquerdo.</td>
+        </tr>
+        <tr>
+          <td>{PrintScreen}</td>
+          <td><kbd>PrtSc</kbd> (Print Screen)</td>
+        </tr>
+        <tr>
+          <td>{CtrlBreak}</td>
+          <td><kbd>Ctrl</kbd>+<kbd>Pause</kbd> ou <kbd>Ctrl</kbd>+<kbd>ScrollLock</kbd></td>
+        </tr>
+        <tr>
+          <td>{Pause}</td>
+          <td><kbd>Pause</kbd> ou <kbd>Ctrl</kbd>+<kbd>NumLock</kbd></td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>

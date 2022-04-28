@@ -1,0 +1,19 @@
+28/04/2022
+	2.1.1.17
+		Melhoria na automação para o Fortes na remoção de caracteres específicos em Valores e Datas.
+		Implatação de algumas melhorias para o windows com idioma em inglês.
+		Adicionado um tempo de espera entre cada tecla no modo {Forçar}.
+		Adicionado Tabela de Receitas da Sefaz-CE no Banco de dados de pesquisa.
+11/04/2022
+	2.1.1.14
+		Atualização de Ramais.
+11/03/2022
+	2.1.1.12
+		Nova Função - Não tratar em Planilhas
+			Não realiza o tratamento da área de transferência, evitando o erro de tamanho de dados diferentes.
+10/03/2022
+	2.1.1.11
+		Nova Função - Controle Explorer
+			É possivel saltar entre pastas paralena no Explorer.
+		Nova Aba - Log
+			Armazena data e informação de updates.

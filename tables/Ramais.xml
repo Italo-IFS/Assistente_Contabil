@@ -40,8 +40,16 @@
 			<Nome>Ana Kelly</Nome>
 		</Ramal>
 		<Ramal>
+			<Telefone>8010</Telefone>
+			<Nome>Maria Vitória</Nome>
+		</Ramal>
+		<Ramal>
 			<Telefone>8011</Telefone>
 			<Nome>Sinara</Nome>
+		</Ramal>
+		<Ramal>
+			<Telefone> -  </Telefone>
+			<Nome>Tamirys</Nome>
 		</Ramal>
 		<Ramal>
 			<Telefone>8012</Telefone>
@@ -100,7 +108,7 @@
 			<Nome>Katia</Nome>
 		</Ramal>
 		<Ramal>
-			<Telefone>8027</Telefone>
+			<Telefone> -  </Telefone>
 			<Nome>Leili</Nome>
 		</Ramal>
 	</Setor>

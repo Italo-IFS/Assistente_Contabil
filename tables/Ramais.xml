@@ -112,12 +112,6 @@
 			<Nome>Leili</Nome>
 		</Ramal>
 	</Setor>
-	<Setor Nome="Marketing">
-		<Ramal>
-			<Telefone>8028</Telefone>
-			<Nome>Edyr</Nome>
-		</Ramal>
-	</Setor>
 	<Setor Nome="Conmax CE">
 		<Ramal>
 			<Telefone>8000</Telefone>

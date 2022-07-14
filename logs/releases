@@ -1,6 +1,10 @@
+14/07/2022
+	2.1.1.24
+		Adicionada função de busca de CEPS no sub-menu Extras.
 08/07/2022
 	2.1.1.23
 		Adicionada função de identificar os dígitos verificadores de um CNPJ.
+		Reorganização de sub-menus.
 06/07/2022
 	2.1.1.21
 		Adicionada opções de filtrar a busca por assunto.

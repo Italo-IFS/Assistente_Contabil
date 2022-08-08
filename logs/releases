@@ -1,58 +1,48 @@
-04/08/2022
-	2.1.1.29
-		Adicionada função de conversão de juros compostos.
-03/08/2022
-	2.1.1.28
-		Atualização da lista de ramais.
-		Correção da memória de cálculo da guia "Multa EFD".
-		Adição da aba "Copiar Conciliação". (Ainda em testes).
-21/07/2022
-	2.1.1.27
-		Correção estética.
-21/07/2022
-	2.1.1.26
-		Aumento de tamanho da janela do asisstente para 700x450.
-		Calculo de Multa EFD.
-		Correção de bugs.
-15/07/2022
-	2.1.1.25
-		A guia Principal agora exibe a página de notícias da Econet.
-14/07/2022
-	2.1.1.24
-		Adicionada função de busca de CEPS no sub-menu Extras.
-08/07/2022
-	2.1.1.23
-		Adicionada função de identificar os dígitos verificadores de um CNPJ.
-		Reorganização de sub-menus.
-06/07/2022
-	2.1.1.21
-		Adicionada opções de filtrar a busca por assunto.
-		Adicionada a opção de remover o "x" sobre as capturas de tela.
-10/06/2022
-	2.1.1.20
-		Adicionado um "x" sobre o botão "Fechar" nas capturas de tela.
-10/06/2022
-	2.1.1.19
-		Adicionado atalhos para as principais funções do assistente no ícone da barra de tarefas.
-05/08/2022
-	2.1.1.18
-		O botão "Fechar" agora esconde o assistente na barra de tarefas.
-28/04/2022
-	2.1.1.17
-		Melhoria na automação para o Fortes na remoção de caracteres específicos em Valores e Datas.
-		Implatação de algumas melhorias para o windows com idioma em inglês.
-		Adicionado um tempo de espera entre cada tecla no modo {Forçar}.
-		Adicionado Tabela de Receitas da Sefaz-CE no Banco de dados de pesquisa.
-11/04/2022
-	2.1.1.14
-		Atualização de Ramais.
-11/03/2022
-	2.1.1.12
-		Nova Função - Não tratar em Planilhas
-			Não realiza o tratamento da área de transferência, evitando o erro de tamanho de dados diferentes.
-10/03/2022
-	2.1.1.11
-		Nova Função - Controle Explorer
-			É possivel saltar entre pastas paralelas no Explorer.
-		Nova Aba - Log
-			Armazena datas e informações de updates.
+XX/XX/XXX - 2.1.1.XX
+   • Correções
+      → Fechamento de capturas de tela mesmo não atigindo o numero máximo de capturas.
+04/08/2022 - 2.1.1.29
+   • Adicionada função de conversão de juros compostos.
+03/08/2022 - 2.1.1.28
+   • Atualização da lista de ramais.
+   • Correção da memória de cálculo da guia "Multa EFD".
+   • Adição da aba "Copiar Conciliação". (Ainda em testes).
+21/07/2022 - 2.1.1.27
+   • Correção estética.
+21/07/2022 - 2.1.1.26
+   • Interface
+      → Aumento de tamanho da janela do asisstente para 700x450.
+   • Correções
+      → Calculo de Multa EFD.
+      → Correção de bugs.
+15/07/2022 - 2.1.1.25
+   • A guia Principal agora exibe a página de notícias da Econet.
+14/07/2022 - 2.1.1.24
+   • Adicionada função de busca de CEPS no sub-menu Extras.
+08/07/2022 - 2.1.1.23
+   • Adicionada função de identificar os dígitos verificadores de um CNPJ.
+   • Reorganização de sub-menus.
+06/07/2022 - 2.1.1.21
+   • Adicionada opções de filtrar a busca por assunto.
+   • Adicionada a opção de remover o "x" sobre as capturas de tela.
+10/06/2022 - 2.1.1.20
+   • Adicionado um "x" sobre o botão "Fechar" nas capturas de tela.
+10/06/2022 - 2.1.1.19
+   • Adicionado atalhos para as principais funções do assistente no ícone da barra de tarefas.
+05/08/2022 - 2.1.1.18
+   • O botão "Fechar" agora esconde o assistente na barra de tarefas.
+28/04/2022 - 2.1.1.17
+   • Melhoria na automação para o Fortes na remoção de caracteres específicos em Valores e Datas.
+   • Implatação de algumas melhorias para o windows com idioma em inglês.
+   • Adicionado um tempo de espera entre cada tecla no modo {Forçar}.
+   • Adicionado Tabela de Receitas da Sefaz-CE no Banco de dados de pesquisa.
+11/04/2022 - 2.1.1.14
+   • Atualização de Ramais.
+11/03/2022 - 2.1.1.12
+   • Nova Função - Não tratar em Planilhas
+      → Não realiza o tratamento da área de transferência, evitando o erro de tamanho de dados diferentes.
+10/03/2022 - 2.1.1.11
+   • Nova Função - Controle Explorer
+      → É possivel saltar entre pastas paralelas no Explorer.
+   • Nova Aba - Log
+      → Armazena datas e informações de updates.

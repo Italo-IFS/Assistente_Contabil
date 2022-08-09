@@ -1,4 +1,10 @@
 XX/XX/XXX - 2.1.1.XX
+   • Novas Funcionalidades
+      → Adição de atalho para a aba de históricos. ([Win]+[H])
+      → Atalho para colar sem simular digitação. ([Ctrl]+[Shift]+[C])
+      → Atalho para colar históricos sem simular digitação. ([Ctrl]+[Shift]+[0-9])
+   • Layout
+      → União na configuração dos atalhos do assistente. (Ramais, Pesquisa e Anotações)
    • Correções
       → Fechamento de capturas de tela mesmo não atigindo o numero máximo de capturas.
 

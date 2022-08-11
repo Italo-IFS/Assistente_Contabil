@@ -1,4 +1,8 @@
 11/08/2022 - 2.1.1.31
+   • Novas Funcionalidades
+      → Adicionada tabela de serviços de São Paulo ao banco de dados de pesquisa.
+   • Layout
+      → Opção de esconder tabela de pesquisa ao clicar no cabeçalho.
    • Correções
       → A tecla [ESC] não fechava mais as capturas.
       
@@ -7,7 +11,7 @@
       → Adição de atalho para a aba de históricos. ([Win]+[H])
       → Atalho para colar sem simular digitação. ([Ctrl]+[Shift]+[C])
       → Atalho para colar históricos sem simular digitação. ([Ctrl]+[Shift]+[0-9])
-      → Adicionada tabela de CNAE de serviços ao banco de dados de pesquisa.
+      → Adicionada tabela de CNAE de serviços de Fortaleza ao banco de dados de pesquisa.
    • Layout
       → União na configuração dos atalhos do assistente. (Ramais, Pesquisa e Anotações)
    • Correções

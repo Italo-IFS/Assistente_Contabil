@@ -1,4 +1,4 @@
-11/08/2022 - 2.1.1.31
+11/08/2022 - 2.1.30.1
    • Novas Funcionalidades
       → Adicionada tabela de serviços de São Paulo ao banco de dados de pesquisa.
    • Layout
@@ -6,7 +6,7 @@
    • Correções
       → A tecla [ESC] não fechava mais as capturas.
       
-11/08/2022 - 2.1.1.30
+11/08/2022 - 2.1.30.0
    • Novas Funcionalidades
       → Adição de atalho para a aba de históricos. ([Win]+[H])
       → Atalho para colar sem simular digitação. ([Ctrl]+[Shift]+[C])
@@ -18,61 +18,61 @@
       → Fechamento de capturas de tela mesmo não atigindo o numero máximo de capturas.
       → O atalho [Ctrl]+[Shift]+[V] agora deve funcionar corretamente, colando sem modificar os dados.
 
-04/08/2022 - 2.1.1.29
+04/08/2022 - 2.1.29.0
    • Adicionada função de conversão de juros compostos.
 
-03/08/2022 - 2.1.1.28
+03/08/2022 - 2.1.28.0
    • Atualização da lista de ramais.
    • Correção da memória de cálculo da guia "Multa EFD".
    • Adição da aba "Copiar Conciliação". (Ainda em testes).
 
-21/07/2022 - 2.1.1.27
+21/07/2022 - 2.1.27.0
    • Correção estética.
 
-21/07/2022 - 2.1.1.26
+21/07/2022 - 2.1.26.0
    • Interface
       → Aumento de tamanho da janela do asisstente para 700x450.
    • Correções
       → Calculo de Multa EFD.
       → Correção de bugs.
 
-15/07/2022 - 2.1.1.25
+15/07/2022 - 2.1.25.0
    • A guia Principal agora exibe a página de notícias da Econet.
 
-14/07/2022 - 2.1.1.24
+14/07/2022 - 2.1.24.0
    • Adicionada função de busca de CEPS no sub-menu Extras.
 
-08/07/2022 - 2.1.1.23
+08/07/2022 - 2.1.23.0
    • Adicionada função de identificar os dígitos verificadores de um CNPJ.
    • Reorganização de sub-menus.
 
-06/07/2022 - 2.1.1.21
+06/07/2022 - 2.1.21.0
    • Adicionada opções de filtrar a busca por assunto.
    • Adicionada a opção de remover o "x" sobre as capturas de tela.
 
-10/06/2022 - 2.1.1.20
+10/06/2022 - 2.1.20.0
    • Adicionado um "x" sobre o botão "Fechar" nas capturas de tela.
 
-10/06/2022 - 2.1.1.19
+10/06/2022 - 2.1.19.0
    • Adicionado atalhos para as principais funções do assistente no ícone da barra de tarefas.
 
-05/08/2022 - 2.1.1.18
+05/08/2022 - 2.1.18.0
    • O botão "Fechar" agora esconde o assistente na barra de tarefas.
 
-28/04/2022 - 2.1.1.17
+28/04/2022 - 2.1.17.0
    • Melhoria na automação para o Fortes na remoção de caracteres específicos em Valores e Datas.
    • Implatação de algumas melhorias para o windows com idioma em inglês.
    • Adicionado um tempo de espera entre cada tecla no modo {Forçar}.
    • Adicionado Tabela de Receitas da Sefaz-CE no Banco de dados de pesquisa.
 
-11/04/2022 - 2.1.1.14
+11/04/2022 - 2.1.14.0
    • Atualização de Ramais.
 
-11/03/2022 - 2.1.1.12
+11/03/2022 - 2.1.12.0
    • Nova Função - Não tratar em Planilhas
       → Não realiza o tratamento da área de transferência, evitando o erro de tamanho de dados diferentes.
 
-10/03/2022 - 2.1.1.11
+10/03/2022 - 2.1.11.0
    • Nova Função - Controle Explorer
       → É possivel saltar entre pastas paralelas no Explorer.
    • Nova Aba - Log

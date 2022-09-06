@@ -1,1203 +1,1204 @@
-713;016100101;Serviço de Pulverização e Controle de Pragas Agrícolas
-711;016100201;Serviço de Poda de árvores Para Lavouras
-714;016100301;Serviço de Preparação de Terreno, Cultivo e Colheita
-714;016109901;Locação de Maquinas Agrícolas com Operador
-1705;016109902;Serviços de Contratantes de Mao-de-obra Para a Agricultura
-714;016109903;Exploração de Sistemas de Irrigação
-1701;016109999;Atividades de Apoio à Agricultura Não Especificadas Anteriormente
-504;016280101;Serviço de Inseminação Artificial em Animais
-508;016280201;Serviço de Tosquiamento de Ovinos
-508;016280301;Serviço de Manejo de Animais
-508;016289901;Serviço de Alojamento do Gado de Curta Duração
-508;016289902;Serviço de Classificação de Pintos
-710;016289903;Serviço de Limpeza de Banheiros Carrapaticidas e Sarnicidas e De Galinheiros
-1705;016289904;Contratantes de Mao-de-obra Para o Setor Pecuário
-1701;016289905;Classificação de Produtos de Origem Animal
-1701;016289906;Serviço de Apanha de Frangos
-1701;016289907;Serviço de Catação de Frangos
-1705;016289908;Serviço de Gato, Empreiteiro de Mão-de-obra Pecuária
-1705;016289909;Empregadores de Mão-de-obra Para a Pecuária
-1701;016289910;Serviço de Padronização de Ovos de Galinha
-1701;016289911;Serviço de Sexagem de Pintos
-1701;016289999;Atividades de Apoio à Pecuaria Nao Especificadas Anteriormente
-1405;016360001;Atividades de Pós-colheita
-714;021010702;Reflorestamento com Abate de Arvores
-709;021019901;Produção de Produtos Não-madeireiros Não Especificados Anteriormente em Florestas Plantadas
-2601;022090301;Coleta de Castanha-do-pará em Florestas Nativas
-2601;022090401;Coleta de Látex em Florestas Nativas
-2601;022090501;Coleta de Palmito em Florestas Nativas
-714;022090601;Conservação de Florestas Nativas
-2601;022099901;Coleta de Produtos Não-madeireiros Não Especificados Anteriormente em Florestas Nativas
-2801;023060001;Avaliação de Massas Florestais em Pe
-2801;023060002;Estimativa de Valor de Madeira
-714;023060003;Preparação da Terra Para Cultivo de Especies Florestais
-714;023060004;Semeaduras e Plantio de Mudas de Especies Florestais
-712;023060005;Controle e Tratamento de Agentes Fisicos, Quimicos e Biologicos em Areas de Florestamento e Reflorestamento
-1405;023060006;Serviço de Abate e Derrubada de Arvores
-1603;023060007;Serviço de Transporte de Toras Somente No Local de Derrubada das árvores
-1603;023060007;Serviço de Transporte de Toras Somente No Local de Derrubada das árvores
-1104;023060008;Serviço de Descarregamento de Madeira
-1701;023060009;Serviço de Consultoria Técnica de Administração Florestal
-714;023060010;Serviço de Repovoamento Florestal - Replantio de Espécies Florestais, Inclusive em Encostas, em Margens de Rios e De Lagos
-1701;023060011;Serviço de Inventário Florestal
-713;023060012;Serviço de Controle de Pragas Florestais
-1701;023060013;Serviço de Inspeção Aérea de Repovoamentos Florestais
-1102;023060014;Serviço de Extinção de Incêndio e Proteção Florestal
-1701;023060099;Serviço de Apoio à Produção Florestal Não Especificado Anteriormente
-1701;031160401;Atividades de Apoio à Pesca em água Salgada
-1701;031240401;Atividades de Apoio à Pesca em água Doce
-1701;032130501;Atividades de Apoio à Aqüicultura em água Salgada e Salobra
-1701;032210701;Atividades de Apoio à Aqüicultura em água Doce
-1405;050030201;Beneficiamento de Carvão Mineral
-1405;060000202;Beneficiamento de Xisto
-1405;060000302;Beneficiamento de Areias Betuminosas
-1405;071030201;Pelotização, Sinterização e Outros Beneficiamentos de Minério de Ferro
-1405;072190201;Beneficiamento de Minério de Alumínio
-1405;072270201;Beneficiamento de Minério de Estanho
-1405;072350201;Beneficiamento de Minério de Manganês
-1405;072430201;Beneficiamento de Minério de Metais Preciosos
-1405;072510002;Beneficiamento de Minerais Radioativos
-1405;072940102;Beneficiamento de Minerios de Niobio e Titânio Não Associado a Extração
-1405;072940202;Beneficiamento de Minerio de Tungstenio Não Associado a Extração
-1405;072940302;Beneficiamento de Minerio de Niquel Não Associado a Extração
-1405;072940501;Beneficiamento de Minérios de Cobre, Chumbo, Zinco e Outros Minerais Metálicos Não-ferrosos Não Especificados Anteriormente
-1405;081000102;Beneficiamento de Extração de Ardósia
-1405;081000202;Beneficiamento de Granito
-1405;081000302;Beneficiamento de Mármore
-1405;081000402;Beneficiamento de Calcário e Dolomita
-1405;081000602;Beneficiamento de Areia, Cascalho Ou Pedregulho
-1405;081000702;Beneficiamento de Argila
-1405;081000802;Beneficiamento de Saibro
-1405;081000902;Extração de Basalto e Beneficiamento Associado
-1405;081001001;Beneficiamento de Gesso e Caulim Associado à Extração
-1405;081009902;Britamento de Pedras e Beneficiamento de Outros Materiais Para Construção
-1405;089320002;Beneficiamento de Gemas
-1405;089910102;Beneficiamento de Grafita
-1405;089919902;Beneficiamento de Outros Minerais Não-metalicos Nao Especificados Anteriormente
-719;091060001;Atividades de Apoio à Extração de Petroleo e Gas Natural
-1405;091060002;Serviços de Liquefação e Regaseificação de Gas Natural, Na Mina, Para Transporte
-719;091060003;Serviços Relacionados com A Extração de Petróleo e Gas Natural, Realizado Por Terceiros, Exceto a Prospecção
-719;099040101;Atividades de Apoio à Extração de Minério de Ferro
-719;099040201;Atividades de Apoio à Extração de Minerais Metálicos Não-ferrosos
-719;099040301;Atividades de Apoio à Extração de Minerais Não-metálicos
-1405;101120102;Secagem e Salga de Couros e Peles de Bovinos
-1405;101120202;Secagem e Salga de Couros e Peles de Equinos
-1405;101120302;Serviço de Couro de Ovinos e Caprinos, Secagem e Salga
-1405;101120402;Serviço de Secagem e Salga de Couro de Bufalinos
-1405;101120501;Matadouro - Abate de Reses Sob Contrato, Exceto Abate de Suínos
-1405;101210302;Salga de Couros e Peles de Suinos (porcos)
-1405;101210401;Matadouro - Abate de Suínos Sob Contrato
-1405;103170002;Beneficiamento de Castanha-de-caju e De Castanha-do-para
-1405;104220002;Refino de óleos Vegetais Comestiveis e Nao Comestiveis(exceto de Milho)
-1405;105110002;Beneficiamento de Leite
-1405;106190101;Beneficiamento de Arroz
-1405;106940002;Beneficiamento de Cevada em Grao e Sagu
-1405;108130101;Beneficiamento de Café
-1405;109960502;Beneficiamento de Cha de Ervas Diversas
-1405;109969901;Beneficiamento de Guarana (em Bastao, em Pó, Etc)
-1405;121070001;Processamento Industrial do Fumo
-1405;131110002;Beneficiamento Realizado em Estabelecimento Nao Agricola de Algodao (algodao Cardado, Penteado, Etc.)
-1405;131200002;Beneficiamento de Fibras
-1405;134050101;Estamparia e Texturização em Fios, Tecidos, Artefatos Têxteis e Peças do Vestuário
-1405;134050201;Alvejamento, Tingimento e Torção em Fios, Tecidos, Artefatos Têxteis e Peças do Vestuário
-1405;134059901;Outros Serviços de Acabamento em Fios, Tecidos, Artefatos Têxteis e Peças do Vestuário
-1409;135110003;Confecção de Artefatos de Tecidos Para Uso Domestico, Quando Nao Integrada a Tecelagem, Para Usuário Final com Material Por Ele Fornecido
-1409;141180201;Facção de Roupas íntimas
-1409;141260101;Confecção de Peças do Vestuario, Exceto Roupas Intimas e As Confeccionadas Sob Medida
-1409;141260102;Atelier de Costura
-1409;141260201;Confecção, Sob Medida, de Peças do Vestuário, Exceto Roupas íntimas
-1409;141260301;Facção de Peças do Vestuário, Exceto Roupas íntimas
-1409;141340201;Confecção, Sob Medida, de Roupas Profissionais
-1409;141340301;Facção de Roupas Profissionais
-1405;153190201;Acabamento de Calçados de Couro Sob Contrato
-1405;161020102;Secagem, Preservação e Imunização da Madeira Serrada
-1405;161020201;Secagem, Preservação e Imunização da Madeira Resserrada
-1405;161020202;Beneficiamento de Madeira (serrada, Resserrada, Etc.)
-1405;161020302;Secagem, Preservação e Imunização da Madeira Serrada
-1405;161020402;Secagem, Preservação e Imunização da Madeira Resserrada
-1405;161020501;Serviço de Tratamento de Madeira Realizado Sob Contrato
-1413;162269902;Serviço de Carpintaria
-1304;181130101;Impressão de Jornais
-1304;181130101;Impressão de Jornais
-1304;181130101;Impressão de Jornais
-1304;181130201;Impressão de Livros, Revistas e Outras Publicações Periódicas
-1304;181130201;Impressão de Livros, Revistas e Outras Publicações Periódicas
-1304;181130201;Impressão de Livros, Revistas e Outras Publicações Periódicas
-1304;181210001;Impressão de Material de Segurança
-1304;181210001;Impressão de Material de Segurança
-1304;181210001;Impressão de Material de Segurança
-1304;181300101;Impressão de Material Para Uso Publicitário
-1304;181300101;Impressão de Material Para Uso Publicitário
-1304;181300101;Impressão de Material Para Uso Publicitário
-2401;181300102;Impressão de Banners e Adesivos
-1304;181309901;Impressão de Material Para Outros Usos
-1304;181309901;Impressão de Material Para Outros Usos
-1304;181309901;Impressão de Material Para Outros Usos
-1304;182110001;Serviços de Pre-impressao de Livros, Jornais, Revistas e Outros Periódicos
-1304;182110001;Serviços de Pre-impressao de Livros, Jornais, Revistas e Outros Periódicos
-1304;182110001;Serviços de Pre-impressao de Livros, Jornais, Revistas e Outros Periódicos
-1304;182110099;Serviços de Pre-impressao, Exceto de Livros, Jornais, Revistas e Outros Periódicos
-1304;182110099;Serviços de Pre-impressao, Exceto de Livros, Jornais, Revistas e Outros Periódicos
-1304;182110099;Serviços de Pre-impressao, Exceto de Livros, Jornais, Revistas e Outros Periódicos
-1408;182290101;Servicos de Encadernacao e Plastificacao
-1405;182299901;Serviços de Acabamentos Gráficos de Objetos Diversos de Livros, Jornais, Revistas e Outros Periódicos, Exceto Encadernação e Plastificação.
-1405;182299902;Serviços de Acabamentos Gráficos,  de Livros, Jornais, Revistas e Outros Periódicos, Exceto Encadernação e Plastificação
-1301;183000101;Reprodução de Som em Qualquer Suporte
-1302;183000201;Reprodução de Vídeo em Qualquer Suporte
-1408;183000301;Reprodução de Software em Qualquer Suporte
-1404;221290001;Reforma de Pneumaticos Usados
-1404;221290002;Serviço de Pneus (recondicionamento, Recauchutagem, Recapagem Ou Remoldagem)
-1405;221960001;Beneficiamento de Borracha Natural e Sintetica
-1405;222939901;Beneficiamentos de Material Plastico, Tingimento, Pigmentação e Outros
-702;233030501;Preparação de Massa de Concreto e Argamassa Para Construção
-1405;239150101;Britamento de Pedras, Exceto Associado à Extração
-1405;239150201;Aparelhamento de Pedras Para Construção, Exceto Associado à Extração
-1405;239150301;Aparelhamento de Placas e Execução de Trabalhos em Mármore, Granito, Ardósia e Outras Pedras
-1405;239230002;Beneficiamento de Gesso Ou Gipsita
-1405;239910101;Decoração, Lapidação, Gravação, Vitrificação e Outros Trabalhos em Cerâmica, Louça, Vidro e Cristal
-1405;239919902;Serviço de Beneficiamento de Minerais Nao-metalicos Nao Associado a Extração
-1405;245120002;Serviço de Fundição de Metais Ferrosos
-1405;245210002;Serviço de Fundição de Metais Não-ferrosos e Suas Ligas
-1413;251100002;Fabricação de Estruturas Metalicas Sob Encomenda
-1413;251280002;Fabricação de Esquadrias de Metal Sob Encoenda (portoes, Marcos Ou Batentes, Grades, Basculantes, Portas, Janelas Etc.), Exceto de Alumínio
-1413;251280004;Fabricação de Esquadrias de Alumínio Sob Encomenda (portas, Grades, Portões, Basculantes e Semelhantes)
-1405;253220102;Serviço de Estamparia de Metais
-1405;253900101;Serviços de Usinagem, Tornearia e Solda
-1405;253900201;Serviços de Tratamento e Revestimento em Metais, , Exceto Térmico e Químico
-1405;253900202;Serviços de Tratamento Térmico e Químico de Metais  (têmpera, Recozimento, Cementação)
-1405;253900203;Serviço de Pintura em Produtos Metálicos
-1405;253902003;Serviço de Pintura Industrial
-1413;254200001;Fabricação de Artigos de Serralheria, Exceto Esquadrias
-1413;254200002;Serralheria (exceto Esquadrias)
-1405;254380002;Serviços de Ferramentaria
-1413;259930101;Serviços de Confecção de Armações Metálicas Para a Construção
-1405;259930201;Serviço de Corte e Dobra de Metais
-1405;259939902;Britamento, Lavagem, Peneiração e Outros Beneficiamentos de Escorias Ou de Outros Residuos Metalurgicos
-1406;261080002;Montagem de Circuitos Eletrônicos Para Terceiros
-1406;265230002;Serviço de Montagem de Cronômetros e Relógios
-1405;272280201;Recondicionamento de Baterias e Acumuladores Para Veículos Automotores
-1401;293010302;Serviço de Blindagem de Veiculos Automotores
-1403;295060001;Recondicionamento e Recuperação de Motores Para Veículos Automotores
-3901;321160101;Lapidação de Gemas
-414;325070601;Serviços de Prótese Dentária
-3901;325070901;Serviço de Laboratório óptico
-1405;329909901;Beneficiamento de Algas Marinhas
-9905;329909902;Serviço de Taxidermia
-1401;331120001;Manutenção e Reparação de Tanques, Reservatórios Metálicos e Caldeiras, Exceto Para Veículos
-1401;331210201;Manutenção e Reparação de Aparelhos e Instrumentos de Medida, Teste e Controle
-1401;331210301;Manutenção e Reparação de Aparelhos Eletromédicos e Eletroterapêuticos e Equipamentos de Irradiação
-1401;331210401;Manutenção e Reparação de Equipamentos e Instrumentos ópticos
-1401;331390101;Manutenção e Reparação de Geradores, Transformadores e Motores Elétricos
-1401;331390201;Manutenção e Reparação de Baterias e Acumuladores Elétricos, Exceto Para Veículos
-1401;331399901;Manutenção e Reparação de Máquinas, Aparelhos e Materiais Elétricos Não Especificados Anteriormente
-1401;331470101;Manutenção e Reparação de Máquinas Motrizes Não-elétricas
-1401;331470201;Manutenção e Reparação de Equipamentos Hidráulicos e Pneumáticos, Exceto Válvulas
-1401;331470301;Manutenção e Reparação de Válvulas Industriais
-1401;331470401;Manutenção e Reparação de Compressores
-1401;331470501;Manutenção e Reparação de Equipamentos de Transmissão Para Fins Industriais
-1401;331470601;Manutenção e Reparação de Máquinas, Aparelhos e Equipamentos Para Instalações Térmicas
-1401;331470701;Manutenção e Reparação de Máquinas e Aparelhos de Refrigeração e Ventilação Para Uso Industrial e Comercial
-1401;331470801;Manutenção e Reparação de Máquinas, Equipamentos e Aparelhos Para Transporte e Elevação de Cargas
-1401;331470901;Manutenção e Reparação de Máquinas de Escrever, Calcular e De Outros Equipamentos Não-eletrônicos Para Escritório
-1401;331471001;Manutenção e Reparação de Máquinas e Equipamentos Para Uso Geral Não Especificados Anteriormente
-1401;331471101;Manutenção e Reparação de Máquinas e Equipamentos Para Agricultura e Pecuária
-1401;331471201;Manutenção e Reparação de Tratores Agrícolas
-1401;331471301;Manutenção e Reparação de Máquinas-ferramenta
-1401;331471401;Manutenção e Reparação de Máquinas e Equipamentos Para a Prospecção e Extração de Petróleo
-1401;331471501;Manutenção e Reparação de Máquinas e Equipamentos Para Uso Na Extração Mineral, Exceto Na Extração de Petróleo
-1401;331471601;Manutenção e Reparação de Tratores, Exceto Agrícolas
-1401;331471701;Manutenção e Reparação de Máquinas e Equipamentos de Terraplenagem, Pavimentação e Construção, Exceto Tratores
-1401;331471801;Manutenção e Reparação de Máquinas Para a Indústria Metalúrgica, Exceto Máquinas-ferramenta
-1401;331471901;Manutenção e Reparação de Máquinas e Equipamentos Para As Indústrias de Alimentos, Bebidas e Fumo
-1401;331472001;Manutenção e Reparação de Máquinas e Equipamentos Para a Indústria Têxtil, do Vestuário, do Couro e Calçados
-1401;331472101;Manutenção e Reparação de Máquinas e Aparelhos Para a Indústria de Celulose, Papel e Papelão e Artefatos
-1401;331472201;Manutenção e Reparação de Máquinas e Aparelhos Para a Indústria do Plástico
-1401;331479901;Manutenção e Reparação de Outras Máquinas e Equipamentos Para Usos Industriais Não Especificados Anteriormente
-1401;331550001;Manutenção e Reparação de Veículos Ferroviários
-1401;331630101;Manutenção e Reparação de Aeronaves, Exceto a Manutenção Na Pista
-1401;331630201;Manutenção de Aeronaves Na Pista
-1401;331710101;Manutenção e Reparação de Embarcações e Estruturas Flutuantes
-1401;331710201;Manutenção e Reparação de Embarcações Para Esporte e Lazer
-1401;331980001;Manutenção e Reparação de Equipamentos e Produtos Não Especificados Anteriormente
-1402;331980002;Manutenção e Reparação de Instrumentos Não-eletrônicos Para Uso Médico-hospitalar, Executada Por Unidade Especializada
-1406;332100001;Instalação de Máquinas e Equipamentos Industriais
-1406;332100002;Instalação e Integração de Sistemas de Automação Industrial
-1406;332950101;Serviços de Montagem de Móveis de Qualquer Material
-1406;332959901;Instalação de Outros Equipamentos Não Especificados Anteriormente
-1703;351150201;Atividades de Coordenação e Controle da Operação da Geração e Transmissão de Energia Elétrica
-1711;351230001;Transmissão de Energia Elétrica
-1005;351310002;Corretagem, Intermediação e Agentes (agenciamento) de Energia Eletrica Produzida Por Terceiros
-1010;351400001;Distribuição de Energia Elétrica
-1010;352040201;Distribuição de Combustiveis Gasosos Por Redes Urbanas
-1005;352040202;Atividades de Corretores Ou Agentes de Gas Que Organizam a Venda de Gas Atraves de Sistemas de Distribuição Operados Sob Contrato
-9906;353010002;Serviço de Suprimento de Ar Condicionado
-9902;360060101;Captação, Tratamento e Distribuição de água
-1603;360060201;Distribuição de água Por Caminhões
-1603;360060201;Distribuição de água Por Caminhões
-1711;370110001;Gestão de Redes de Esgoto
-710;370290001;Atividades Relacionadas a Esgoto, Exceto a Gestão de Redes
-9901;370290002;Saneamento Ambiental, Inclusive Purificação, Tratamento, Esgotamento Sanitário e Congêneres
-709;370290003;Esvaziamento e Limpeza de Tanques de Infiltração e Fossas Sépticas, Sumidouros e Poços de Esgoto
-709;381140001;Coleta de Resíduos Não-perigosos
-709;381220001;Coleta de Resíduos Perigosos
-709;382110001;Tratamento e Disposição de Resíduos Não-perigosos
-709;382200001;Tratamento e Disposição de Resíduos Perigosos
-1405;383190101;Recuperação de Sucatas de Alumínio
-1405;383199901;Recuperação de Materiais Metálicos, Exceto Alumínio
-1405;383270001;Recuperação de Materiais Plásticos
-1405;383940101;Usinas de Compostagem
-1405;383949901;Recuperação de Materiais Não Especificados Anteriormente
-712;390050001;Descontaminação e Outros Serviços de Gestão de Resíduos
-702;412040001;Construção de Edificios
-705;412040002;Reformas em Apartamentos, Casas, Conjuntos Habitacionais, Predios, Edificios, Edificaçoes, Condominios, Residencias, Etc.
-702;421110101;Construção de Rodovias e Ferrovias
-705;421110102;Manutenção de Rodovias e Ferrovias
-2401;421110201;Pintura Para Sinalização em Pistas Rodoviárias e Aeroportos
-702;421200001;Construção de Obras-de-arte Especiais
-705;421200002;Manutenção de Obras-de-arte Especiais
-702;421380001;Obras de Urbanizacao  Ruas, Pracas e Calcadas
-705;421380002;Reforma de Ruas, Praças e Calçadas
-702;422190101;Construção de Barragens e Represas Para Geração de Energia Elétrica
-702;422190201;Construção de Estações e Redes de Distribuição de Energia Elétrica
-710;422190301;Manutenção de Redes de Distribuição de Energia Elétrica
-702;422190401;Construção de Estações e Redes de Telecomunicações
-710;422190501;Manutenção de Estações e Redes de Telecomunicações
-702;422270101;Construção de Redes de Abastecimento de água, Coleta de Esgoto e Construções Correlatas, Exceto Obras de Irrigação
-702;422270201;Obras de Irrigação
-702;422350001;Construção de Redes de Transportes Por Dutos, Exceto Para água e Esgoto
-702;429100001;Obras Portuarias, Maritimas e Fluviais
-716;429100002;Limpeza de Rios, Portos, Canais, Baias, Lagos, Lagoas, Represas, Açudes e Similares (obras de Dragagem)
-702;429280101;Montagem de Estruturas Metalicas
-1413;429280102;Serviço de Soldagem Para Construção Civil
-702;429280201;Obras de Montagem Industrial
-702;429950101;Construção de Instalaçoes Esportivas e Recreativas
-705;429950102;Manutenção de Instalaçoes Esportivas (exceto Edificaçoes)
-702;429959901;Obras de Açudes
-715;429959902;Obras de Contenção de Encostas
-702;429959999;Outras Obras de Engenharia Civil Nao Especificadas Anteriormente
-704;431180101;Demolição de Edifícios e Outras Estruturas
-710;431180201;Preparação de Canteiro e Limpeza de Terreno
-702;431260001;Perfurações e Sondagens
-702;431340001;Obras de Terraplenagem
-702;431930001;Serviços de Preparação do Terreno Não Especificados Anteriormente
-702;432150001;Instalação Eletrica
-710;432150002;Manutenção Eletrica
-702;432150003;Obras de Instalações Elétricas em Edificações
-702;432230101;Instalações Hidráulicas, Sanitárias e De Gás
-1402;432230102;Serviços de Reparo de Rede Para Distribuição de Gases Fluidos e Diversos
-1401;432230103;Serviços de Instalação, Alteração e Manutenção de Rede Para Distribuição de Gases Fluidos e Diversos
-1401;432230104;Instalações Hidráulicas, Sanitárias e De Gás (reparação Ou Manutenção)
-702;432230201;Instalação de Sistemas Centrais de Ar Condicionado, de Ventilação e Refrigeração
-1401;432230202;Manutenção de Sistemas Centrais de Ar Condicionado, de Ventilação e Refrigeração
-1406;432230203;Instalação de Equipamento de Ar Condicionado
-702;432230301;Instalaçoes de Sistema de Prevenção Contra Incendio
-1401;432230302;Manutenção de Sistemas de Alarme Contra Incendio
-702;432910101;Instalação de Paineis Publicitarios
-1401;432910102;Reparação Ou Manutenção de Anuncios Luminosos Ou Nao
-1406;432910103;Instalação e Montagem de Placas Ou Painéis em Veículos Automotores e Similares
-1406;432910201;Instalação de Equipamentos Para Orientação à Navegação Marítima, Fluvial e Lacustre
-702;432910301;Instalação de Elevadores, Escadas e Esteiras Rolantes
-1401;432910302;Manutenção e Reparação de Elevadores, Escadas e Esteiras Rolantes
-702;432910401;Montagem e Instalação de Sistemas e Equipamentos de Iluminação e Sinalização em Vias Publicas, Portos e Aeroportos
-1401;432910402;Manutenção de Rede de Iluminação Publica e Sinais Luminosos (semaforos)
-702;432910501;Tratamentos Térmicos, Acústicos Ou de Vibração
-702;432919901;Montagem de Estruturas de Madeiras
-702;432919999;Outras Obras de Instalaçoes em Construçoes Nao Especificadas Anteriormente
-702;433040101;Impermeabilização em Obras de Engenharia Civil
-706;433040201;Instalação de Portas, Janelas, Tetos, Divisorias e Armarios Embutidos de Qualquer Material
-1413;433040202;Execução de Trabalhos de Carpintaria em Obras, Residencias, Lojas e Etc. Quando Nao Realizada Pelo Próprio Fabricante
-702;433040301;Obras de Acabamento em Gesso e Estuque
-705;433040401;Serviços de Pintura de Edifícios em Geral
-706;433040501;Aplicação de Revestimentos e De Resinas em Interiores e Exteriores
-708;433040502;Serviços de Calafetagem
-706;433040503;Colocação de Papeis de Parede
-707;433040504;Serviços de Raspagem, Polimento e Aplicação de Resinas em Pisos, Paredes e Tetos
-706;433040505;Colocação de Tacos, Carpetes e Outros Materiais de Revestimento de Pisos
-702;433049901;Outras Obras de Acabamento da Construção
-706;433049902;Instalação de Balcoes,equipamentos Para Lojas Comerciais, Toldos, Persianas (por Conta de Terceiros)
-706;433049903;Serviços de Texturização em Paredes
-705;433049904;Tratamento de Trincas e Fissuras em Paredes
-706;433049905;Instalação de Espelhos Por Conta de Terceiros
-710;433049906;Serviços de Manutenção e Conservação de Imóveis
-702;439160001;Obras de Fundaçoes
-9903;439160002;Locação de Bate-estacas e Equipamentos de Perfuração
-702;439160003;Locação de Bate-estacas e Equipamentos de Perfuração com Operador
-1711;439910101;Administração de Obras Sem Responsabilidade Técnica
-702;439910102;Administração de Obras com Responsabilidade Técnica
-1406;439910201;Montagem e Desmontagem de Andaimes e Outras Estruturas Temporárias
-702;439910301;Obras de Alvenaria
-304;439910401;Serviços de Operação e Fornecimento de Equipamentos Para Transporte e Elevação de Cargas e Pessoas Para Uso em Obras
-702;439910501;Perfuração e Construção de Poços de água
-702;439919901;Construção de Plantas Industriais (infra-estrutura)
-702;439919902;Serviços de Concretagem
-710;439919903;Serviços de Limpeza de Fachadas com Jateamento de Areia, Vapor, Agua Ou Semelhantes
-702;439919999;Serviços Especializados Para Construção Nao Especificados Anteriormente
-1009;451290101;Representantes Comerciais e Agentes do Comercio de Veiculos Automotores
-1005;451290102;Intermediarios Na Venda de Veiculos Automotores, Atacadista e Varejista
-1005;451290202;Corretora de Veiculos (em Consignação)
-1401;452000101;Serviços de Manutenção e Reparação Mecânica de Veículos Automotores
-1412;452000201;Serviços de Lanternagem Ou Funilaria e Pintura de Veículos Automotores
-1401;452000301;Serviços de Manutenção e Reparação Elétrica de Veículos Automotores
-1401;452000401;Serviços de Alinhamento e Balanceamento de Veículos Automotores
-1401;452000501;Serviços de Lavagem, Lubrificação e Polimento de Veículos Automotores, Exceto Lavagem a Seco
-1401;452000502;Serviços de Lavagem Automotiva a Seco
-1401;452000601;Serviços de Borracharia Para Veículos Automotores
-1401;452000701;Serviços de Manutenção e Reparação de Acessorios Para Veiculos Automotores
-1406;452000702;Serviços de Instalação de Acessórios Para Veiculos Automotores
-1411;452000703;Serviços de Capotaria
-1411;452000801;Serviços de Capotaria
-1009;453070601;Representantes Comerciais e Agentes do Comércio de Peças e Acessórios Novos e Usados Para Veículos Automotores
-1009;454210101;Representantes Comerciais e Agentes do Comércio de Motocicletas e Motonetas, Peças e Acessórios
-1401;454390001;Manutenção e Reparação de Motocicletas e Motonetas
-1009;461170001;Representantes Comerciais e Agentes do Comércio de Matérias-primas Agrícolas e Animais Vivos
-1009;461250001;Representantes Comerciais e Agentes do Comércio de Combustíveis, Minerais, Produtos Siderúrgicos e Químicos
-1009;461330001;Representantes Comerciais e Agentes do Comércio de Madeira, Material de Construção e Ferragens
-1009;461410001;Representantes Comerciais e Agentes do Comércio de Máquinas, Equipamentos, Embarcações e Aeronaves
-1009;461500001;Representantes Comerciais e Agentes do Comércio de Eletrodomésticos, Móveis e Artigos de Uso Doméstico
-1009;461680001;Representantes Comerciais e Agentes do Comércio de Têxteis, Vestuário, Calçados e Artigos de Viagem
-1009;461760001;Representantes Comerciais e Agentes do Comércio de Produtos Alimentícios, Bebidas e Fumo
-1009;461840101;Representantes Comerciais e Agentes do Comércio de Medicamentos, Cosméticos e Produtos de Perfumaria
-1009;461840201;Representantes Comerciais e Agentes do Comércio de Instrumentos e Materiais Odonto-médico-hospitalares
-1009;461840301;Representantes Comerciais e Agentes do Comércio de Jornais, Revistas e Outras Publicações
-1009;461849901;Outros Representantes Comerciais e Agentes do Comércio Especializado em Produtos Não Especificados Anteriormente
-1009;461920001;Representantes Comerciais e Agentes do Comércio de Mercadorias em Geral Não Especializado
-1405;464430102;Serviços de Fracionamento e Envasamento de Produtos Farmaceuticos de Uso Humano Próprios
-1405;464430202;Serviços de Fracionamento e Envasamento de Produtos Farmaceuticos de Uso Veterinario Próprios
-1405;464430203;Serviços de Liquefação de Gas Para Fins de Transporte em Veiculos Dutos Moveis
-1401;475120102;Recarga de Cartuchos Para Equipamentos de Informatica
-1401;475120201;Recarga de Cartuchos Para Equipamentos de Informática
-407;477170201;Comércio Varejista de Produtos Farmacêuticos, com Manipulação de Fórmulas
-1407;478909913;Colocação de Molduras e Congeneres
-1601;491240201;Transporte Ferroviário de Passageiros Municipal e Em Região Metropolitana
-1601;491240201;Transporte Ferroviário de Passageiros Municipal e Em Região Metropolitana
-1601;491240201;Transporte Ferroviário de Passageiros Municipal e Em Região Metropolitana
-1601;491240201;Transporte Ferroviário de Passageiros Municipal e Em Região Metropolitana
-1601;491240301;Transporte Metroviário
-1601;491240301;Transporte Metroviário
-1601;491240301;Transporte Metroviário
-1601;491240301;Transporte Metroviário
-1601;492130101;Transporte Rodoviario Coletivo de Passageiros, com Itinerario Fixo, Municipal
-1601;492130101;Transporte Rodoviario Coletivo de Passageiros, com Itinerario Fixo, Municipal
-1601;492130101;Transporte Rodoviario Coletivo de Passageiros, com Itinerario Fixo, Municipal
-1601;492130101;Transporte Rodoviario Coletivo de Passageiros, com Itinerario Fixo, Municipal
-1601;492130102;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Principal
-1601;492130102;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Principal
-1601;492130102;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Principal
-1601;492130102;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Principal
-1602;492130103;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Fisica
-1602;492130103;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Fisica
-1602;492130103;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Fisica
-1602;492130104;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Juridica
-1602;492130104;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Juridica
-1602;492130104;Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Juridica
-1603;492300101;Serviço de Taxi
-1603;492300101;Serviço de Taxi
-1603;492300102;Serviço de Moto Taxi
-1603;492300102;Serviço de Moto Taxi
-1603;492300201;Serviço de Transporte de Passageiros - Locação de Automóveis com Motorista
-1603;492300201;Serviço de Transporte de Passageiros - Locação de Automóveis com Motorista
-1603;492480001;Transporte Escolar
-1603;492480001;Transporte Escolar
-1603;492990101;Transporte Rodoviário Coletivo de Passageiros, Sob Regime de Fretamento, Municipal
-1603;492990101;Transporte Rodoviário Coletivo de Passageiros, Sob Regime de Fretamento, Municipal
-902;492990301;Organização de Excursões em Veículos Rodoviários Próprios, Municipal
-902;492990401;Organização de Excursões em Veículos Rodoviários Próprios, Intermunicipal, Interestadual e Internacional
-1603;492999901;Transporte Rodoviario de Cargas em Geral, Municipal
-1603;492999901;Transporte Rodoviario de Cargas em Geral, Municipal
-1603;492999999;Outros Transportes Rodoviarios de Passageiros Nao Especificados Anteriormente - Municipal
-1603;492999999;Outros Transportes Rodoviarios de Passageiros Nao Especificados Anteriormente - Municipal
-1603;493020101;Transporte Rodoviário de Carga, Exceto Produtos Perigosos e Mudanças, Municipal
-1603;493020101;Transporte Rodoviário de Carga, Exceto Produtos Perigosos e Mudanças, Municipal
-1603;493020102;Transporte Rodoviário de Medicamentos Não Sujeitos a Controle Especial, Produtos Para a Saúde e Insumos Farmacêuticos (municipal)
-1603;493020102;Transporte Rodoviário de Medicamentos Não Sujeitos a Controle Especial, Produtos Para a Saúde e Insumos Farmacêuticos (municipal)
-1603;493020103;Transporte Rodoviário de Medicamentos Sujeitos a Controle Especial (municipal)
-1603;493020103;Transporte Rodoviário de Medicamentos Sujeitos a Controle Especial (municipal)
-1603;493020104;Transporte Rodoviário de Cosméticos E/Ou Saneantes (municipal)
-1603;493020104;Transporte Rodoviário de Cosméticos E/Ou Saneantes (municipal)
-1603;493020301;Transporte Rodoviario Municipal de Produtos Perigosos
-1603;493020301;Transporte Rodoviario Municipal de Produtos Perigosos
-1603;493020401;Transporte Rodoviario Municipal de Mudanças
-1603;493020401;Transporte Rodoviario Municipal de Mudanças
-1603;494000001;Transporte Dutoviario
-1603;494000001;Transporte Dutoviario
-1401;494000002;Manutenção de Dutos de Transporte
-303;494000003;Locação e Sublocação de Postes e Cabos
-303;494000004;Serviços de Compartilhamento de Computadores (escritórios Virtuais)
-1603;495070001;Trens Turísticos, Teleféricos e Similares
-1603;495070001;Trens Turísticos, Teleféricos e Similares
-1603;501140101;Transporte Marítimo de Cabotagem - Carga
-1603;501140101;Transporte Marítimo de Cabotagem - Carga
-1603;501140201;Transporte Marítimo de Cabotagem - Passageiros
-1603;501140201;Transporte Marítimo de Cabotagem - Passageiros
-1603;502110101;Transporte Por Navegação Interior de Carga, Municipal, Exceto Travessia
-1603;502110101;Transporte Por Navegação Interior de Carga, Municipal, Exceto Travessia
-1603;502200101;Transporte Por Navegação Interior de Passageiros em Linhas Regulares, Municipal, Exceto Travessia
-1603;502200101;Transporte Por Navegação Interior de Passageiros em Linhas Regulares, Municipal, Exceto Travessia
-2001;503010101;Navegação de Apoio Marítimo
-2001;503010201;Navegação de Apoio Portuário
-2001;503010301;Serviço de Rebocadores e Empurradores
-1603;509120101;Transporte de Passageiros Por Navegação de Travessia, Municipal
-1603;509120101;Transporte de Passageiros Por Navegação de Travessia, Municipal
-1603;509120102;Transporte de Cargas Por Navegação de Travessia, Municipal
-1603;509120102;Transporte de Cargas Por Navegação de Travessia, Municipal
-1603;509980101;Transporte Aquaviário Para Passeios Turísticos
-1603;509980101;Transporte Aquaviário Para Passeios Turísticos
-1603;509989901;Outros Transportes Aquaviários Não Especificados Anteriormente
-1603;509989901;Outros Transportes Aquaviários Não Especificados Anteriormente
-1603;511290101;Serviço de Taxi Aereo e Locação de Aeronaves com Tripulação Municpal
-1603;511290101;Serviço de Taxi Aereo e Locação de Aeronaves com Tripulação Municpal
-1603;511299901;Outros Serviços de Transporte Aereo de Passageiros Nao-regular Municipal
-1603;511299901;Outros Serviços de Transporte Aereo de Passageiros Nao-regular Municipal
-1603;512000001;Transporte Aereo de Carga Municipal
-1603;512000001;Transporte Aereo de Carga Municipal
-1104;521170101;Armazéns Gerais - Emissão de Warrant
-1104;521170201;Guarda-móveis
-1104;521179901;Depósitos de Mercadorias Para Terceiros, Exceto Armazéns Gerais e Guarda-móveis
-1104;521179902;Depósitos de Mercadorias de Uso Veterinário Para Terceiros
-1104;521250001;Carga e Descarga
-2201;522140001;Concessionárias de Rodovias, Pontes, Túneis e Serviços Relacionados
-2003;522220001;Terminais Rodoviarios e Ferroviarios
-2003;522220002;Operação de Terminais Rodoviarios, Ferroviarios, Metroviarios e Serviços Relacionados
-2003;522220003;Terminais Rodoviarios de Passageiros (rodoviária)
-2003;522220004;Terminais Rodoviarios de Cargas
-1101;522310001;Estacionamento de Veículos
-1101;522310002;Serviço Especial de Guarda de Veículos (estacionamento Comercial com Permanência do Usuário – Drive-in) Horizontal
-1702;522900101;Serviços de Apoio Ao Transporte Por Táxi, Inclusive Centrais de Chamada
-1414;522900201;Serviços de Reboque de Veículos
-710;522909901;Serviços de Limpeza de Locomotivas
-1104;522909902;Serviços de Guarda-volumes em Terminais Rodoviarios
-1711;522909903;Serviços de Gestao de Trânsito e Trafego
-1711;522909904;Serviços de Gestao e Operação de Trânsito e Trafego
-1405;522909905;Serviços de Liquefação de Gas Para Fins de Transporte em Veiculos Dutos Moveis
-1102;522909906;Monitoramento e Controle de Trânsito
-1103;522909907;Serviços de Escolta No Transporte Rodoviário de Cargas Especiais, Intramunicipal
-1702;522909999;Outras Atividades Auxiliares dos Transportes Terrestres Nao Especificadas Anteriormente
-1711;523110101;Administração da Infra-estrutura Portuária
-2001;523110201;Atividades do Operador Portuário
-2001;523110301;Gestão de Terminais Aquaviários
-1006;523200001;Atividades de Agenciamento Marítimo
-1104;523970001;Serviços de Guarda-volumes, No Transporte Hidroviario
-1603;523970002;Serviços de Translado de Passageiros No Interior das Instalaçoes Portuarias
-1603;523970002;Serviços de Translado de Passageiros No Interior das Instalaçoes Portuarias
-1603;523970003;Serviços de Translado de Passageiros No Transporte Terrestre, Intramunicipal
-1603;523970003;Serviços de Translado de Passageiros No Transporte Terrestre, Intramunicipal
-2001;523970099;Atividades Auxiliares dos Transportes Aquaviarios Nao Especificadas Anteriormente
-2001;523970101;Serviços de Praticagem
-1104;523979901;Serviços de Guarda-volumes, No Transporte Hidroviario
-1603;523979902;Serviços de Translado de Passageiros No Interior das Instalaçoes Portuarias
-1603;523979902;Serviços de Translado de Passageiros No Interior das Instalaçoes Portuarias
-1603;523979903;Serviços de Translado de Passageiros No Transporte Terrestre, Intramunicipal
-1603;523979903;Serviços de Translado de Passageiros No Transporte Terrestre, Intramunicipal
-2001;523979999;Atividades Auxiliares dos Transportes Aquaviarios Nao Especificadas Anteriormente
-2002;524010101;Operação dos Aeroportos e Campos de Aterrissagem
-2002;524019901;Atividades Auxiliares dos Transportes Aereos, Exceto Operação dos Aeroportos e Campos de Aterrissagem
-710;524019902;Limpeza de Avioes, Aeronaves
-1101;524019903;Serviços de Estacionamento e Hangaragem de Helicópteros
-1104;524019904;Serviços de Guarda-volumes, em Terminais Aereos
-710;524019905;Manutenção de Interior de Aeronaves (carpetes e Estofados)
-3301;525080101;Comissaria de Despachos
-3301;525080201;Atividades de Despachantes Aduaneiros
-1005;525080301;Agenciamento de Cargas, Exceto Para o Transporte Maritimo
-1104;525080302;Serviços de Acondicionamento e Agrupamento de Cargas No Transporte Aereo, Ferroviario e Rodoviario
-1703;525080401;Organização Logística do Transporte de Carga
-1703;525080501;Operador de Transporte Multimodal - Otm
-2601;531050101;Atividades do Correio Nacional
-2601;531050201;Atividades De franqueadas e Permissionárias do Correio Nacional
-2601;532020101;Serviços de Malote Não Realizados Pelo Correio Nacional
-2601;532020201;Serviços de Entrega Rápida
-1010;532020202;Entrega de Jornais e Revistas em Domicílio Sob Contrato
-901;551080101;Hoteis e Resorts
-901;551080102;Pousadas
-1711;551080103;Administradora de Hoteis
-901;551080104;Serviços de Spa com Alojamento
-901;551080201;Flats e Apart-hotéis
-901;551080301;Motéis
-901;559060101;Albergues, Exceto Assistenciais
-901;559060201;Campings
-901;559060301;Pensões (alojamento)
-901;559069901;Outros Alojamentos Não Especificados Anteriormente
-901;559069902;Hostel
-1710;562010201;Serviços de Alimentação Para Eventos e Recepções - Bufê
-1405;562010202;Serviços de Preparação de Alimentos com Insumos Fornecidos Pelo Tomador
-1702;581150001;Edição de Livros
-1711;581150002;Gestao de Direitos Autorais de Obras Literarias
-1003;581150003;Intermediação Na Aquisição de Direitos Autorais de Obras Literarias
-1702;581230001;Edição de Jornais
-1702;581230101;Edição de Jornais Diários
-1702;581230201;Edição de Jornais Não Diários
-1702;581310001;Edição de Revistas
-1702;581910001;Edição de Cadastros, Listas e Outros Produtos Gráficos
-1702;582120001;Edição Integrada à Impressão de Livros
-1702;582210001;Edição Integrada à Impressão de Jornais
-1702;582210101;Edição Integrada à Impressão de Jornais Diários
-1702;582210201;Edição Integrada à Impressão de Jornais Não Diários
-1702;582390001;Edição Integrada à Impressão de Revistas
-1702;582980001;Edição Integrada à Impressão de Cadastros, Listas e Outros Produtos Gráficos
-1302;591110101;Estúdios Cinematográficos
-1302;591110201;Produção de Filmes Para Publicidade
-1302;591119901;Atividades de Produção Cinematografica, de Videos e De Programas de Televisao Nao Especificadas Anteriormente
-1302;591119902;Filmagem de Programas de Televisao Por Produtores Independentes
-1301;591200101;Serviços de Dublagem
-1301;591200201;Serviços de Mixagem Sonora em Produção Audiovisual
-1302;591209901;Atividades de Pós-produção Cinematográfica, de Vídeos e De Programas de Televisão Não Especificadas Anteriormente
-1010;591380001;Distribuição Cinematográfica, de Vídeo e De Programas de Televisão
-1202;591460001;Atividades de Exibição Cinematográfica
-302;591460002;Espaço Cultural de Projeção de Filmes e Vídeos
-1301;592010001;Atividades de Gravação de Som e De Edição de Música
-9907;601010001;Atividades de Rádio
-1212;601010002;Broadcasting em Rádio
-1212;601010003;Serviços de Canais de Música
-9907;602170001;Atividades de Televisão Aberta
-1724;602250101;Programadoras
-1724;602250101;Programadoras
-1005;602250201;Atividades Relacionadas à Televisão Por Assinatura, Exceto Programadoras
-103;614180002;Acesso à Internet Por Operadoras de Televisão a Cabo
-103;614340002;Acesso à Internet Por Televisão Por Satélite
-103;619060101;Provedores de Acesso às Redes de Comunicações
-103;619060201;Provedores de Voz Sobre Protocolo Internet - Voip
-1401;619069901;Serviços de Manutenção de Linhas de Telefones
-3101;619069902;Serviços de Instalação de Linhas de Telefones
-1102;619069903;Serviços de Rastreamento Por Satelite
-3101;619069904;Serviços de Manutenção de Suportes Para Circuitos de Dados
-3101;619069905;Serviços de Instalação de Suportes Para Circuitos de Dados
-3101;619069906;Serviços de Recarga de Telefone Celular (exceto Venda de Cartão Telefônico)
-3101;619069999;Outras Atividades de Telecomunicaçoes Nao Especificadas Anteriormente
-101;620150001;Análise de Sistemas Sob Encomenda
-104;620150002;Elaboração de Programas de Banco de Dados Sob Encomenda
-104;620150003;Fornecimento de Documentação de Programas de Computador Desenvolvidos Sob Encomenda
-104;620150099;Desenvolvimento de Programas de Computador Sob Encomenda
-101;620150101;Análise de Sistemas Sob Encomenda
-104;620150102;Elaboração de Programas de Banco de Dados Sob Encomenda
-104;620150103;Fornecimento de Documentação de Programas de Computador Desenvolvidos Sob Encomenda
-104;620150199;Desenvolvimento de Programas de Computador Sob Encomenda
-108;620150201;Web Design
-108;620150202;Confecção de Página Na Internet
-101;620230001;Desenvolvimento de Programas de Computador Customizaveis
-105;620230002;Licenciamento de Programas de Computador Customizaveis
-1009;620230003;Representação de Software Customizaveis
-101;620310001;Desenvolvimento de Programas de Computador Nao-customizaveis
-102;620310002;Atividades de Programação com O Uso de Linguagens de Programação
-1009;620310003;Representação de Programas de Informatica Nao-customizaveis
-105;620310004;Licenciamento de Programas de Informatica Nao-customizaveis
-106;620400001;Consultoria em Tecnologia da Informação
-107;620400002;Serviços de Edição de Site, Banco de Dados e Software Sob Encomenda
-107;620910001;Suporte Técnico, Manutenção e Outros Serviços em Tecnologia da Informação
-108;620910002;Serviços de Desenho de Paginas Para a Internet - Web Design
-108;620910003;Serviços de  Confecção de Paginas Para a Internet
-1209;631190001;Aluguel de Hora em Computador
-103;631190003;Digitalização Para Entrada de Dados
-103;631190004;Serviços de Hospedagem de Páginas, Sites e Dados - Web Hosting
-103;631190099;Tratamento de Dados, Provedores de Serviços de Aplicação e Serviços de Hospedagem Na Internet
-1010;631940001;Serviços de Distribuição On Line de Conteúdo
-1701;631940002;Serviço de De Certificação Digital
-109;631940003;Serviços de Disponibilização de Musica Atraves da Internet
-109;631940003;Serviços de Disponibilização de Musica Atraves da Internet
-103;631940004;Serviços de Hospedagem de Paginas, Sites e Dados - Web Hosting
-103;631940005;Site de Busca Na Internet
-109;631940006;Serviços de Disponibilização de áudio, Vídeo, Imagem e Texto Por Meio da Internet
-109;631940006;Serviços de Disponibilização de áudio, Vídeo, Imagem e Texto Por Meio da Internet
-1701;631940007;Serviço de Certificação Digital Prestado a Seus Associados Por Associação Privada Sem Fins Lucrativos 
-103;631940099;Portais, Provedores de Conteudo e Outros Serviços de Informação Na Internet
-103;631940101;Site de Busca Na Internet
-1007;639170001;Agências de Notícias
-1007;639170001;Agências de Notícias
-1701;639920001;Outras Atividades de Prestação de Serviços de Informação Não Especificadas Anteriormente
-1502;642120001;Bancos Comerciais
-1502;642120002;Abertura de Contas em Geral
-1504;642120003;Fornecimento Ou Emissao de Atestados em Geral, Inclusive Atestado de Idoneidade, Atestado de Capacidade Financeira e Congeneres.
-1505;642120004;Cadastro, Elaboração de Ficha Cadastral, Renovação Cadastral e Congeneres, Inclusao Ou Exclusao No Cadastro de Emitentes de Cheques Sem Fundos Ccf Ou em Quaisquer Outros Bancos Cadastrais.
-1506;642120005;Emissao, Reemissao e Fornecimento de Avisos, Comprovantes e Documentos em Geral
-1511;642120006;Devolução de Titulos, Protesto de Titulos, Sustação de Protesto, Manutenção de Titulos, Reapresentação de Titulos, e Demais Serviços a Eles Relacionados.
-1513;642120007;Serviços Relacionados a Operaçoes de Câmbio em Geral
-1514;642120008;Fornecimento, Emissao, Reemissao, Renovação e Manutenção de Cartoes e Congeneres
-1515;642120009;Compensação de Cheques e Titulos Quaisquer
-1516;642120010;Emissao, Reemissao, Liquidação, Alteração, Cancelamento e Baixa de Ordens de Pagamento e Similares
-1517;642120011;Emissao, Fornecimento, Devolução, Sustação, Cancelamento e Oposição de Cheques Quaisquer
-1503;642120012;Locação e Manutenção de Cofres Particulares, de Terminais Eletrônicos, de Terminais de Atendimento e De Bens e Equipamentos em Geral
-1518;642120013;Serviços Relacionados a Credito Imobiliario, Avaliação e Vistoria de Imóvel Ou Obra, Analise Tecnica e Juridica, Emissao, Reemissao, Alteração, Transferencia e Renegociação de Contrato, Emissao e Reemissao do Termo de Quitação e Os Demais Serviços Relacionados a Credito Imobiliário
-1507;642120014;Acesso, Movimentação, Atendimento e Consulta a Contas em Geral, Por Qualquer Meio Ou Processo, Inclusive Por Telefone, Facsimile, Internet e Telex, Acesso a Terminais de Atendimento, Inclusive Vinte e Quatro Horas; Acesso a Outro Banco e à Rede Compartilhada; Fornecimento de Saldo, Extrato e As Demais Informações Relativas a Contas Sem Geral, Por Qualquer Meio Ou Processo
-1502;642210001;Bancos Múltiplos, com Carteira Comercial
-1502;642390001;Caixas Econômicas
-1502;642470101;Bancos Cooperativos
-1502;642470201;Cooperativas Centrais de Crédito
-1502;642470301;Cooperativas de Crédito Mútuo
-1502;642470401;Cooperativas de Crédito Rural
-1501;643100001;Bancos Múltiplos, Sem Carteira Comercial
-1501;643100001;Bancos Múltiplos, Sem Carteira Comercial
-1501;643100001;Bancos Múltiplos, Sem Carteira Comercial
-1501;643280001;Bancos de Investimento
-1501;643280001;Bancos de Investimento
-1501;643280001;Bancos de Investimento
-1501;643360001;Bancos de Desenvolvimento
-1501;643360001;Bancos de Desenvolvimento
-1501;643360001;Bancos de Desenvolvimento
-1501;643440001;Agências de Fomento
-1501;643440001;Agências de Fomento
-1501;643440001;Agências de Fomento
-1508;643520101;Sociedades de Crédito Imobiliário
-1508;643520201;Associações de Poupança e Empréstimo
-1508;643520301;Companhias Hipotecárias
-1508;643610001;Sociedades de Crédito, Financiamento e Investimento - Financeiras
-1508;643790001;Sociedades de Crédito Ao Microempreendedor
-1513;643870101;Bancos de Câmbio
-1005;643879901;Outras Instituições de Intermediação Não-monetária Não Especificadas Anteriormente
-1509;644090001;Arrendamento Mercantil
-1509;644090001;Arrendamento Mercantil
-1509;644090001;Arrendamento Mercantil
-1501;645060001;Sociedades de Capitalização
-1501;645060001;Sociedades de Capitalização
-1501;645060001;Sociedades de Capitalização
-1711;646110001;Holdings de Instituições Financeiras
-1711;646200001;Holdings de Instituições Não-financeiras
-1711;646380001;Outras Sociedades de Participação, Exceto Holdings
-1501;647010101;Fundos de Investimento, Exceto Previdenciários e Imobiliários
-1501;647010101;Fundos de Investimento, Exceto Previdenciários e Imobiliários
-1501;647010101;Fundos de Investimento, Exceto Previdenciários e Imobiliários
-1501;647010201;Fundos de Investimento Previdenciários
-1501;647010201;Fundos de Investimento Previdenciários
-1501;647010201;Fundos de Investimento Previdenciários
-1501;647010301;Fundos de Investimento Imobiliários
-1501;647010301;Fundos de Investimento Imobiliários
-1501;647010301;Fundos de Investimento Imobiliários
-1722;649130001;Sociedades de Fomento Mercantil - Factoring
-1722;649130002;Assessoria, Analise, Avaliação, Atendimento, Consulta, Cadastro, Seleção, Gerenciamento de Informações, Administração de Contas a Receber Ou a Pagar E, em Geral, Relacionados a Operações de Faturização (factoring).
-1004;649130003;Agenciamento, Corretagem Ou Intermediação de Contratos de Faturização (factoring).
-1004;649130003;Agenciamento, Corretagem Ou Intermediação de Contratos de Faturização (factoring).
-1004;649130003;Agenciamento, Corretagem Ou Intermediação de Contratos de Faturização (factoring).
-1002;649210001;Securitização de Créditos
-1501;649300001;Administração de Consórcios Para Aquisição de Bens e Direitos
-1501;649300001;Administração de Consórcios Para Aquisição de Bens e Direitos
-1501;649300001;Administração de Consórcios Para Aquisição de Bens e Direitos
-1501;649990101;Clubes de Investimento
-1501;649990101;Clubes de Investimento
-1501;649990101;Clubes de Investimento
-1501;649990201;Sociedades de Investimento
-1501;649990201;Sociedades de Investimento
-1501;649990201;Sociedades de Investimento
-1501;649990401;Caixas de Financiamento de Corporações
-1501;649990401;Caixas de Financiamento de Corporações
-1501;649990401;Caixas de Financiamento de Corporações
-1508;649990501;Concessão de Crédito Pelas Oscip
-1501;649999901;Casas de Penhor
-1501;649999901;Casas de Penhor
-1501;649999901;Casas de Penhor
-1505;649999999;Outras Atividades de Serviços Financeiros Nao Especificadas Anteriormente
-2503;651110201;Planos de Auxílio-funeral
-423;652010001;Sociedade Seguradora de Seguros Saúde
-423;652010001;Sociedade Seguradora de Seguros Saúde
-423;652010001;Sociedade Seguradora de Seguros Saúde
-422;655020001;Planos de Saude
-422;655020001;Planos de Saude
-422;655020001;Planos de Saude
-423;655020002;Outros Planos de Saude Que Se Cumpram Através de Serviços de Terceiros Contratados, Credenciados, Cooperados Ou Apenas Pagos Pelo Operador do Plano Mediante Indicação do Beneficiário.
-423;655020002;Outros Planos de Saude Que Se Cumpram Através de Serviços de Terceiros Contratados, Credenciados, Cooperados Ou Apenas Pagos Pelo Operador do Plano Mediante Indicação do Beneficiário.
-423;655020002;Outros Planos de Saude Que Se Cumpram Através de Serviços de Terceiros Contratados, Credenciados, Cooperados Ou Apenas Pagos Pelo Operador do Plano Mediante Indicação do Beneficiário.
-1703;661180101;Bolsa de Valores
-1703;661180201;Bolsa de Mercadorias
-1703;661180301;Bolsa de Mercadorias e Futuros
-1711;661180401;Administração de Mercados de Balcão Organizados
-1002;661260101;Corretoras de Títulos e Valores Mobiliários
-1002;661260201;Distribuidoras de Títulos e Valores Mobiliários
-1001;661260301;Corretoras de Câmbio
-1002;661260401;Corretoras de Contratos de Mercadorias
-1002;661260501;Agentes de Investimentos em Aplicações Financeiras
-1501;661340001;Administração de Cartões de Crédito
-1501;661340001;Administração de Cartões de Crédito
-1501;661340001;Administração de Cartões de Crédito
-1512;661930101;Serviços de Liquidação e Custódia
-1510;661930201;Correspondentes de Instituições Financeiras
-1009;661930301;Representações de Bancos Estrangeiros
-1507;661930401;Caixas Eletrônicos
-1501;661930501;Operadoras de Cartões de Débito
-1501;661930501;Operadoras de Cartões de Débito
-1501;661930501;Operadoras de Cartões de Débito
-1004;661939901;Agenciamento, Corretagem Ou Intermediação de Contratos de Arrendamento Mercantil (leasing)
-1004;661939901;Agenciamento, Corretagem Ou Intermediação de Contratos de Arrendamento Mercantil (leasing)
-1004;661939901;Agenciamento, Corretagem Ou Intermediação de Contratos de Arrendamento Mercantil (leasing)
-1002;661939902;Serviços de Intermediação Na Obtenção de Empréstimos
-1701;661939999;Outras Atividades Auxiliares dos Serviços Financeiros Não Especificadas Anteriormente
-1801;662150101;Peritos e Avaliadores de Seguros
-1717;662150201;Auditoria e Consultoria Atuarial
-1001;662230001;Corretores e Agentes de Seguros, de Planos de Previdência Complementar e De Saúde
-1701;662910001;Atividades Auxiliares dos Seguros, da Previdência Complementar e Dos Planos de Saúde Não Especificadas Anteriormente
-1711;663040001;Atividades de Administração de Fundos Por Contrato Ou Comissão
-302;681020201;Aluguel de Imóveis Próprios
-1005;682180101;Corretagem Na Compra e Venda de Imóveis
-2801;682180102;Avaliação de Imóveis
-1005;682180201;Corretagem No Aluguel de Imóveis
-1711;682260001;Gestão e Administração da Propriedade Imobiliária
-1711;682260002;Administradoras de Shopping Center
-1713;691170101;Serviços Advocatícios
-1714;691170201;Atividades Auxiliares da Justiça
-1714;691170202;Arbitragem de Qualquer Especie, Inclusive Juridica.
-1003;691170301;Agente de Propriedade Industrial
-301;691170302;Cessao de Direito de Uso de Marcas e De Sinais de Propaganda.
-2101;691250001;Cartórios
-1718;692060101;Atividades de Contabilidade
-1718;692060201;Atividades de Consultoria Contábil
-1713;692060202;Atividades de Consultoria Tributária Por Advogados
-1718;692060203;Atividades de Consultoria Tributaria Por Profissional de Contabilidade
-1715;692060204;Atividades de Auditoria Contabil e Tributaria
-1715;692060205;Atividades de Perícias Contábeis e Tributárias
-1701;702040001;Atividades de Consultoria em Gestao Empresarial, Exceto Consultoria Tecnica Especifica
-1701;702040002;Consultoria em Negociação Trabalhista
-1719;702040003;Consultoria Financeira a Empresas
-1716;702040004;Analise de Organização e Metodos
-1009;702040005;Atividade de Lobista
-1703;702040006;Planejamento e Acompanhamento de Programas de Manutenção de Máquinas e Equipamentos
-3501;702040007;Assessoria de Imprensa  e Relações Públicas
-701;711110001;Serviços de Arquitetura
-701;711200001;Serviços de Engenharia
-717;711200002;Serviços de Fiscalização de Obras
-703;711200003;Elaboração de Projetos de Engenharia
-1402;711200004;Serviços Técnicos de Engenharia
-718;711970101;Serviços de Cartografia, Topografia e Geodesia
-701;711970102;Serviços de Agrimensura
-703;711970103;Projetos Topograficos
-718;711970201;Atividades de Estudos Geologicos
-703;711970202;Elaboração de Projetos de Prospecção de Petróleo e Gas Natural
-3201;711970301;Serviços de Desenho Técnico Relacionados à Arquitetura e Engenharia
-1708;711970401;Serviços de Perícia Técnica Relacionados à Segurança do Trabalho
-718;711979901;Serviços de Aerofotogrametria
-3101;711979999;Atividades Tecnicas Relacionadas à Engenharia e Arquitetura Nao Especificadas Anteriormente
-1708;712010001;Testes e Analises Tecnicas de Produtos Não Sujeitos à Vigilância Sanitária
-201;712010002;Atividades de Pesquisa e Desenvolvimento Experimental em Ciencias Fisicas e Naturais
-3001;712010003;Serviços de Biologia, Biotecnologia e Quimica
-1708;712010004;Testes e Analises Tecnicas de Produtos Sujeitos à Vigilância Sanitária
-201;721000001;Pesquisa e Desenvolvimento Experimental em Ciências Físicas e Naturais
-201;722070001;Pesquisa e Desenvolvimento Experimental em Ciências Sociais e Humanas
-1706;731140001;Agências de Publicidade (criação e Produção de Propaganda)
-1008;731140002;Colocação, em Nome de Clientes, de Material Publicitario em Jornais, Revistas, Radio, Televisao, Internet e Em Outros Veiculos de Comunicação (intermediação de Campanhas Publicitárias)
-1008;731140002;Colocação, em Nome de Clientes, de Material Publicitario em Jornais, Revistas, Radio, Televisao, Internet e Em Outros Veiculos de Comunicação (intermediação de Campanhas Publicitárias)
-2301;731140003;Serviço de Programação e Comunicação Visual
-1008;731220001;Agenciamento de Espaços Para Publicidade, Exceto em Veiculos de Comunicação
-1008;731220001;Agenciamento de Espaços Para Publicidade, Exceto em Veiculos de Comunicação
-1724;731220002;Locação de Espaços Publicitarios
-1724;731220002;Locação de Espaços Publicitarios
-1706;731900101;Criação de Estandes Para Feiras e Exposições
-1706;731900201;Promoção de Vendas
-1706;731900301;Marketing Direto
-1706;731900401;Consultoria em Publicidade
-1724;731909901;Veiculação e Divulgação de Textos, Desenhos e Outros Materiais de Publicidade
-1724;731909901;Veiculação e Divulgação de Textos, Desenhos e Outros Materiais de Publicidade
-1724;731909902;Serviços de Publicidade Aerea
-1724;731909902;Serviços de Publicidade Aerea
-1724;731909903;Serviços de Carro de Som Para Publicidade
-1724;731909903;Serviços de Carro de Som Para Publicidade
-1706;731909999;Outras Atividades de Publicidade Não Especificadas Anteriormente
-1701;732030001;Pesquisas de Mercado e De Opinião Pública
-2301;741020101;Design
-2301;741020102;Serviços de Desenho Industrial
-3201;741020103;Design de Moda
-711;741020201;Design de Interiores
-2301;741020301;Design de Produtos
-2301;741020302;Serviços de Desenho Industrial
-3201;741020303;Design de Moda
-2301;741029901;Atividades de Design Não Especificadas Anteriormente
-1302;742000101;Atividades de Produção de Fotografias, Exceto Aerea e Submarina
-1302;742000102;Atelier Fotografico
-718;742000201;Atividades de Produção de Fotografias Aéreas e Submarinas
-1302;742000301;Laboratórios Fotográficos
-1302;742000401;Filmagem de Festas e Eventos
-1303;742000501;Serviços de Microfilmagem
-1702;749010101;Serviços de Tradução, Interpretação e Similares
-719;749010201;Escafandria e Mergulho
-1701;749010301;Serviços de Agronomia e De Consultoria às Atividades Agrícolas e Pecuárias
-1002;749010401;Atividades de Intermediação e Agenciamento de Serviços e Negócios em Geral, Exceto Imobiliários
-1704;749010501;Agenciamento de Profissionais Para Atividades Esportivas, Culturais e Artisticas
-1003;749010502;Serviços de Agente de Obras de Arte e Literarias
-1720;749019901;Consultoria Na Area de Estatistica
-3601;749019902;Serviços de Meteorologia
-720;749019903;Nucleação e Bombardeamento de Nuvens e Congeneres
-1701;749019999;Outras Atividades Profissionais, Cientificas e Tecnicas Nao Especificadas Anteriormente
-501;750010001;Atividades Veterinarias
-507;750010002;Ambulância Para Animais
-503;750010003;Laboratório de Analise Veterinaria
-502;750010004;Cliinica Ou Consultório Veterinario
-505;750010005;Banco de Sangue e De órgaos de Animais
-506;750010006;Coleta de Materiais Biologicos de Qualquer Especie Para Uso Veterinario
-509;750010007;Planos de Assistencia Veterinaria
-509;750010007;Planos de Assistencia Veterinaria
-509;750010007;Planos de Assistencia Veterinaria
-502;750010008;Hospital Veterinário
-9903;771100001;Locação de Automóveis Sem Condutor
-9903;771950101;Locação de Embarcações Sem Tripulação, Exceto Para Fins Recreativos
-9903;771950201;Locação de Aeronaves Sem Tripulação
-9903;771959901;Locação de Outros Meios de Transporte Não Especificados Anteriormente, Sem Condutor
-9903;772170001;Aluguel de Equipamentos Recreativos e Esportivos
-9903;772250001;Aluguel de Fitas de Vídeo, Dvds e Similares
-9903;772330001;Aluguel de Objetos do Vestuário, Jóias e Acessórios
-9903;772920101;Aluguel de Aparelhos de Jogos Eletrônicos
-9903;772920201;Aluguel de Móveis, Utensílios e Aparelhos de Uso Doméstico e Pessoal; Instrumentos Musicais
-9903;772920301;Aluguel de Material Médico
-9903;772929901;Aluguel de Outros Objetos Pessoais e Domésticos Não Especificados Anteriormente
-9903;773140001;Aluguel de Maquinas e Equipamentos Agricolas Sem Operador
-1509;773140002;Leasing Operacional de Maquinas e Equipamentos Agricolas
-1509;773140002;Leasing Operacional de Maquinas e Equipamentos Agricolas
-1509;773140002;Leasing Operacional de Maquinas e Equipamentos Agricolas
-9903;773220101;Aluguel de Máquinas e Equipamentos Para Construção Sem Operador, Exceto Andaimes
-9903;773220201;Aluguel de Andaimes
-1509;773220202;Leasing Operacional de Andaimes
-1509;773220202;Leasing Operacional de Andaimes
-1509;773220202;Leasing Operacional de Andaimes
-9903;773310001;Aluguel de Maquinas e Equipamentos Para Escritorio
-1509;773310002;Leasing Operacional de Maquinas e Equipamentos Para Escritório
-1509;773310002;Leasing Operacional de Maquinas e Equipamentos Para Escritório
-1509;773310002;Leasing Operacional de Maquinas e Equipamentos Para Escritório
-9903;773900101;Aluguel de Maquinas e Equipamentos Para Extração de Minerios e Petroleo, Sem Operador
-1509;773900102;Leasing Operacional de Maquinas e Equipamentos Para Extração de Minerios e Petróleo
-1509;773900102;Leasing Operacional de Maquinas e Equipamentos Para Extração de Minerios e Petróleo
-1509;773900102;Leasing Operacional de Maquinas e Equipamentos Para Extração de Minerios e Petróleo
-9903;773900201;Aluguel de Equipamentos Cientificos, Medicos e Hospitalares, Sem Operador
-1509;773900202;Leasing Operacional de Equipamentos Cientificos, Medicos e Hospitalares
-1509;773900202;Leasing Operacional de Equipamentos Cientificos, Medicos e Hospitalares
-1509;773900202;Leasing Operacional de Equipamentos Cientificos, Medicos e Hospitalares
-304;773900301;Aluguel de Palcos, Coberturas e Outras Estruturas de Uso Temporario, Exceto Andaimes
-1509;773900302;Leasing Operacional de Palcos, Coberturas e Outras Estruturas de Uso Temporario
-1509;773900302;Leasing Operacional de Palcos, Coberturas e Outras Estruturas de Uso Temporario
-1509;773900302;Leasing Operacional de Palcos, Coberturas e Outras Estruturas de Uso Temporario
-302;773900303;Locação de Standes Para Feiras e Eventos, Sem Montagem
-9903;773909901;Aluguel de Outras Máquinas e Equipamentos Comerciais e Industriais Não Especificados Anteriormente, Sem Operador, Exceto Locação de Aparelhos e Equipamentos de Tv, Som e Vídeo
-9903;773909902;Locação de Aparelhos e Equipamentos de Tv, Som e Vídeo
-1711;774030001;Gestao de Ativos Intangiveis Nao-financeiros
-1707;774030002;Venda e Licenciamento de Franquia, Franchising
-1711;774030003;Gestão de Banco de Dados de Terceiros
-1004;774030004;Agenciamento, Corretagem Ou Intermediação de Contratos de Franquia (franchising)
-1004;774030004;Agenciamento, Corretagem Ou Intermediação de Contratos de Franquia (franchising)
-1004;774030004;Agenciamento, Corretagem Ou Intermediação de Contratos de Franquia (franchising)
-1704;781080001;Seleção e Agenciamento de Mão-de-obra
-1704;781080002;Seleção de Mão-de-obra
-1704;781080003;Agenciamento de Mão-de-obra
-1705;782050001;Locação de Mão-de-obra Temporária
-1705;783020001;Fornecimento de Recursos Humanos Para Terceiros
-1711;783020002;Gestão de Recursos Humanos Para Terceiros
-902;791120001;Agências de Viagens
-902;791210001;Operadores Turisticos
-903;791210002;Serviços de Guia Turistico
-902;799020001;Agencia de Venda de Ingressos Para Teatros, Cinemas e Outras Atividades Artisticas
-902;799020002;Guiche de Venda de Passagens de ônibus
-902;799020099;Serviços de Reservas e Outros Serviços de Turismo Nao Especificados Anteriormente
-1102;801110101;Atividades de Vigilância e Segurança Privada
-1104;801110102;Armazenamento, Depósito, Carga, Descarga, Arrumação e Guarda de Bens de Qualquer Espécie
-1103;801110103;Atividades de Vigilancia e Seguranca Privada (escolta)
-1103;801110104;Serviços de Escolta No Transporte Rodoviario de Cargas Especiais, Intramunicipal
-508;801110201;Serviços de Adestramento de Cães de Guarda
-2601;801290001;Atividades de Transporte de Valores
-1102;802000001;Atividades de Monitoramento de Sistemas de Segurança
-1401;802000002;Reparação Ou Ajuste Mecânico de Cofres, Trancas e Travas
-1406;802000003;Instalação de Cofres, Trancas e Travas
-1102;802000101;Atividades de Monitoramento de Sistemas de Segurança Eletrônico
-1401;802000201;Reparação Ou Ajuste Mecânico de Cofres, Trancas e Travas
-1406;802000202;Instalação de Cofres, Trancas e Travas
-1102;802000299;Outras Atividades de Serviços de Segurança
-3401;803070001;Atividades de Investigação Particular
-1704;81080003;Agenciamento de Mão-de-obra
-1705;811170001;Serviços Combinados Para Apoio a Edificios, Exceto Condominios Prediais
-1705;811170002;Serviço de Recepção em Predios
-710;812140001;Limpeza em Prédios e Em Domicílios
-713;812220001;Imunização e Controle de Pragas Urbanas
-710;812900001;Serviços de Limpeza e Tratamento de Piscinas
-710;812900002;Serviços de Limpeza e Conservação de Ruas, Logradouros
-710;812900003;Serviço de Desentupimento em Predios
-713;812900004;Serviço de Esterilização de Objetos
-710;812900099;Atividades de Limpeza Nao Especificadas Anteriormente
-711;813030001;Jardinagem, Corte e Poda de árvores
-701;813030002;Outras Atividades Paisagísticas Voltadas à Manutenção do Solo Não-agrícola e Não-florestal
-1702;821130001;Serviços Combinados de Escritório e Apoio Administrativo
-302;821130002;Serviços de Escritório Virtual
-1303;821990101;Fotocópias
-1702;821999901;Preparação de Documentos e Serviços Especializados de Apoio Administrativo Não Especificados Anteriormente
-1702;822020001;Atividades de Teleatendimento
-1702;822020002;Serviços de Digitação de Dados Para Processamento
-1709;823000101;Serviços de Organização de Feiras, Congressos, Exposiçoes e Festas
-1723;823000102;Serviços de Apresentação de Palestras, Conferencias, Seminarios e Congeneres
-302;823000201;Casas de Festas e Eventos
-302;823000202;Gestão de Espaço Para Exposição Para Uso de Terceiros
-302;823000203;Gestão de Instalações Para Eventos
-1721;829110001;Atividades de Cobrança e Informações Cadastrais
-1405;829200001;Envasamento e Empacotamento Sob Contrato
-1701;829970101;Medição de Consumo de Energia Elétrica, Gás e água
-1516;829970201;Emissão de Vales-alimentação, Vales-transporte e Similares
-2401;829970301;Serviços de Gravação de Carimbos, Exceto Confecção
-1712;829970401;Leiloeiros Independentes
-1701;829970501;Serviços de Levantamento de Fundos Sob Contrato
-1901;829970601;Casas Lotéricas
-302;829970701;Salas de Acesso à Internet
-1711;829979901;Serviços de Administração em Geral
-1104;829979902;Serviço de Almoxarifado
-2801;829979903;Serviço de Avaliador, Exceto de Seguros e De Imóveis
-1701;829979904;Serviço de Prevenção de Incendio Por Empresa Privada
-2301;829979905;Serviço de Cartazista
-2601;829979906;Serviço de Coleta de Botijão de Gas
-2301;829979907;Serviços de Computação Grafica
-1010;829979908;Serviço de Distribuição de Diario Oficial da União
-1009;829979909;Escritório de Representação - Filial de Empresa Estrangeira, Exceto de Bancos Estrangeiros
-1401;829979910;Serviço de Manutenção de Aquarios
-1706;829979911;Serviço de Pintura de Faixas
-1510;829979912;Posto, Agencia em Estabelecimentos Comerciais Para Pagamento de Contas de Luz, Gas, Etc.
-1301;829979913;Serviços de Sonorização Para Telefone
-1501;829979914;Serviços de Vistoria de Automóveis
-1501;829979914;Serviços de Vistoria de Automóveis
-1501;829979914;Serviços de Vistoria de Automóveis
-1501;829979915;Administração de Cartões de Descontos
-1501;829979915;Administração de Cartões de Descontos
-1501;829979915;Administração de Cartões de Descontos
-1010;829979916;Distribuição de Bens de Terceiros
-302;829979917;Exploração de Espaços Para Realização de Eventos Ou Negócios de Qualquer Natureza
-1701;829979999;Outras Atividades de Serviços Prestados Principalmente às Empresas Nao Especificadas Anteriormente
-801;851120001;Educação Infantil - Creche
-801;851120002;Educação Infantil - Creche - Educação Especial Para Sub e Superdotados e Deficientes Físicos
-801;851210001;Educação Infantil - Pré-escola
-801;851210002;Educação Infantil - Pré-escola - Educação Especial Para Sub e Superdotados e Deficientes Físicos
-801;851390001;Ensino Fundamental
-801;851390002;Ensino Fundamental - Educação Especial Para Sub e Superdotados e Deficientes Físicos
-801;852010001;Ensino Médio
-801;852010002;Ensino Médio Profissionalizante
-801;852010003;Ensino Médio - Educação Especial Para Sub e Superdotados e Deficientes Físicos
-801;853170001;Educação Superior - Graduação
-801;853250001;Educação Superior - Graduação e Pós-graduação
-801;853330001;Educação Superior - Especialização
-801;853330002;Educação Superior - Mestrado, Doutorado, Pós-doutorado
-801;854140001;Educação Profissional de Nível Técnico, com Habilitação de Ensino Médio
-802;854140002;Cursos Técnicos de Habilitação Profissional
-801;854220001;Educação Profissional de Nível Tecnológico
-1711;855030101;Administração de Caixas Escolares
-1701;855030201;Atividades de Apoio à Educação, Exceto Caixas Escolares
-802;855030202;Avaliação de Conhecimentos de Qualquer Natureza
-802;859110001;Ensino de Esportes
-604;859110002;Academia de Artes Marciais
-802;859290101;Ensino de Dança
-802;859290201;Ensino de Artes Cênicas, Exceto Dança
-802;859290301;Ensino de Música
-802;859299901;Ensino de Arte e Cultura Não Especificado Anteriormente
-802;859370001;Ensino de Idiomas
-802;859960101;Formação de Condutores
-802;859960201;Cursos de Pilotagem
-802;859960301;Treinamento em Informática
-802;859960401;Treinamento em Desenvolvimento Profissional e Gerencial
-802;859960501;Cursos Preparatórios Para Concursos
-802;859969901;Outras Atividades de Ensino Não Especificadas Anteriormente
-403;861010101;Atividades de Atendimento Hospitalar, Exceto Pronto-socorro e Unidades Para Atendimento a Urgencias
-407;861010102;Serviços Farmaceuticos
-401;861010103;Atividades de Medicina e Biomedicina.
-403;861010104;Maternidade
-403;861010105;Hospital Psiquiátrico
-403;861010201;Atividades de Atendimento em Pronto-socorro e Unidades Hospitalares Para Atendimento a Urgências
-421;862160101;Uti Móvel
-421;862160201;Serviços Móveis de Atendimento a Urgências, Exceto Por Uti Móvel
-421;862240001;Serviços de Remoção de Pacientes, Exceto Os Serviços Móveis de Atendimento a Urgências
-403;863050101;Atividade Médica Ambulatorial com Recursos Para Realização de Procedimentos Cirúrgicos
-403;863050201;Atividade Médica Ambulatorial, Exceto Consultórios Médicos, com Recursos Para Realização de Exames Complementares.
-401;863050202;Consultórios Médicos com Recursos Para Realização de Exames Complementares
-403;863050301;Estabelecimentos de Atendimento Ambulatorial, Exceto Consultórios Médicos
-401;863050302;Consultórios Médicos
-403;863050303;Atividades de Clínica Médica Restrita a Consultas
-412;863050401;Atividade Odontológica
-412;863050402;Clínica Odontológica Pública Ou Particular
-401;863050601;Serviços de Vacinação e Imunização Humana
-418;863050701;Atividades de Reprodução Humana Assistida
-403;863059901;Atividades de Atenção Ambulatorial Não Especificadas Anteriormente
-403;864020101;Laboratórios de Anatomia Patológica e Citológica
-403;864020201;Laboratórios Clínicos
-403;864020202;Posto de Coleta Laboratorial
-409;864020301;Serviços de Diálise e Nefrologia
-402;864020401;Serviços de Tomografia
-402;864020501;Serviços de Diagnóstico Por Imagem com Uso de Radiação Ionizante, Exceto Tomografia
-402;864020601;Serviços de Ressonância Magnética
-402;864020701;Serviços de Diagnóstico Por Imagem Sem Uso de Radiação Ionizante, Exceto Ressonância Magnética
-402;864020801;Serviços de Diagnóstico Por Registro Gráfico - Ecg, Eeg e Outros Exames Análogos
-402;864020901;Serviços de Diagnóstico Por Métodos ópticos - Endoscopia e Outros Exames Análogos
-402;864021001;Serviços de Quimioterapia
-402;864021101;Serviços de Radioterapia
-409;864021201;Serviços de Hemoterapia
-409;864021301;Serviços de Litotripsia
-419;864021401;Serviços de Bancos de Sangue, Leite, Pele, Olhos, Ovulos, Semen, Celulas e Tecidos Humanos
-420;864021402;Coleta de Sangue, Leite, Tecidos, Semen, órgaos e Materiais Biológicos de Qualquer Especie.
-409;864029901;Atividades de Serviços de Complementação Diagnóstica e Terapêutica Não Especificadas Anteriormente
-406;865000101;Atividades de Enfermagem
-410;865000201;Atividades de Profissionais da Nutrição
-416;865000301;Atividades de Psicologia, Consultórios e Clínicas
-415;865000302;Atividades de Psicanalise, Consultórios e Clínicas
-408;865000401;Atividades de Fisioterapia
-408;865000501;Atividades de Terapia Ocupacional
-408;865000601;Atividades de Fonoaudiologia
-410;865000701;Atividades de Terapia de Nutrição Enteral e Parenteral
-404;865009901;Serviços de Instrumentação Cirurgica
-413;865009902;Atividades de Ortóptica
-409;865009903;Serviços de Quiropraxia
-401;865009904;Atividades de Optmetristas
-409;865009999;Atividades de Profissionais da Area de Saude Nao Especificadas Anteriormente
-1701;866070001;Atividades de Apoio à Gestao de Saude
-409;869090101;Atividades de Praticas Integrativas e Complementares em Saude Humana
-419;869090201;Atividades de Bancos de Leite Humano
-405;869090301;Atividades de Acupuntura
-409;869090401;Atividades de Podologia
-411;869099901;Serviços de Parteira
-411;869099901;Serviços de Parteira
-409;869099999;Outras Atividades de Atenção à Saude Humana Nao Especificadas Anteriormente
-417;871150101;Clinicas e Residencias Geriatricas
-403;871150102;Centro Medico Geriatrico
-417;871150201;Instituições de Longa Permanência Para Idosos
-417;871150301;Atividades de Assistencia a Deficientes Fisicos, Imunodeprimidos e Convalescentes
-417;871150302;Casas de Repouso Para Convalescentes e Imonodeprimidos
-417;871150401;Centros de Apoio a Pacientes com Câncer e Com Aids
-417;871150501;Condomínios Residenciais Para Idosos
-421;871230001;Atividades de Fornecimento de Infra-estrutura de Apoio e Assistência a Paciente No Domicílio
-417;872040101;Atividades de Centros de Assistência Psicossocial
-403;872040102;Hospital Psiquiátrico
-417;872049901;Atividades de Assistência Psicossocial e à Saúde a Portadores de Distúrbios Psíquicos, Deficiência Mental e Dependência Química e Grupos Similares Não Especificadas Anteriormente
-417;873010101;Orfanatos
-417;873010201;Albergues Assistenciais
-417;873019901;Atividades de Assistência Social Prestadas em Residências Coletivas e Particulares Não Especificadas Anteriormente
-2701;880060001;Serviços de Assistência Social Sem Alojamento
-1213;900190101;Produção Teatral
-1201;900190102;Espetaculos Teatrais.
-1201;900190103;Teatro
-1213;900190201;Produção Musical
-1213;900190202;Atividades de Produção e Promoção de Bandas, Grupos Musicais, Orquestras e Outras Companhias Musicais
-1213;900190301;Produção de Espetáculos de Dança
-1213;900190401;Produção de Espetaculos Circenses, de Marionetes e Similares
-1203;900190402;Espetaculo Circense
-1213;900190501;Produção de Espetáculos de Rodeios, Vaquejadas e Similares
-3101;900190601;Atividades de Sonorização e De Iluminação
-3101;900190602;Atividade de Equipamento de Som e Luz com Operador
-3101;900190603;Serviços de Iluminação Ligada às Atividades Artisticas, Cenicas
-1214;900190604;Fornecimento de Música Para Ambientes Fechados Ou Não, Mediante Transmissao Por Qualquer Processo.
-1204;900199901;Atividades de Apresentadores de Programas de Televisao e Radio
-1216;900199902;Espetaculo Pirotecnico
-1213;900199999;Artes Cenicas, Espetáculos e Atividades Complementares Nao Especificados Anteriormente
-3701;900270101;Atividades de Artistas Plasticos
-2301;900270104;Atividade de Criador de Desenho Animado
-3501;900270105;Atividade de Jornalista Independente
-4001;900270106;Obras de Arte Sob Encomenda
-4001;900270199;Atividades de Artistas Plásticos, Jornalistas Independentes e Escritores
-1401;900270201;Restauração de Obras de Arte
-302;900350001;Gestao de Espaços Para Artes Cenicas, Espetaculos e Outras Atividades Artisticas
-302;900350002;Casa de Cultura, Espetaculos Ou Shows
-1214;900350003;Fornecimento de Música Para Ambientes Fechados Ou Não, Mediante Transmissão Por Qualquer Processo.
-302;900350004;Casa de Cultura
-302;900350005;Casa de Espetáculos
-302;900350006;Casa de Shows
-302;900350007;Exploração de Cafés-teatro
-302;900350008;Exploração de Salas de Espetáculos
-302;900350009;Gestão de Salas Dedicadas a Atividades Artísticas
-302;900350010;Atividade de Gestão de Sala de Shows
-2901;910150001;Atividades de Bibliotecas e Arquivos
-1104;910150002;Atividade de Arquivo
-2901;910150003;Biblioteca Central
-2901;910150004;Biblioteca de Bairro
-3801;910230101;Atividades de Museus e De Exploração de Lugares e Prédios Históricos e Atrações Similares
-3801;910230102;Planetário
-710;910230201;Conservação de Lugares e Prédios Históricos
-705;910230202;Restauração de Lugares e Prédios Históricos
-1205;910310001;Atividades de Jardins Botânicos, Zoológicos, Parques Nacionais, Reservas Ecológicas e áreas de Proteção Ambiental
-1205;910310002;Parque Metropolitano
-1205;910310003;Parque Urbano
-1205;910310004;Parque de Vizinhança Ou de Bairro
-1205;910310005;Horto Florestal
-1901;920030101;Casas de Bingo
-1210;920030201;Exploração de Apostas em Corridas de Cavalos
-1901;920039901;Exploração de Jogos de Azar e Apostas Não Especificados Anteriormente
-302;931150001;Gestão de Instalações de Esportes
-302;931150002;Gestão de Estádios
-302;931150003;Gestão de Ginásio de Esportes
-302;931150004;Exploração de Pista de Patinação
-302;931150005;Gestão de Quadras Esportivas
-302;931150006;Estádio
-302;931150007;Ginásio
-604;931310001;Atividades de Condicionamento Físico
-604;931310002;Academia de Fisiculturismo
-1213;931910101;Produção e Promoção de Eventos Esportivos
-1205;931919901;Atividade de Pesca Esportiva e De Lazer, Pesque Pague
-1211;931919902;Competições Esportivas Ou de Destreza Fisica Ou Intelectual, com Ou Sem a Participação do Espectador.
-604;931919999;Outras Atividades Esportivas Nao Especificadas Anteriormente
-1205;932120001;Parques de Diversão e Parques Temáticos
-1206;932980101;Discotecas, Danceterias, Salões de Dança e Similares
-1209;932980201;Exploração de Boliches
-1209;932980301;Exploração de Jogos de Sinuca, Bilhar e Similares
-1209;932980401;Exploração de Jogos Eletrônicos Recreativos
-1217;932989901;Atividades de Animação e Recreação em Festas e Eventos
-1209;932989902;Exploração de Jogos Bilhar e Snooker
-1101;932989903;Serviços de Estadia de Barcos, Lanchas, Iates e Jet Ski
-1209;932989904;Site de Entretenimento, Inclusives Jogos, Na Internet, Exceto Jogos de Azar
-1208;932989905;Organização de Feiras e Shows de Natureza Recreacional
-902;932989906;Exploração de Trenzinho Para Passeios Turisticos
-902;932989907;Locação de Embarcaçoes Para Fins Recreativos
-1205;932989908;Exploração de Karts
-1205;932989909;Aquario Para Visitação
-1207;932989910;Shows, Ballet, Danças, Desfiles, Bailes, óperas, Concertos, Recitais, Festivais e Congeneres.
-1603;932989911;Transporte em Veiculos de Tração Animal
-1603;932989911;Transporte em Veiculos de Tração Animal
-1217;932989999;Outras Atividades de Recreação e Lazer Nao Especificadas Anteriormente
-1215;949360002;Atividade de Blocos Carnavalescos
-1401;951180001;Reparação e Manutenção de Computadores e De Equipamentos Perifericos
-1402;951180002;Serviços de Assistencia Tecnica em Equipamentos de Informatica
-1401;951260001;Reparação e Manutenção de Equipamentos de Comunicação
-1402;951260002;Assistencia Tecnica em Telefone
-1401;952150001;Reparação e Manutenção de Equipamentos Eletroeletrônicos de Uso Pessoal e Domestico
-1401;952150002;Conserto de Eletrodomesticos
-1406;952150003;Instalação de Peças e Acessórios Para Eletrodomesticos
-1402;952150004;Assistência Técnica de Equipamentos Eletroeletrônicos de Uso Pessoal e Domestico
-1405;952910101;Reparação de Calçados, Bolsas e Artigos de Viagem
-2401;952910201;Chaveiros
-1405;952910301;Reparação de Relógios
-1401;952910401;Reparação de Bicicletas, Triciclos e Outros Veiculos Nao-motorizados
-1406;952910402;Instalação de Acessórios Bicicletas
-1405;952910403;Serviços de Pintura de Bicicletas, Triciclos e De Outros Veiculos Recreativos
-1401;952910404;Conserto de Pneus e Câmaras de Ar de Bicicletas
-1413;952910501;Reparação de Artigos do Mobiliario
-1411;952910502;Reparação de Artigos de Tapeçaria
-1401;952910601;Reparação de Jóias
-1409;952919901;Serviços de Conserto e Recuperacao de Roupas
-1401;952919902;Conserto de Armas de Fogo
-1405;952919903;Atividade de Amolador de Facas
-1401;952919904;Conserto de Brinquedos
-1401;952919905;Reparação de Artigos de Borracha, de Couro, de Pele e De Artigos de Viagem (sacolas Malas, Casacos, Sombrinhas, Etc.), Exceto Reparação de Calçados
-1401;952919999;Reparação e Manutenção de Outros Objetos e Equipamentos Pessoais e Domesticos Nao Especificados Anteriormente
-1410;960170101;Lavanderias
-1410;960170102;Lavanderia Industrial
-1410;960170103;Lavanderia Hospitalar
-1410;960170201;Tinturarias
-1410;960170202;Tinturaria Industrial
-1410;960170301;Toalheiros
-9903;960170302;Aluguel De, Locação de Roupas de Cama, Mesa e Banho
-601;960250101;Cabeleireiros, Manicure e Pedicure
-601;960250102;Barbearia
-601;960250111;Salão-parceiro - Cabeleireiros, Manicure e Pedicure
-601;960250112;Salão-parceiro - Barbearia
-602;960250201;Clinicas de Estetica e Similares
-605;960250202;Clinica de Emagrecimento
-602;960250203;Outras Atividades de Estetica e Serviços de Cuidados com A Beleza Não Especificadas Anteriormente
-605;960250211;Salão-parceiro - Clinicas de Estetica e Similares
-602;960250213;Salão-parceiro - Outras Atividades de Estetica e Serviços de Cuidados com A Beleza Não Especificadas Anteriormente
-2504;960330101;Gestão e Manutenção de Cemitérios
-2505;960330102;Serviços de Cessão/Locação do Uso de Jazigos/Lóculos
-2505;960330102;Serviços de Cessão/Locação do Uso de Jazigos/Lóculos
-2502;960330201;Serviços de Cremação
-2501;960330301;Serviços de Sepultamento, Exceto Vertical
-2501;960330302;Serviços de Sepultamento Vertical
-2501;960330401;Serviços de Funerárias
-2501;960330501;Serviços de Somatoconservação
-2501;960339901;Atividades Funerárias e Serviços Relacionados Não Especificados Anteriormente
-2501;960339902;Velórios
-1701;960920201;Agências Matrimoniais
-1302;960920401;Exploração de Máquinas de Serviços Pessoais Acionadas Por Moeda - Fotografia
-1303;960920402;Digitalização Para Entrada de Dados
-1701;960920403;Exploração de Máquinas de Serviços Pessoais Acionadas Por Moeda - Pesagem
-1701;960920499;Exploração de Máquinas de Serviços Pessoais Acionadas Por Moeda
-603;960920501;Atividades de Sauna e Banhos
-606;960920601;Serviços de Tatuagem e Colocação de Piercing
-508;960920701;Alojamento de Animais Domésticos
-508;960920801;Higiene e Embelezamento de Animais Domésticos
-1705;960929901;Serviços de Baby Siter
-1405;960929902;Serviços de Engraxate
-302;960929903;Serviços de Exploração de Sanitarios Publicos
-1702;960929904;Serviços de Mensagens Fonadas
-1405;960929905;Serviços de Lavagem de Estofado - Exceto de Veiculos
-1102;960929906;Serviços de Guarda de Piscina
-1101;960929907;Serviços de Manobristas
-1701;960929908;Consultoria em Organização Pessoal (personal Organizer)
-602;960929998;Serviços de Tatuagem e Colocação de Piercin
-603;960929999;Outras Atividades de Serviços Pessoais Não Especificadas Anteriormente
-9908;970050001;Serviços Domésticos
-1102;970050002;Guarda-costa
+"Item 116","Código","Descrição"
+"713","016100101","Serviço de Pulverização e Controle de Pragas Agrícolas"
+"711","016100201","Serviço de Poda de árvores Para Lavouras"
+"714","016100301","Serviço de Preparação de Terreno, Cultivo e Colheita"
+"714","016109901","Locação de Maquinas Agrícolas com Operador"
+"1705","016109902","Serviços de Contratantes de Mao-de-obra Para a Agricultura"
+"714","016109903","Exploração de Sistemas de Irrigação"
+"1701","016109999","Atividades de Apoio à Agricultura Não Especificadas Anteriormente"
+"504","016280101","Serviço de Inseminação Artificial em Animais"
+"508","016280201","Serviço de Tosquiamento de Ovinos"
+"508","016280301","Serviço de Manejo de Animais"
+"508","016289901","Serviço de Alojamento do Gado de Curta Duração"
+"508","016289902","Serviço de Classificação de Pintos"
+"710","016289903","Serviço de Limpeza de Banheiros Carrapaticidas e Sarnicidas e De Galinheiros"
+"1705","016289904","Contratantes de Mao-de-obra Para o Setor Pecuário"
+"1701","016289905","Classificação de Produtos de Origem Animal"
+"1701","016289906","Serviço de Apanha de Frangos"
+"1701","016289907","Serviço de Catação de Frangos"
+"1705","016289908","Serviço de Gato, Empreiteiro de Mão-de-obra Pecuária"
+"1705","016289909","Empregadores de Mão-de-obra Para a Pecuária"
+"1701","016289910","Serviço de Padronização de Ovos de Galinha"
+"1701","016289911","Serviço de Sexagem de Pintos"
+"1701","016289999","Atividades de Apoio à Pecuaria Nao Especificadas Anteriormente"
+"1405","016360001","Atividades de Pós-colheita"
+"714","021010702","Reflorestamento com Abate de Arvores"
+"709","021019901","Produção de Produtos Não-madeireiros Não Especificados Anteriormente em Florestas Plantadas"
+"2601","022090301","Coleta de Castanha-do-pará em Florestas Nativas"
+"2601","022090401","Coleta de Látex em Florestas Nativas"
+"2601","022090501","Coleta de Palmito em Florestas Nativas"
+"714","022090601","Conservação de Florestas Nativas"
+"2601","022099901","Coleta de Produtos Não-madeireiros Não Especificados Anteriormente em Florestas Nativas"
+"2801","023060001","Avaliação de Massas Florestais em Pe"
+"2801","023060002","Estimativa de Valor de Madeira"
+"714","023060003","Preparação da Terra Para Cultivo de Especies Florestais"
+"714","023060004","Semeaduras e Plantio de Mudas de Especies Florestais"
+"712","023060005","Controle e Tratamento de Agentes Fisicos, Quimicos e Biologicos em Areas de Florestamento e Reflorestamento"
+"1405","023060006","Serviço de Abate e Derrubada de Arvores"
+"1603","023060007","Serviço de Transporte de Toras Somente No Local de Derrubada das árvores"
+"1603","023060007","Serviço de Transporte de Toras Somente No Local de Derrubada das árvores"
+"1104","023060008","Serviço de Descarregamento de Madeira"
+"1701","023060009","Serviço de Consultoria Técnica de Administração Florestal"
+"714","023060010","Serviço de Repovoamento Florestal - Replantio de Espécies Florestais, Inclusive em Encostas, em Margens de Rios e De Lagos"
+"1701","023060011","Serviço de Inventário Florestal"
+"713","023060012","Serviço de Controle de Pragas Florestais"
+"1701","023060013","Serviço de Inspeção Aérea de Repovoamentos Florestais"
+"1102","023060014","Serviço de Extinção de Incêndio e Proteção Florestal"
+"1701","023060099","Serviço de Apoio à Produção Florestal Não Especificado Anteriormente"
+"1701","031160401","Atividades de Apoio à Pesca em água Salgada"
+"1701","031240401","Atividades de Apoio à Pesca em água Doce"
+"1701","032130501","Atividades de Apoio à Aqüicultura em água Salgada e Salobra"
+"1701","032210701","Atividades de Apoio à Aqüicultura em água Doce"
+"1405","050030201","Beneficiamento de Carvão Mineral"
+"1405","060000202","Beneficiamento de Xisto"
+"1405","060000302","Beneficiamento de Areias Betuminosas"
+"1405","071030201","Pelotização, Sinterização e Outros Beneficiamentos de Minério de Ferro"
+"1405","072190201","Beneficiamento de Minério de Alumínio"
+"1405","072270201","Beneficiamento de Minério de Estanho"
+"1405","072350201","Beneficiamento de Minério de Manganês"
+"1405","072430201","Beneficiamento de Minério de Metais Preciosos"
+"1405","072510002","Beneficiamento de Minerais Radioativos"
+"1405","072940102","Beneficiamento de Minerios de Niobio e Titânio Não Associado a Extração"
+"1405","072940202","Beneficiamento de Minerio de Tungstenio Não Associado a Extração"
+"1405","072940302","Beneficiamento de Minerio de Niquel Não Associado a Extração"
+"1405","072940501","Beneficiamento de Minérios de Cobre, Chumbo, Zinco e Outros Minerais Metálicos Não-ferrosos Não Especificados Anteriormente"
+"1405","081000102","Beneficiamento de Extração de Ardósia"
+"1405","081000202","Beneficiamento de Granito"
+"1405","081000302","Beneficiamento de Mármore"
+"1405","081000402","Beneficiamento de Calcário e Dolomita"
+"1405","081000602","Beneficiamento de Areia, Cascalho Ou Pedregulho"
+"1405","081000702","Beneficiamento de Argila"
+"1405","081000802","Beneficiamento de Saibro"
+"1405","081000902","Extração de Basalto e Beneficiamento Associado"
+"1405","081001001","Beneficiamento de Gesso e Caulim Associado à Extração"
+"1405","081009902","Britamento de Pedras e Beneficiamento de Outros Materiais Para Construção"
+"1405","089320002","Beneficiamento de Gemas"
+"1405","089910102","Beneficiamento de Grafita"
+"1405","089919902","Beneficiamento de Outros Minerais Não-metalicos Nao Especificados Anteriormente"
+"719","091060001","Atividades de Apoio à Extração de Petroleo e Gas Natural"
+"1405","091060002","Serviços de Liquefação e Regaseificação de Gas Natural, Na Mina, Para Transporte"
+"719","091060003","Serviços Relacionados com A Extração de Petróleo e Gas Natural, Realizado Por Terceiros, Exceto a Prospecção"
+"719","099040101","Atividades de Apoio à Extração de Minério de Ferro"
+"719","099040201","Atividades de Apoio à Extração de Minerais Metálicos Não-ferrosos"
+"719","099040301","Atividades de Apoio à Extração de Minerais Não-metálicos"
+"1405","101120102","Secagem e Salga de Couros e Peles de Bovinos"
+"1405","101120202","Secagem e Salga de Couros e Peles de Equinos"
+"1405","101120302","Serviço de Couro de Ovinos e Caprinos, Secagem e Salga"
+"1405","101120402","Serviço de Secagem e Salga de Couro de Bufalinos"
+"1405","101120501","Matadouro - Abate de Reses Sob Contrato, Exceto Abate de Suínos"
+"1405","101210302","Salga de Couros e Peles de Suinos (porcos)"
+"1405","101210401","Matadouro - Abate de Suínos Sob Contrato"
+"1405","103170002","Beneficiamento de Castanha-de-caju e De Castanha-do-para"
+"1405","104220002","Refino de óleos Vegetais Comestiveis e Nao Comestiveis(exceto de Milho)"
+"1405","105110002","Beneficiamento de Leite"
+"1405","106190101","Beneficiamento de Arroz"
+"1405","106940002","Beneficiamento de Cevada em Grao e Sagu"
+"1405","108130101","Beneficiamento de Café"
+"1405","109960502","Beneficiamento de Cha de Ervas Diversas"
+"1405","109969901","Beneficiamento de Guarana (em Bastao, em Pó, Etc)"
+"1405","121070001","Processamento Industrial do Fumo"
+"1405","131110002","Beneficiamento Realizado em Estabelecimento Nao Agricola de Algodao (algodao Cardado, Penteado, Etc.)"
+"1405","131200002","Beneficiamento de Fibras"
+"1405","134050101","Estamparia e Texturização em Fios, Tecidos, Artefatos Têxteis e Peças do Vestuário"
+"1405","134050201","Alvejamento, Tingimento e Torção em Fios, Tecidos, Artefatos Têxteis e Peças do Vestuário"
+"1405","134059901","Outros Serviços de Acabamento em Fios, Tecidos, Artefatos Têxteis e Peças do Vestuário"
+"1409","135110003","Confecção de Artefatos de Tecidos Para Uso Domestico, Quando Nao Integrada a Tecelagem, Para Usuário Final com Material Por Ele Fornecido"
+"1409","141180201","Facção de Roupas íntimas"
+"1409","141260101","Confecção de Peças do Vestuario, Exceto Roupas Intimas e As Confeccionadas Sob Medida"
+"1409","141260102","Atelier de Costura"
+"1409","141260201","Confecção, Sob Medida, de Peças do Vestuário, Exceto Roupas íntimas"
+"1409","141260301","Facção de Peças do Vestuário, Exceto Roupas íntimas"
+"1409","141340201","Confecção, Sob Medida, de Roupas Profissionais"
+"1409","141340301","Facção de Roupas Profissionais"
+"1405","153190201","Acabamento de Calçados de Couro Sob Contrato"
+"1405","161020102","Secagem, Preservação e Imunização da Madeira Serrada"
+"1405","161020201","Secagem, Preservação e Imunização da Madeira Resserrada"
+"1405","161020202","Beneficiamento de Madeira (serrada, Resserrada, Etc.)"
+"1405","161020302","Secagem, Preservação e Imunização da Madeira Serrada"
+"1405","161020402","Secagem, Preservação e Imunização da Madeira Resserrada"
+"1405","161020501","Serviço de Tratamento de Madeira Realizado Sob Contrato"
+"1413","162269902","Serviço de Carpintaria"
+"1304","181130101","Impressão de Jornais"
+"1304","181130101","Impressão de Jornais"
+"1304","181130101","Impressão de Jornais"
+"1304","181130201","Impressão de Livros, Revistas e Outras Publicações Periódicas"
+"1304","181130201","Impressão de Livros, Revistas e Outras Publicações Periódicas"
+"1304","181130201","Impressão de Livros, Revistas e Outras Publicações Periódicas"
+"1304","181210001","Impressão de Material de Segurança"
+"1304","181210001","Impressão de Material de Segurança"
+"1304","181210001","Impressão de Material de Segurança"
+"1304","181300101","Impressão de Material Para Uso Publicitário"
+"1304","181300101","Impressão de Material Para Uso Publicitário"
+"1304","181300101","Impressão de Material Para Uso Publicitário"
+"2401","181300102","Impressão de Banners e Adesivos"
+"1304","181309901","Impressão de Material Para Outros Usos"
+"1304","181309901","Impressão de Material Para Outros Usos"
+"1304","181309901","Impressão de Material Para Outros Usos"
+"1304","182110001","Serviços de Pre-impressao de Livros, Jornais, Revistas e Outros Periódicos"
+"1304","182110001","Serviços de Pre-impressao de Livros, Jornais, Revistas e Outros Periódicos"
+"1304","182110001","Serviços de Pre-impressao de Livros, Jornais, Revistas e Outros Periódicos"
+"1304","182110099","Serviços de Pre-impressao, Exceto de Livros, Jornais, Revistas e Outros Periódicos"
+"1304","182110099","Serviços de Pre-impressao, Exceto de Livros, Jornais, Revistas e Outros Periódicos"
+"1304","182110099","Serviços de Pre-impressao, Exceto de Livros, Jornais, Revistas e Outros Periódicos"
+"1408","182290101","Servicos de Encadernacao e Plastificacao"
+"1405","182299901","Serviços de Acabamentos Gráficos de Objetos Diversos de Livros, Jornais, Revistas e Outros Periódicos, Exceto Encadernação e Plastificação."
+"1405","182299902","Serviços de Acabamentos Gráficos,  de Livros, Jornais, Revistas e Outros Periódicos, Exceto Encadernação e Plastificação"
+"1301","183000101","Reprodução de Som em Qualquer Suporte"
+"1302","183000201","Reprodução de Vídeo em Qualquer Suporte"
+"1408","183000301","Reprodução de Software em Qualquer Suporte"
+"1404","221290001","Reforma de Pneumaticos Usados"
+"1404","221290002","Serviço de Pneus (recondicionamento, Recauchutagem, Recapagem Ou Remoldagem)"
+"1405","221960001","Beneficiamento de Borracha Natural e Sintetica"
+"1405","222939901","Beneficiamentos de Material Plastico, Tingimento, Pigmentação e Outros"
+"702","233030501","Preparação de Massa de Concreto e Argamassa Para Construção"
+"1405","239150101","Britamento de Pedras, Exceto Associado à Extração"
+"1405","239150201","Aparelhamento de Pedras Para Construção, Exceto Associado à Extração"
+"1405","239150301","Aparelhamento de Placas e Execução de Trabalhos em Mármore, Granito, Ardósia e Outras Pedras"
+"1405","239230002","Beneficiamento de Gesso Ou Gipsita"
+"1405","239910101","Decoração, Lapidação, Gravação, Vitrificação e Outros Trabalhos em Cerâmica, Louça, Vidro e Cristal"
+"1405","239919902","Serviço de Beneficiamento de Minerais Nao-metalicos Nao Associado a Extração"
+"1405","245120002","Serviço de Fundição de Metais Ferrosos"
+"1405","245210002","Serviço de Fundição de Metais Não-ferrosos e Suas Ligas"
+"1413","251100002","Fabricação de Estruturas Metalicas Sob Encomenda"
+"1413","251280002","Fabricação de Esquadrias de Metal Sob Encoenda (portoes, Marcos Ou Batentes, Grades, Basculantes, Portas, Janelas Etc.), Exceto de Alumínio"
+"1413","251280004","Fabricação de Esquadrias de Alumínio Sob Encomenda (portas, Grades, Portões, Basculantes e Semelhantes)"
+"1405","253220102","Serviço de Estamparia de Metais"
+"1405","253900101","Serviços de Usinagem, Tornearia e Solda"
+"1405","253900201","Serviços de Tratamento e Revestimento em Metais, , Exceto Térmico e Químico"
+"1405","253900202","Serviços de Tratamento Térmico e Químico de Metais  (têmpera, Recozimento, Cementação)"
+"1405","253900203","Serviço de Pintura em Produtos Metálicos"
+"1405","253902003","Serviço de Pintura Industrial"
+"1413","254200001","Fabricação de Artigos de Serralheria, Exceto Esquadrias"
+"1413","254200002","Serralheria (exceto Esquadrias)"
+"1405","254380002","Serviços de Ferramentaria"
+"1413","259930101","Serviços de Confecção de Armações Metálicas Para a Construção"
+"1405","259930201","Serviço de Corte e Dobra de Metais"
+"1405","259939902","Britamento, Lavagem, Peneiração e Outros Beneficiamentos de Escorias Ou de Outros Residuos Metalurgicos"
+"1406","261080002","Montagem de Circuitos Eletrônicos Para Terceiros"
+"1406","265230002","Serviço de Montagem de Cronômetros e Relógios"
+"1405","272280201","Recondicionamento de Baterias e Acumuladores Para Veículos Automotores"
+"1401","293010302","Serviço de Blindagem de Veiculos Automotores"
+"1403","295060001","Recondicionamento e Recuperação de Motores Para Veículos Automotores"
+"3901","321160101","Lapidação de Gemas"
+"414","325070601","Serviços de Prótese Dentária"
+"3901","325070901","Serviço de Laboratório óptico"
+"1405","329909901","Beneficiamento de Algas Marinhas"
+"9905","329909902","Serviço de Taxidermia"
+"1401","331120001","Manutenção e Reparação de Tanques, Reservatórios Metálicos e Caldeiras, Exceto Para Veículos"
+"1401","331210201","Manutenção e Reparação de Aparelhos e Instrumentos de Medida, Teste e Controle"
+"1401","331210301","Manutenção e Reparação de Aparelhos Eletromédicos e Eletroterapêuticos e Equipamentos de Irradiação"
+"1401","331210401","Manutenção e Reparação de Equipamentos e Instrumentos ópticos"
+"1401","331390101","Manutenção e Reparação de Geradores, Transformadores e Motores Elétricos"
+"1401","331390201","Manutenção e Reparação de Baterias e Acumuladores Elétricos, Exceto Para Veículos"
+"1401","331399901","Manutenção e Reparação de Máquinas, Aparelhos e Materiais Elétricos Não Especificados Anteriormente"
+"1401","331470101","Manutenção e Reparação de Máquinas Motrizes Não-elétricas"
+"1401","331470201","Manutenção e Reparação de Equipamentos Hidráulicos e Pneumáticos, Exceto Válvulas"
+"1401","331470301","Manutenção e Reparação de Válvulas Industriais"
+"1401","331470401","Manutenção e Reparação de Compressores"
+"1401","331470501","Manutenção e Reparação de Equipamentos de Transmissão Para Fins Industriais"
+"1401","331470601","Manutenção e Reparação de Máquinas, Aparelhos e Equipamentos Para Instalações Térmicas"
+"1401","331470701","Manutenção e Reparação de Máquinas e Aparelhos de Refrigeração e Ventilação Para Uso Industrial e Comercial"
+"1401","331470801","Manutenção e Reparação de Máquinas, Equipamentos e Aparelhos Para Transporte e Elevação de Cargas"
+"1401","331470901","Manutenção e Reparação de Máquinas de Escrever, Calcular e De Outros Equipamentos Não-eletrônicos Para Escritório"
+"1401","331471001","Manutenção e Reparação de Máquinas e Equipamentos Para Uso Geral Não Especificados Anteriormente"
+"1401","331471101","Manutenção e Reparação de Máquinas e Equipamentos Para Agricultura e Pecuária"
+"1401","331471201","Manutenção e Reparação de Tratores Agrícolas"
+"1401","331471301","Manutenção e Reparação de Máquinas-ferramenta"
+"1401","331471401","Manutenção e Reparação de Máquinas e Equipamentos Para a Prospecção e Extração de Petróleo"
+"1401","331471501","Manutenção e Reparação de Máquinas e Equipamentos Para Uso Na Extração Mineral, Exceto Na Extração de Petróleo"
+"1401","331471601","Manutenção e Reparação de Tratores, Exceto Agrícolas"
+"1401","331471701","Manutenção e Reparação de Máquinas e Equipamentos de Terraplenagem, Pavimentação e Construção, Exceto Tratores"
+"1401","331471801","Manutenção e Reparação de Máquinas Para a Indústria Metalúrgica, Exceto Máquinas-ferramenta"
+"1401","331471901","Manutenção e Reparação de Máquinas e Equipamentos Para As Indústrias de Alimentos, Bebidas e Fumo"
+"1401","331472001","Manutenção e Reparação de Máquinas e Equipamentos Para a Indústria Têxtil, do Vestuário, do Couro e Calçados"
+"1401","331472101","Manutenção e Reparação de Máquinas e Aparelhos Para a Indústria de Celulose, Papel e Papelão e Artefatos"
+"1401","331472201","Manutenção e Reparação de Máquinas e Aparelhos Para a Indústria do Plástico"
+"1401","331479901","Manutenção e Reparação de Outras Máquinas e Equipamentos Para Usos Industriais Não Especificados Anteriormente"
+"1401","331550001","Manutenção e Reparação de Veículos Ferroviários"
+"1401","331630101","Manutenção e Reparação de Aeronaves, Exceto a Manutenção Na Pista"
+"1401","331630201","Manutenção de Aeronaves Na Pista"
+"1401","331710101","Manutenção e Reparação de Embarcações e Estruturas Flutuantes"
+"1401","331710201","Manutenção e Reparação de Embarcações Para Esporte e Lazer"
+"1401","331980001","Manutenção e Reparação de Equipamentos e Produtos Não Especificados Anteriormente"
+"1402","331980002","Manutenção e Reparação de Instrumentos Não-eletrônicos Para Uso Médico-hospitalar, Executada Por Unidade Especializada"
+"1406","332100001","Instalação de Máquinas e Equipamentos Industriais"
+"1406","332100002","Instalação e Integração de Sistemas de Automação Industrial"
+"1406","332950101","Serviços de Montagem de Móveis de Qualquer Material"
+"1406","332959901","Instalação de Outros Equipamentos Não Especificados Anteriormente"
+"1703","351150201","Atividades de Coordenação e Controle da Operação da Geração e Transmissão de Energia Elétrica"
+"1711","351230001","Transmissão de Energia Elétrica"
+"1005","351310002","Corretagem, Intermediação e Agentes (agenciamento) de Energia Eletrica Produzida Por Terceiros"
+"1010","351400001","Distribuição de Energia Elétrica"
+"1010","352040201","Distribuição de Combustiveis Gasosos Por Redes Urbanas"
+"1005","352040202","Atividades de Corretores Ou Agentes de Gas Que Organizam a Venda de Gas Atraves de Sistemas de Distribuição Operados Sob Contrato"
+"9906","353010002","Serviço de Suprimento de Ar Condicionado"
+"9902","360060101","Captação, Tratamento e Distribuição de água"
+"1603","360060201","Distribuição de água Por Caminhões"
+"1603","360060201","Distribuição de água Por Caminhões"
+"1711","370110001","Gestão de Redes de Esgoto"
+"710","370290001","Atividades Relacionadas a Esgoto, Exceto a Gestão de Redes"
+"9901","370290002","Saneamento Ambiental, Inclusive Purificação, Tratamento, Esgotamento Sanitário e Congêneres"
+"709","370290003","Esvaziamento e Limpeza de Tanques de Infiltração e Fossas Sépticas, Sumidouros e Poços de Esgoto"
+"709","381140001","Coleta de Resíduos Não-perigosos"
+"709","381220001","Coleta de Resíduos Perigosos"
+"709","382110001","Tratamento e Disposição de Resíduos Não-perigosos"
+"709","382200001","Tratamento e Disposição de Resíduos Perigosos"
+"1405","383190101","Recuperação de Sucatas de Alumínio"
+"1405","383199901","Recuperação de Materiais Metálicos, Exceto Alumínio"
+"1405","383270001","Recuperação de Materiais Plásticos"
+"1405","383940101","Usinas de Compostagem"
+"1405","383949901","Recuperação de Materiais Não Especificados Anteriormente"
+"712","390050001","Descontaminação e Outros Serviços de Gestão de Resíduos"
+"702","412040001","Construção de Edificios"
+"705","412040002","Reformas em Apartamentos, Casas, Conjuntos Habitacionais, Predios, Edificios, Edificaçoes, Condominios, Residencias, Etc."
+"702","421110101","Construção de Rodovias e Ferrovias"
+"705","421110102","Manutenção de Rodovias e Ferrovias"
+"2401","421110201","Pintura Para Sinalização em Pistas Rodoviárias e Aeroportos"
+"702","421200001","Construção de Obras-de-arte Especiais"
+"705","421200002","Manutenção de Obras-de-arte Especiais"
+"702","421380001","Obras de Urbanizacao  Ruas, Pracas e Calcadas"
+"705","421380002","Reforma de Ruas, Praças e Calçadas"
+"702","422190101","Construção de Barragens e Represas Para Geração de Energia Elétrica"
+"702","422190201","Construção de Estações e Redes de Distribuição de Energia Elétrica"
+"710","422190301","Manutenção de Redes de Distribuição de Energia Elétrica"
+"702","422190401","Construção de Estações e Redes de Telecomunicações"
+"710","422190501","Manutenção de Estações e Redes de Telecomunicações"
+"702","422270101","Construção de Redes de Abastecimento de água, Coleta de Esgoto e Construções Correlatas, Exceto Obras de Irrigação"
+"702","422270201","Obras de Irrigação"
+"702","422350001","Construção de Redes de Transportes Por Dutos, Exceto Para água e Esgoto"
+"702","429100001","Obras Portuarias, Maritimas e Fluviais"
+"716","429100002","Limpeza de Rios, Portos, Canais, Baias, Lagos, Lagoas, Represas, Açudes e Similares (obras de Dragagem)"
+"702","429280101","Montagem de Estruturas Metalicas"
+"1413","429280102","Serviço de Soldagem Para Construção Civil"
+"702","429280201","Obras de Montagem Industrial"
+"702","429950101","Construção de Instalaçoes Esportivas e Recreativas"
+"705","429950102","Manutenção de Instalaçoes Esportivas (exceto Edificaçoes)"
+"702","429959901","Obras de Açudes"
+"715","429959902","Obras de Contenção de Encostas"
+"702","429959999","Outras Obras de Engenharia Civil Nao Especificadas Anteriormente"
+"704","431180101","Demolição de Edifícios e Outras Estruturas"
+"710","431180201","Preparação de Canteiro e Limpeza de Terreno"
+"702","431260001","Perfurações e Sondagens"
+"702","431340001","Obras de Terraplenagem"
+"702","431930001","Serviços de Preparação do Terreno Não Especificados Anteriormente"
+"702","432150001","Instalação Eletrica"
+"710","432150002","Manutenção Eletrica"
+"702","432150003","Obras de Instalações Elétricas em Edificações"
+"702","432230101","Instalações Hidráulicas, Sanitárias e De Gás"
+"1402","432230102","Serviços de Reparo de Rede Para Distribuição de Gases Fluidos e Diversos"
+"1401","432230103","Serviços de Instalação, Alteração e Manutenção de Rede Para Distribuição de Gases Fluidos e Diversos"
+"1401","432230104","Instalações Hidráulicas, Sanitárias e De Gás (reparação Ou Manutenção)"
+"702","432230201","Instalação de Sistemas Centrais de Ar Condicionado, de Ventilação e Refrigeração"
+"1401","432230202","Manutenção de Sistemas Centrais de Ar Condicionado, de Ventilação e Refrigeração"
+"1406","432230203","Instalação de Equipamento de Ar Condicionado"
+"702","432230301","Instalaçoes de Sistema de Prevenção Contra Incendio"
+"1401","432230302","Manutenção de Sistemas de Alarme Contra Incendio"
+"702","432910101","Instalação de Paineis Publicitarios"
+"1401","432910102","Reparação Ou Manutenção de Anuncios Luminosos Ou Nao"
+"1406","432910103","Instalação e Montagem de Placas Ou Painéis em Veículos Automotores e Similares"
+"1406","432910201","Instalação de Equipamentos Para Orientação à Navegação Marítima, Fluvial e Lacustre"
+"702","432910301","Instalação de Elevadores, Escadas e Esteiras Rolantes"
+"1401","432910302","Manutenção e Reparação de Elevadores, Escadas e Esteiras Rolantes"
+"702","432910401","Montagem e Instalação de Sistemas e Equipamentos de Iluminação e Sinalização em Vias Publicas, Portos e Aeroportos"
+"1401","432910402","Manutenção de Rede de Iluminação Publica e Sinais Luminosos (semaforos)"
+"702","432910501","Tratamentos Térmicos, Acústicos Ou de Vibração"
+"702","432919901","Montagem de Estruturas de Madeiras"
+"702","432919999","Outras Obras de Instalaçoes em Construçoes Nao Especificadas Anteriormente"
+"702","433040101","Impermeabilização em Obras de Engenharia Civil"
+"706","433040201","Instalação de Portas, Janelas, Tetos, Divisorias e Armarios Embutidos de Qualquer Material"
+"1413","433040202","Execução de Trabalhos de Carpintaria em Obras, Residencias, Lojas e Etc. Quando Nao Realizada Pelo Próprio Fabricante"
+"702","433040301","Obras de Acabamento em Gesso e Estuque"
+"705","433040401","Serviços de Pintura de Edifícios em Geral"
+"706","433040501","Aplicação de Revestimentos e De Resinas em Interiores e Exteriores"
+"708","433040502","Serviços de Calafetagem"
+"706","433040503","Colocação de Papeis de Parede"
+"707","433040504","Serviços de Raspagem, Polimento e Aplicação de Resinas em Pisos, Paredes e Tetos"
+"706","433040505","Colocação de Tacos, Carpetes e Outros Materiais de Revestimento de Pisos"
+"702","433049901","Outras Obras de Acabamento da Construção"
+"706","433049902","Instalação de Balcoes,equipamentos Para Lojas Comerciais, Toldos, Persianas (por Conta de Terceiros)"
+"706","433049903","Serviços de Texturização em Paredes"
+"705","433049904","Tratamento de Trincas e Fissuras em Paredes"
+"706","433049905","Instalação de Espelhos Por Conta de Terceiros"
+"710","433049906","Serviços de Manutenção e Conservação de Imóveis"
+"702","439160001","Obras de Fundaçoes"
+"9903","439160002","Locação de Bate-estacas e Equipamentos de Perfuração"
+"702","439160003","Locação de Bate-estacas e Equipamentos de Perfuração com Operador"
+"1711","439910101","Administração de Obras Sem Responsabilidade Técnica"
+"702","439910102","Administração de Obras com Responsabilidade Técnica"
+"1406","439910201","Montagem e Desmontagem de Andaimes e Outras Estruturas Temporárias"
+"702","439910301","Obras de Alvenaria"
+"304","439910401","Serviços de Operação e Fornecimento de Equipamentos Para Transporte e Elevação de Cargas e Pessoas Para Uso em Obras"
+"702","439910501","Perfuração e Construção de Poços de água"
+"702","439919901","Construção de Plantas Industriais (infra-estrutura)"
+"702","439919902","Serviços de Concretagem"
+"710","439919903","Serviços de Limpeza de Fachadas com Jateamento de Areia, Vapor, Agua Ou Semelhantes"
+"702","439919999","Serviços Especializados Para Construção Nao Especificados Anteriormente"
+"1009","451290101","Representantes Comerciais e Agentes do Comercio de Veiculos Automotores"
+"1005","451290102","Intermediarios Na Venda de Veiculos Automotores, Atacadista e Varejista"
+"1005","451290202","Corretora de Veiculos (em Consignação)"
+"1401","452000101","Serviços de Manutenção e Reparação Mecânica de Veículos Automotores"
+"1412","452000201","Serviços de Lanternagem Ou Funilaria e Pintura de Veículos Automotores"
+"1401","452000301","Serviços de Manutenção e Reparação Elétrica de Veículos Automotores"
+"1401","452000401","Serviços de Alinhamento e Balanceamento de Veículos Automotores"
+"1401","452000501","Serviços de Lavagem, Lubrificação e Polimento de Veículos Automotores, Exceto Lavagem a Seco"
+"1401","452000502","Serviços de Lavagem Automotiva a Seco"
+"1401","452000601","Serviços de Borracharia Para Veículos Automotores"
+"1401","452000701","Serviços de Manutenção e Reparação de Acessorios Para Veiculos Automotores"
+"1406","452000702","Serviços de Instalação de Acessórios Para Veiculos Automotores"
+"1411","452000703","Serviços de Capotaria"
+"1411","452000801","Serviços de Capotaria"
+"1009","453070601","Representantes Comerciais e Agentes do Comércio de Peças e Acessórios Novos e Usados Para Veículos Automotores"
+"1009","454210101","Representantes Comerciais e Agentes do Comércio de Motocicletas e Motonetas, Peças e Acessórios"
+"1401","454390001","Manutenção e Reparação de Motocicletas e Motonetas"
+"1009","461170001","Representantes Comerciais e Agentes do Comércio de Matérias-primas Agrícolas e Animais Vivos"
+"1009","461250001","Representantes Comerciais e Agentes do Comércio de Combustíveis, Minerais, Produtos Siderúrgicos e Químicos"
+"1009","461330001","Representantes Comerciais e Agentes do Comércio de Madeira, Material de Construção e Ferragens"
+"1009","461410001","Representantes Comerciais e Agentes do Comércio de Máquinas, Equipamentos, Embarcações e Aeronaves"
+"1009","461500001","Representantes Comerciais e Agentes do Comércio de Eletrodomésticos, Móveis e Artigos de Uso Doméstico"
+"1009","461680001","Representantes Comerciais e Agentes do Comércio de Têxteis, Vestuário, Calçados e Artigos de Viagem"
+"1009","461760001","Representantes Comerciais e Agentes do Comércio de Produtos Alimentícios, Bebidas e Fumo"
+"1009","461840101","Representantes Comerciais e Agentes do Comércio de Medicamentos, Cosméticos e Produtos de Perfumaria"
+"1009","461840201","Representantes Comerciais e Agentes do Comércio de Instrumentos e Materiais Odonto-médico-hospitalares"
+"1009","461840301","Representantes Comerciais e Agentes do Comércio de Jornais, Revistas e Outras Publicações"
+"1009","461849901","Outros Representantes Comerciais e Agentes do Comércio Especializado em Produtos Não Especificados Anteriormente"
+"1009","461920001","Representantes Comerciais e Agentes do Comércio de Mercadorias em Geral Não Especializado"
+"1405","464430102","Serviços de Fracionamento e Envasamento de Produtos Farmaceuticos de Uso Humano Próprios"
+"1405","464430202","Serviços de Fracionamento e Envasamento de Produtos Farmaceuticos de Uso Veterinario Próprios"
+"1405","464430203","Serviços de Liquefação de Gas Para Fins de Transporte em Veiculos Dutos Moveis"
+"1401","475120102","Recarga de Cartuchos Para Equipamentos de Informatica"
+"1401","475120201","Recarga de Cartuchos Para Equipamentos de Informática"
+"407","477170201","Comércio Varejista de Produtos Farmacêuticos, com Manipulação de Fórmulas"
+"1407","478909913","Colocação de Molduras e Congeneres"
+"1601","491240201","Transporte Ferroviário de Passageiros Municipal e Em Região Metropolitana"
+"1601","491240201","Transporte Ferroviário de Passageiros Municipal e Em Região Metropolitana"
+"1601","491240201","Transporte Ferroviário de Passageiros Municipal e Em Região Metropolitana"
+"1601","491240201","Transporte Ferroviário de Passageiros Municipal e Em Região Metropolitana"
+"1601","491240301","Transporte Metroviário"
+"1601","491240301","Transporte Metroviário"
+"1601","491240301","Transporte Metroviário"
+"1601","491240301","Transporte Metroviário"
+"1601","492130101","Transporte Rodoviario Coletivo de Passageiros, com Itinerario Fixo, Municipal"
+"1601","492130101","Transporte Rodoviario Coletivo de Passageiros, com Itinerario Fixo, Municipal"
+"1601","492130101","Transporte Rodoviario Coletivo de Passageiros, com Itinerario Fixo, Municipal"
+"1601","492130101","Transporte Rodoviario Coletivo de Passageiros, com Itinerario Fixo, Municipal"
+"1601","492130102","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Principal"
+"1601","492130102","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Principal"
+"1601","492130102","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Principal"
+"1601","492130102","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Principal"
+"1602","492130103","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Fisica"
+"1602","492130103","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Fisica"
+"1602","492130103","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Fisica"
+"1602","492130104","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Juridica"
+"1602","492130104","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Juridica"
+"1602","492130104","Transporte Rodoviario de Passageiros, Regular, Municipal Urbano - Alternativo Pessoa Juridica"
+"1603","492300101","Serviço de Taxi"
+"1603","492300101","Serviço de Taxi"
+"1603","492300102","Serviço de Moto Taxi"
+"1603","492300102","Serviço de Moto Taxi"
+"1603","492300201","Serviço de Transporte de Passageiros - Locação de Automóveis com Motorista"
+"1603","492300201","Serviço de Transporte de Passageiros - Locação de Automóveis com Motorista"
+"1603","492480001","Transporte Escolar"
+"1603","492480001","Transporte Escolar"
+"1603","492990101","Transporte Rodoviário Coletivo de Passageiros, Sob Regime de Fretamento, Municipal"
+"1603","492990101","Transporte Rodoviário Coletivo de Passageiros, Sob Regime de Fretamento, Municipal"
+"902","492990301","Organização de Excursões em Veículos Rodoviários Próprios, Municipal"
+"902","492990401","Organização de Excursões em Veículos Rodoviários Próprios, Intermunicipal, Interestadual e Internacional"
+"1603","492999901","Transporte Rodoviario de Cargas em Geral, Municipal"
+"1603","492999901","Transporte Rodoviario de Cargas em Geral, Municipal"
+"1603","492999999","Outros Transportes Rodoviarios de Passageiros Nao Especificados Anteriormente - Municipal"
+"1603","492999999","Outros Transportes Rodoviarios de Passageiros Nao Especificados Anteriormente - Municipal"
+"1603","493020101","Transporte Rodoviário de Carga, Exceto Produtos Perigosos e Mudanças, Municipal"
+"1603","493020101","Transporte Rodoviário de Carga, Exceto Produtos Perigosos e Mudanças, Municipal"
+"1603","493020102","Transporte Rodoviário de Medicamentos Não Sujeitos a Controle Especial, Produtos Para a Saúde e Insumos Farmacêuticos (municipal)"
+"1603","493020102","Transporte Rodoviário de Medicamentos Não Sujeitos a Controle Especial, Produtos Para a Saúde e Insumos Farmacêuticos (municipal)"
+"1603","493020103","Transporte Rodoviário de Medicamentos Sujeitos a Controle Especial (municipal)"
+"1603","493020103","Transporte Rodoviário de Medicamentos Sujeitos a Controle Especial (municipal)"
+"1603","493020104","Transporte Rodoviário de Cosméticos E/Ou Saneantes (municipal)"
+"1603","493020104","Transporte Rodoviário de Cosméticos E/Ou Saneantes (municipal)"
+"1603","493020301","Transporte Rodoviario Municipal de Produtos Perigosos"
+"1603","493020301","Transporte Rodoviario Municipal de Produtos Perigosos"
+"1603","493020401","Transporte Rodoviario Municipal de Mudanças"
+"1603","493020401","Transporte Rodoviario Municipal de Mudanças"
+"1603","494000001","Transporte Dutoviario"
+"1603","494000001","Transporte Dutoviario"
+"1401","494000002","Manutenção de Dutos de Transporte"
+"303","494000003","Locação e Sublocação de Postes e Cabos"
+"303","494000004","Serviços de Compartilhamento de Computadores (escritórios Virtuais)"
+"1603","495070001","Trens Turísticos, Teleféricos e Similares"
+"1603","495070001","Trens Turísticos, Teleféricos e Similares"
+"1603","501140101","Transporte Marítimo de Cabotagem - Carga"
+"1603","501140101","Transporte Marítimo de Cabotagem - Carga"
+"1603","501140201","Transporte Marítimo de Cabotagem - Passageiros"
+"1603","501140201","Transporte Marítimo de Cabotagem - Passageiros"
+"1603","502110101","Transporte Por Navegação Interior de Carga, Municipal, Exceto Travessia"
+"1603","502110101","Transporte Por Navegação Interior de Carga, Municipal, Exceto Travessia"
+"1603","502200101","Transporte Por Navegação Interior de Passageiros em Linhas Regulares, Municipal, Exceto Travessia"
+"1603","502200101","Transporte Por Navegação Interior de Passageiros em Linhas Regulares, Municipal, Exceto Travessia"
+"2001","503010101","Navegação de Apoio Marítimo"
+"2001","503010201","Navegação de Apoio Portuário"
+"2001","503010301","Serviço de Rebocadores e Empurradores"
+"1603","509120101","Transporte de Passageiros Por Navegação de Travessia, Municipal"
+"1603","509120101","Transporte de Passageiros Por Navegação de Travessia, Municipal"
+"1603","509120102","Transporte de Cargas Por Navegação de Travessia, Municipal"
+"1603","509120102","Transporte de Cargas Por Navegação de Travessia, Municipal"
+"1603","509980101","Transporte Aquaviário Para Passeios Turísticos"
+"1603","509980101","Transporte Aquaviário Para Passeios Turísticos"
+"1603","509989901","Outros Transportes Aquaviários Não Especificados Anteriormente"
+"1603","509989901","Outros Transportes Aquaviários Não Especificados Anteriormente"
+"1603","511290101","Serviço de Taxi Aereo e Locação de Aeronaves com Tripulação Municpal"
+"1603","511290101","Serviço de Taxi Aereo e Locação de Aeronaves com Tripulação Municpal"
+"1603","511299901","Outros Serviços de Transporte Aereo de Passageiros Nao-regular Municipal"
+"1603","511299901","Outros Serviços de Transporte Aereo de Passageiros Nao-regular Municipal"
+"1603","512000001","Transporte Aereo de Carga Municipal"
+"1603","512000001","Transporte Aereo de Carga Municipal"
+"1104","521170101","Armazéns Gerais - Emissão de Warrant"
+"1104","521170201","Guarda-móveis"
+"1104","521179901","Depósitos de Mercadorias Para Terceiros, Exceto Armazéns Gerais e Guarda-móveis"
+"1104","521179902","Depósitos de Mercadorias de Uso Veterinário Para Terceiros"
+"1104","521250001","Carga e Descarga"
+"2201","522140001","Concessionárias de Rodovias, Pontes, Túneis e Serviços Relacionados"
+"2003","522220001","Terminais Rodoviarios e Ferroviarios"
+"2003","522220002","Operação de Terminais Rodoviarios, Ferroviarios, Metroviarios e Serviços Relacionados"
+"2003","522220003","Terminais Rodoviarios de Passageiros (rodoviária)"
+"2003","522220004","Terminais Rodoviarios de Cargas"
+"1101","522310001","Estacionamento de Veículos"
+"1101","522310002","Serviço Especial de Guarda de Veículos (estacionamento Comercial com Permanência do Usuário – Drive-in) Horizontal"
+"1702","522900101","Serviços de Apoio Ao Transporte Por Táxi, Inclusive Centrais de Chamada"
+"1414","522900201","Serviços de Reboque de Veículos"
+"710","522909901","Serviços de Limpeza de Locomotivas"
+"1104","522909902","Serviços de Guarda-volumes em Terminais Rodoviarios"
+"1711","522909903","Serviços de Gestao de Trânsito e Trafego"
+"1711","522909904","Serviços de Gestao e Operação de Trânsito e Trafego"
+"1405","522909905","Serviços de Liquefação de Gas Para Fins de Transporte em Veiculos Dutos Moveis"
+"1102","522909906","Monitoramento e Controle de Trânsito"
+"1103","522909907","Serviços de Escolta No Transporte Rodoviário de Cargas Especiais, Intramunicipal"
+"1702","522909999","Outras Atividades Auxiliares dos Transportes Terrestres Nao Especificadas Anteriormente"
+"1711","523110101","Administração da Infra-estrutura Portuária"
+"2001","523110201","Atividades do Operador Portuário"
+"2001","523110301","Gestão de Terminais Aquaviários"
+"1006","523200001","Atividades de Agenciamento Marítimo"
+"1104","523970001","Serviços de Guarda-volumes, No Transporte Hidroviario"
+"1603","523970002","Serviços de Translado de Passageiros No Interior das Instalaçoes Portuarias"
+"1603","523970002","Serviços de Translado de Passageiros No Interior das Instalaçoes Portuarias"
+"1603","523970003","Serviços de Translado de Passageiros No Transporte Terrestre, Intramunicipal"
+"1603","523970003","Serviços de Translado de Passageiros No Transporte Terrestre, Intramunicipal"
+"2001","523970099","Atividades Auxiliares dos Transportes Aquaviarios Nao Especificadas Anteriormente"
+"2001","523970101","Serviços de Praticagem"
+"1104","523979901","Serviços de Guarda-volumes, No Transporte Hidroviario"
+"1603","523979902","Serviços de Translado de Passageiros No Interior das Instalaçoes Portuarias"
+"1603","523979902","Serviços de Translado de Passageiros No Interior das Instalaçoes Portuarias"
+"1603","523979903","Serviços de Translado de Passageiros No Transporte Terrestre, Intramunicipal"
+"1603","523979903","Serviços de Translado de Passageiros No Transporte Terrestre, Intramunicipal"
+"2001","523979999","Atividades Auxiliares dos Transportes Aquaviarios Nao Especificadas Anteriormente"
+"2002","524010101","Operação dos Aeroportos e Campos de Aterrissagem"
+"2002","524019901","Atividades Auxiliares dos Transportes Aereos, Exceto Operação dos Aeroportos e Campos de Aterrissagem"
+"710","524019902","Limpeza de Avioes, Aeronaves"
+"1101","524019903","Serviços de Estacionamento e Hangaragem de Helicópteros"
+"1104","524019904","Serviços de Guarda-volumes, em Terminais Aereos"
+"710","524019905","Manutenção de Interior de Aeronaves (carpetes e Estofados)"
+"3301","525080101","Comissaria de Despachos"
+"3301","525080201","Atividades de Despachantes Aduaneiros"
+"1005","525080301","Agenciamento de Cargas, Exceto Para o Transporte Maritimo"
+"1104","525080302","Serviços de Acondicionamento e Agrupamento de Cargas No Transporte Aereo, Ferroviario e Rodoviario"
+"1703","525080401","Organização Logística do Transporte de Carga"
+"1703","525080501","Operador de Transporte Multimodal - Otm"
+"2601","531050101","Atividades do Correio Nacional"
+"2601","531050201","Atividades De franqueadas e Permissionárias do Correio Nacional"
+"2601","532020101","Serviços de Malote Não Realizados Pelo Correio Nacional"
+"2601","532020201","Serviços de Entrega Rápida"
+"1010","532020202","Entrega de Jornais e Revistas em Domicílio Sob Contrato"
+"901","551080101","Hoteis e Resorts"
+"901","551080102","Pousadas"
+"1711","551080103","Administradora de Hoteis"
+"901","551080104","Serviços de Spa com Alojamento"
+"901","551080201","Flats e Apart-hotéis"
+"901","551080301","Motéis"
+"901","559060101","Albergues, Exceto Assistenciais"
+"901","559060201","Campings"
+"901","559060301","Pensões (alojamento)"
+"901","559069901","Outros Alojamentos Não Especificados Anteriormente"
+"901","559069902","Hostel"
+"1710","562010201","Serviços de Alimentação Para Eventos e Recepções - Bufê"
+"1405","562010202","Serviços de Preparação de Alimentos com Insumos Fornecidos Pelo Tomador"
+"1702","581150001","Edição de Livros"
+"1711","581150002","Gestao de Direitos Autorais de Obras Literarias"
+"1003","581150003","Intermediação Na Aquisição de Direitos Autorais de Obras Literarias"
+"1702","581230001","Edição de Jornais"
+"1702","581230101","Edição de Jornais Diários"
+"1702","581230201","Edição de Jornais Não Diários"
+"1702","581310001","Edição de Revistas"
+"1702","581910001","Edição de Cadastros, Listas e Outros Produtos Gráficos"
+"1702","582120001","Edição Integrada à Impressão de Livros"
+"1702","582210001","Edição Integrada à Impressão de Jornais"
+"1702","582210101","Edição Integrada à Impressão de Jornais Diários"
+"1702","582210201","Edição Integrada à Impressão de Jornais Não Diários"
+"1702","582390001","Edição Integrada à Impressão de Revistas"
+"1702","582980001","Edição Integrada à Impressão de Cadastros, Listas e Outros Produtos Gráficos"
+"1302","591110101","Estúdios Cinematográficos"
+"1302","591110201","Produção de Filmes Para Publicidade"
+"1302","591119901","Atividades de Produção Cinematografica, de Videos e De Programas de Televisao Nao Especificadas Anteriormente"
+"1302","591119902","Filmagem de Programas de Televisao Por Produtores Independentes"
+"1301","591200101","Serviços de Dublagem"
+"1301","591200201","Serviços de Mixagem Sonora em Produção Audiovisual"
+"1302","591209901","Atividades de Pós-produção Cinematográfica, de Vídeos e De Programas de Televisão Não Especificadas Anteriormente"
+"1010","591380001","Distribuição Cinematográfica, de Vídeo e De Programas de Televisão"
+"1202","591460001","Atividades de Exibição Cinematográfica"
+"302","591460002","Espaço Cultural de Projeção de Filmes e Vídeos"
+"1301","592010001","Atividades de Gravação de Som e De Edição de Música"
+"9907","601010001","Atividades de Rádio"
+"1212","601010002","Broadcasting em Rádio"
+"1212","601010003","Serviços de Canais de Música"
+"9907","602170001","Atividades de Televisão Aberta"
+"1724","602250101","Programadoras"
+"1724","602250101","Programadoras"
+"1005","602250201","Atividades Relacionadas à Televisão Por Assinatura, Exceto Programadoras"
+"103","614180002","Acesso à Internet Por Operadoras de Televisão a Cabo"
+"103","614340002","Acesso à Internet Por Televisão Por Satélite"
+"103","619060101","Provedores de Acesso às Redes de Comunicações"
+"103","619060201","Provedores de Voz Sobre Protocolo Internet - Voip"
+"1401","619069901","Serviços de Manutenção de Linhas de Telefones"
+"3101","619069902","Serviços de Instalação de Linhas de Telefones"
+"1102","619069903","Serviços de Rastreamento Por Satelite"
+"3101","619069904","Serviços de Manutenção de Suportes Para Circuitos de Dados"
+"3101","619069905","Serviços de Instalação de Suportes Para Circuitos de Dados"
+"3101","619069906","Serviços de Recarga de Telefone Celular (exceto Venda de Cartão Telefônico)"
+"3101","619069999","Outras Atividades de Telecomunicaçoes Nao Especificadas Anteriormente"
+"101","620150001","Análise de Sistemas Sob Encomenda"
+"104","620150002","Elaboração de Programas de Banco de Dados Sob Encomenda"
+"104","620150003","Fornecimento de Documentação de Programas de Computador Desenvolvidos Sob Encomenda"
+"104","620150099","Desenvolvimento de Programas de Computador Sob Encomenda"
+"101","620150101","Análise de Sistemas Sob Encomenda"
+"104","620150102","Elaboração de Programas de Banco de Dados Sob Encomenda"
+"104","620150103","Fornecimento de Documentação de Programas de Computador Desenvolvidos Sob Encomenda"
+"104","620150199","Desenvolvimento de Programas de Computador Sob Encomenda"
+"108","620150201","Web Design"
+"108","620150202","Confecção de Página Na Internet"
+"101","620230001","Desenvolvimento de Programas de Computador Customizaveis"
+"105","620230002","Licenciamento de Programas de Computador Customizaveis"
+"1009","620230003","Representação de Software Customizaveis"
+"101","620310001","Desenvolvimento de Programas de Computador Nao-customizaveis"
+"102","620310002","Atividades de Programação com O Uso de Linguagens de Programação"
+"1009","620310003","Representação de Programas de Informatica Nao-customizaveis"
+"105","620310004","Licenciamento de Programas de Informatica Nao-customizaveis"
+"106","620400001","Consultoria em Tecnologia da Informação"
+"107","620400002","Serviços de Edição de Site, Banco de Dados e Software Sob Encomenda"
+"107","620910001","Suporte Técnico, Manutenção e Outros Serviços em Tecnologia da Informação"
+"108","620910002","Serviços de Desenho de Paginas Para a Internet - Web Design"
+"108","620910003","Serviços de  Confecção de Paginas Para a Internet"
+"1209","631190001","Aluguel de Hora em Computador"
+"103","631190003","Digitalização Para Entrada de Dados"
+"103","631190004","Serviços de Hospedagem de Páginas, Sites e Dados - Web Hosting"
+"103","631190099","Tratamento de Dados, Provedores de Serviços de Aplicação e Serviços de Hospedagem Na Internet"
+"1010","631940001","Serviços de Distribuição On Line de Conteúdo"
+"1701","631940002","Serviço de De Certificação Digital"
+"109","631940003","Serviços de Disponibilização de Musica Atraves da Internet"
+"109","631940003","Serviços de Disponibilização de Musica Atraves da Internet"
+"103","631940004","Serviços de Hospedagem de Paginas, Sites e Dados - Web Hosting"
+"103","631940005","Site de Busca Na Internet"
+"109","631940006","Serviços de Disponibilização de áudio, Vídeo, Imagem e Texto Por Meio da Internet"
+"109","631940006","Serviços de Disponibilização de áudio, Vídeo, Imagem e Texto Por Meio da Internet"
+"1701","631940007","Serviço de Certificação Digital Prestado a Seus Associados Por Associação Privada Sem Fins Lucrativos "
+"103","631940099","Portais, Provedores de Conteudo e Outros Serviços de Informação Na Internet"
+"103","631940101","Site de Busca Na Internet"
+"1007","639170001","Agências de Notícias"
+"1007","639170001","Agências de Notícias"
+"1701","639920001","Outras Atividades de Prestação de Serviços de Informação Não Especificadas Anteriormente"
+"1502","642120001","Bancos Comerciais"
+"1502","642120002","Abertura de Contas em Geral"
+"1504","642120003","Fornecimento Ou Emissao de Atestados em Geral, Inclusive Atestado de Idoneidade, Atestado de Capacidade Financeira e Congeneres."
+"1505","642120004","Cadastro, Elaboração de Ficha Cadastral, Renovação Cadastral e Congeneres, Inclusao Ou Exclusao No Cadastro de Emitentes de Cheques Sem Fundos Ccf Ou em Quaisquer Outros Bancos Cadastrais."
+"1506","642120005","Emissao, Reemissao e Fornecimento de Avisos, Comprovantes e Documentos em Geral"
+"1511","642120006","Devolução de Titulos, Protesto de Titulos, Sustação de Protesto, Manutenção de Titulos, Reapresentação de Titulos, e Demais Serviços a Eles Relacionados."
+"1513","642120007","Serviços Relacionados a Operaçoes de Câmbio em Geral"
+"1514","642120008","Fornecimento, Emissao, Reemissao, Renovação e Manutenção de Cartoes e Congeneres"
+"1515","642120009","Compensação de Cheques e Titulos Quaisquer"
+"1516","642120010","Emissao, Reemissao, Liquidação, Alteração, Cancelamento e Baixa de Ordens de Pagamento e Similares"
+"1517","642120011","Emissao, Fornecimento, Devolução, Sustação, Cancelamento e Oposição de Cheques Quaisquer"
+"1503","642120012","Locação e Manutenção de Cofres Particulares, de Terminais Eletrônicos, de Terminais de Atendimento e De Bens e Equipamentos em Geral"
+"1518","642120013","Serviços Relacionados a Credito Imobiliario, Avaliação e Vistoria de Imóvel Ou Obra, Analise Tecnica e Juridica, Emissao, Reemissao, Alteração, Transferencia e Renegociação de Contrato, Emissao e Reemissao do Termo de Quitação e Os Demais Serviços Relacionados a Credito Imobiliário"
+"1507","642120014","Acesso, Movimentação, Atendimento e Consulta a Contas em Geral, Por Qualquer Meio Ou Processo, Inclusive Por Telefone, Facsimile, Internet e Telex, Acesso a Terminais de Atendimento, Inclusive Vinte e Quatro Horas; Acesso a Outro Banco e à Rede Compartilhada; Fornecimento de Saldo, Extrato e As Demais Informações Relativas a Contas Sem Geral, Por Qualquer Meio Ou Processo"
+"1502","642210001","Bancos Múltiplos, com Carteira Comercial"
+"1502","642390001","Caixas Econômicas"
+"1502","642470101","Bancos Cooperativos"
+"1502","642470201","Cooperativas Centrais de Crédito"
+"1502","642470301","Cooperativas de Crédito Mútuo"
+"1502","642470401","Cooperativas de Crédito Rural"
+"1501","643100001","Bancos Múltiplos, Sem Carteira Comercial"
+"1501","643100001","Bancos Múltiplos, Sem Carteira Comercial"
+"1501","643100001","Bancos Múltiplos, Sem Carteira Comercial"
+"1501","643280001","Bancos de Investimento"
+"1501","643280001","Bancos de Investimento"
+"1501","643280001","Bancos de Investimento"
+"1501","643360001","Bancos de Desenvolvimento"
+"1501","643360001","Bancos de Desenvolvimento"
+"1501","643360001","Bancos de Desenvolvimento"
+"1501","643440001","Agências de Fomento"
+"1501","643440001","Agências de Fomento"
+"1501","643440001","Agências de Fomento"
+"1508","643520101","Sociedades de Crédito Imobiliário"
+"1508","643520201","Associações de Poupança e Empréstimo"
+"1508","643520301","Companhias Hipotecárias"
+"1508","643610001","Sociedades de Crédito, Financiamento e Investimento - Financeiras"
+"1508","643790001","Sociedades de Crédito Ao Microempreendedor"
+"1513","643870101","Bancos de Câmbio"
+"1005","643879901","Outras Instituições de Intermediação Não-monetária Não Especificadas Anteriormente"
+"1509","644090001","Arrendamento Mercantil"
+"1509","644090001","Arrendamento Mercantil"
+"1509","644090001","Arrendamento Mercantil"
+"1501","645060001","Sociedades de Capitalização"
+"1501","645060001","Sociedades de Capitalização"
+"1501","645060001","Sociedades de Capitalização"
+"1711","646110001","Holdings de Instituições Financeiras"
+"1711","646200001","Holdings de Instituições Não-financeiras"
+"1711","646380001","Outras Sociedades de Participação, Exceto Holdings"
+"1501","647010101","Fundos de Investimento, Exceto Previdenciários e Imobiliários"
+"1501","647010101","Fundos de Investimento, Exceto Previdenciários e Imobiliários"
+"1501","647010101","Fundos de Investimento, Exceto Previdenciários e Imobiliários"
+"1501","647010201","Fundos de Investimento Previdenciários"
+"1501","647010201","Fundos de Investimento Previdenciários"
+"1501","647010201","Fundos de Investimento Previdenciários"
+"1501","647010301","Fundos de Investimento Imobiliários"
+"1501","647010301","Fundos de Investimento Imobiliários"
+"1501","647010301","Fundos de Investimento Imobiliários"
+"1722","649130001","Sociedades de Fomento Mercantil - Factoring"
+"1722","649130002","Assessoria, Analise, Avaliação, Atendimento, Consulta, Cadastro, Seleção, Gerenciamento de Informações, Administração de Contas a Receber Ou a Pagar E, em Geral, Relacionados a Operações de Faturização (factoring)."
+"1004","649130003","Agenciamento, Corretagem Ou Intermediação de Contratos de Faturização (factoring)."
+"1004","649130003","Agenciamento, Corretagem Ou Intermediação de Contratos de Faturização (factoring)."
+"1004","649130003","Agenciamento, Corretagem Ou Intermediação de Contratos de Faturização (factoring)."
+"1002","649210001","Securitização de Créditos"
+"1501","649300001","Administração de Consórcios Para Aquisição de Bens e Direitos"
+"1501","649300001","Administração de Consórcios Para Aquisição de Bens e Direitos"
+"1501","649300001","Administração de Consórcios Para Aquisição de Bens e Direitos"
+"1501","649990101","Clubes de Investimento"
+"1501","649990101","Clubes de Investimento"
+"1501","649990101","Clubes de Investimento"
+"1501","649990201","Sociedades de Investimento"
+"1501","649990201","Sociedades de Investimento"
+"1501","649990201","Sociedades de Investimento"
+"1501","649990401","Caixas de Financiamento de Corporações"
+"1501","649990401","Caixas de Financiamento de Corporações"
+"1501","649990401","Caixas de Financiamento de Corporações"
+"1508","649990501","Concessão de Crédito Pelas Oscip"
+"1501","649999901","Casas de Penhor"
+"1501","649999901","Casas de Penhor"
+"1501","649999901","Casas de Penhor"
+"1505","649999999","Outras Atividades de Serviços Financeiros Nao Especificadas Anteriormente"
+"2503","651110201","Planos de Auxílio-funeral"
+"423","652010001","Sociedade Seguradora de Seguros Saúde"
+"423","652010001","Sociedade Seguradora de Seguros Saúde"
+"423","652010001","Sociedade Seguradora de Seguros Saúde"
+"422","655020001","Planos de Saude"
+"422","655020001","Planos de Saude"
+"422","655020001","Planos de Saude"
+"423","655020002","Outros Planos de Saude Que Se Cumpram Através de Serviços de Terceiros Contratados, Credenciados, Cooperados Ou Apenas Pagos Pelo Operador do Plano Mediante Indicação do Beneficiário."
+"423","655020002","Outros Planos de Saude Que Se Cumpram Através de Serviços de Terceiros Contratados, Credenciados, Cooperados Ou Apenas Pagos Pelo Operador do Plano Mediante Indicação do Beneficiário."
+"423","655020002","Outros Planos de Saude Que Se Cumpram Através de Serviços de Terceiros Contratados, Credenciados, Cooperados Ou Apenas Pagos Pelo Operador do Plano Mediante Indicação do Beneficiário."
+"1703","661180101","Bolsa de Valores"
+"1703","661180201","Bolsa de Mercadorias"
+"1703","661180301","Bolsa de Mercadorias e Futuros"
+"1711","661180401","Administração de Mercados de Balcão Organizados"
+"1002","661260101","Corretoras de Títulos e Valores Mobiliários"
+"1002","661260201","Distribuidoras de Títulos e Valores Mobiliários"
+"1001","661260301","Corretoras de Câmbio"
+"1002","661260401","Corretoras de Contratos de Mercadorias"
+"1002","661260501","Agentes de Investimentos em Aplicações Financeiras"
+"1501","661340001","Administração de Cartões de Crédito"
+"1501","661340001","Administração de Cartões de Crédito"
+"1501","661340001","Administração de Cartões de Crédito"
+"1512","661930101","Serviços de Liquidação e Custódia"
+"1510","661930201","Correspondentes de Instituições Financeiras"
+"1009","661930301","Representações de Bancos Estrangeiros"
+"1507","661930401","Caixas Eletrônicos"
+"1501","661930501","Operadoras de Cartões de Débito"
+"1501","661930501","Operadoras de Cartões de Débito"
+"1501","661930501","Operadoras de Cartões de Débito"
+"1004","661939901","Agenciamento, Corretagem Ou Intermediação de Contratos de Arrendamento Mercantil (leasing)"
+"1004","661939901","Agenciamento, Corretagem Ou Intermediação de Contratos de Arrendamento Mercantil (leasing)"
+"1004","661939901","Agenciamento, Corretagem Ou Intermediação de Contratos de Arrendamento Mercantil (leasing)"
+"1002","661939902","Serviços de Intermediação Na Obtenção de Empréstimos"
+"1701","661939999","Outras Atividades Auxiliares dos Serviços Financeiros Não Especificadas Anteriormente"
+"1801","662150101","Peritos e Avaliadores de Seguros"
+"1717","662150201","Auditoria e Consultoria Atuarial"
+"1001","662230001","Corretores e Agentes de Seguros, de Planos de Previdência Complementar e De Saúde"
+"1701","662910001","Atividades Auxiliares dos Seguros, da Previdência Complementar e Dos Planos de Saúde Não Especificadas Anteriormente"
+"1711","663040001","Atividades de Administração de Fundos Por Contrato Ou Comissão"
+"302","681020201","Aluguel de Imóveis Próprios"
+"1005","682180101","Corretagem Na Compra e Venda de Imóveis"
+"2801","682180102","Avaliação de Imóveis"
+"1005","682180201","Corretagem No Aluguel de Imóveis"
+"1711","682260001","Gestão e Administração da Propriedade Imobiliária"
+"1711","682260002","Administradoras de Shopping Center"
+"1713","691170101","Serviços Advocatícios"
+"1714","691170201","Atividades Auxiliares da Justiça"
+"1714","691170202","Arbitragem de Qualquer Especie, Inclusive Juridica."
+"1003","691170301","Agente de Propriedade Industrial"
+"301","691170302","Cessao de Direito de Uso de Marcas e De Sinais de Propaganda."
+"2101","691250001","Cartórios"
+"1718","692060101","Atividades de Contabilidade"
+"1718","692060201","Atividades de Consultoria Contábil"
+"1713","692060202","Atividades de Consultoria Tributária Por Advogados"
+"1718","692060203","Atividades de Consultoria Tributaria Por Profissional de Contabilidade"
+"1715","692060204","Atividades de Auditoria Contabil e Tributaria"
+"1715","692060205","Atividades de Perícias Contábeis e Tributárias"
+"1701","702040001","Atividades de Consultoria em Gestao Empresarial, Exceto Consultoria Tecnica Especifica"
+"1701","702040002","Consultoria em Negociação Trabalhista"
+"1719","702040003","Consultoria Financeira a Empresas"
+"1716","702040004","Analise de Organização e Metodos"
+"1009","702040005","Atividade de Lobista"
+"1703","702040006","Planejamento e Acompanhamento de Programas de Manutenção de Máquinas e Equipamentos"
+"3501","702040007","Assessoria de Imprensa  e Relações Públicas"
+"701","711110001","Serviços de Arquitetura"
+"701","711200001","Serviços de Engenharia"
+"717","711200002","Serviços de Fiscalização de Obras"
+"703","711200003","Elaboração de Projetos de Engenharia"
+"1402","711200004","Serviços Técnicos de Engenharia"
+"718","711970101","Serviços de Cartografia, Topografia e Geodesia"
+"701","711970102","Serviços de Agrimensura"
+"703","711970103","Projetos Topograficos"
+"718","711970201","Atividades de Estudos Geologicos"
+"703","711970202","Elaboração de Projetos de Prospecção de Petróleo e Gas Natural"
+"3201","711970301","Serviços de Desenho Técnico Relacionados à Arquitetura e Engenharia"
+"1708","711970401","Serviços de Perícia Técnica Relacionados à Segurança do Trabalho"
+"718","711979901","Serviços de Aerofotogrametria"
+"3101","711979999","Atividades Tecnicas Relacionadas à Engenharia e Arquitetura Nao Especificadas Anteriormente"
+"1708","712010001","Testes e Analises Tecnicas de Produtos Não Sujeitos à Vigilância Sanitária"
+"201","712010002","Atividades de Pesquisa e Desenvolvimento Experimental em Ciencias Fisicas e Naturais"
+"3001","712010003","Serviços de Biologia, Biotecnologia e Quimica"
+"1708","712010004","Testes e Analises Tecnicas de Produtos Sujeitos à Vigilância Sanitária"
+"201","721000001","Pesquisa e Desenvolvimento Experimental em Ciências Físicas e Naturais"
+"201","722070001","Pesquisa e Desenvolvimento Experimental em Ciências Sociais e Humanas"
+"1706","731140001","Agências de Publicidade (criação e Produção de Propaganda)"
+"1008","731140002","Colocação, em Nome de Clientes, de Material Publicitario em Jornais, Revistas, Radio, Televisao, Internet e Em Outros Veiculos de Comunicação (intermediação de Campanhas Publicitárias)"
+"1008","731140002","Colocação, em Nome de Clientes, de Material Publicitario em Jornais, Revistas, Radio, Televisao, Internet e Em Outros Veiculos de Comunicação (intermediação de Campanhas Publicitárias)"
+"2301","731140003","Serviço de Programação e Comunicação Visual"
+"1008","731220001","Agenciamento de Espaços Para Publicidade, Exceto em Veiculos de Comunicação"
+"1008","731220001","Agenciamento de Espaços Para Publicidade, Exceto em Veiculos de Comunicação"
+"1724","731220002","Locação de Espaços Publicitarios"
+"1724","731220002","Locação de Espaços Publicitarios"
+"1706","731900101","Criação de Estandes Para Feiras e Exposições"
+"1706","731900201","Promoção de Vendas"
+"1706","731900301","Marketing Direto"
+"1706","731900401","Consultoria em Publicidade"
+"1724","731909901","Veiculação e Divulgação de Textos, Desenhos e Outros Materiais de Publicidade"
+"1724","731909901","Veiculação e Divulgação de Textos, Desenhos e Outros Materiais de Publicidade"
+"1724","731909902","Serviços de Publicidade Aerea"
+"1724","731909902","Serviços de Publicidade Aerea"
+"1724","731909903","Serviços de Carro de Som Para Publicidade"
+"1724","731909903","Serviços de Carro de Som Para Publicidade"
+"1706","731909999","Outras Atividades de Publicidade Não Especificadas Anteriormente"
+"1701","732030001","Pesquisas de Mercado e De Opinião Pública"
+"2301","741020101","Design"
+"2301","741020102","Serviços de Desenho Industrial"
+"3201","741020103","Design de Moda"
+"711","741020201","Design de Interiores"
+"2301","741020301","Design de Produtos"
+"2301","741020302","Serviços de Desenho Industrial"
+"3201","741020303","Design de Moda"
+"2301","741029901","Atividades de Design Não Especificadas Anteriormente"
+"1302","742000101","Atividades de Produção de Fotografias, Exceto Aerea e Submarina"
+"1302","742000102","Atelier Fotografico"
+"718","742000201","Atividades de Produção de Fotografias Aéreas e Submarinas"
+"1302","742000301","Laboratórios Fotográficos"
+"1302","742000401","Filmagem de Festas e Eventos"
+"1303","742000501","Serviços de Microfilmagem"
+"1702","749010101","Serviços de Tradução, Interpretação e Similares"
+"719","749010201","Escafandria e Mergulho"
+"1701","749010301","Serviços de Agronomia e De Consultoria às Atividades Agrícolas e Pecuárias"
+"1002","749010401","Atividades de Intermediação e Agenciamento de Serviços e Negócios em Geral, Exceto Imobiliários"
+"1704","749010501","Agenciamento de Profissionais Para Atividades Esportivas, Culturais e Artisticas"
+"1003","749010502","Serviços de Agente de Obras de Arte e Literarias"
+"1720","749019901","Consultoria Na Area de Estatistica"
+"3601","749019902","Serviços de Meteorologia"
+"720","749019903","Nucleação e Bombardeamento de Nuvens e Congeneres"
+"1701","749019999","Outras Atividades Profissionais, Cientificas e Tecnicas Nao Especificadas Anteriormente"
+"501","750010001","Atividades Veterinarias"
+"507","750010002","Ambulância Para Animais"
+"503","750010003","Laboratório de Analise Veterinaria"
+"502","750010004","Cliinica Ou Consultório Veterinario"
+"505","750010005","Banco de Sangue e De órgaos de Animais"
+"506","750010006","Coleta de Materiais Biologicos de Qualquer Especie Para Uso Veterinario"
+"509","750010007","Planos de Assistencia Veterinaria"
+"509","750010007","Planos de Assistencia Veterinaria"
+"509","750010007","Planos de Assistencia Veterinaria"
+"502","750010008","Hospital Veterinário"
+"9903","771100001","Locação de Automóveis Sem Condutor"
+"9903","771950101","Locação de Embarcações Sem Tripulação, Exceto Para Fins Recreativos"
+"9903","771950201","Locação de Aeronaves Sem Tripulação"
+"9903","771959901","Locação de Outros Meios de Transporte Não Especificados Anteriormente, Sem Condutor"
+"9903","772170001","Aluguel de Equipamentos Recreativos e Esportivos"
+"9903","772250001","Aluguel de Fitas de Vídeo, Dvds e Similares"
+"9903","772330001","Aluguel de Objetos do Vestuário, Jóias e Acessórios"
+"9903","772920101","Aluguel de Aparelhos de Jogos Eletrônicos"
+"9903","772920201","Aluguel de Móveis, Utensílios e Aparelhos de Uso Doméstico e Pessoal; Instrumentos Musicais"
+"9903","772920301","Aluguel de Material Médico"
+"9903","772929901","Aluguel de Outros Objetos Pessoais e Domésticos Não Especificados Anteriormente"
+"9903","773140001","Aluguel de Maquinas e Equipamentos Agricolas Sem Operador"
+"1509","773140002","Leasing Operacional de Maquinas e Equipamentos Agricolas"
+"1509","773140002","Leasing Operacional de Maquinas e Equipamentos Agricolas"
+"1509","773140002","Leasing Operacional de Maquinas e Equipamentos Agricolas"
+"9903","773220101","Aluguel de Máquinas e Equipamentos Para Construção Sem Operador, Exceto Andaimes"
+"9903","773220201","Aluguel de Andaimes"
+"1509","773220202","Leasing Operacional de Andaimes"
+"1509","773220202","Leasing Operacional de Andaimes"
+"1509","773220202","Leasing Operacional de Andaimes"
+"9903","773310001","Aluguel de Maquinas e Equipamentos Para Escritorio"
+"1509","773310002","Leasing Operacional de Maquinas e Equipamentos Para Escritório"
+"1509","773310002","Leasing Operacional de Maquinas e Equipamentos Para Escritório"
+"1509","773310002","Leasing Operacional de Maquinas e Equipamentos Para Escritório"
+"9903","773900101","Aluguel de Maquinas e Equipamentos Para Extração de Minerios e Petroleo, Sem Operador"
+"1509","773900102","Leasing Operacional de Maquinas e Equipamentos Para Extração de Minerios e Petróleo"
+"1509","773900102","Leasing Operacional de Maquinas e Equipamentos Para Extração de Minerios e Petróleo"
+"1509","773900102","Leasing Operacional de Maquinas e Equipamentos Para Extração de Minerios e Petróleo"
+"9903","773900201","Aluguel de Equipamentos Cientificos, Medicos e Hospitalares, Sem Operador"
+"1509","773900202","Leasing Operacional de Equipamentos Cientificos, Medicos e Hospitalares"
+"1509","773900202","Leasing Operacional de Equipamentos Cientificos, Medicos e Hospitalares"
+"1509","773900202","Leasing Operacional de Equipamentos Cientificos, Medicos e Hospitalares"
+"304","773900301","Aluguel de Palcos, Coberturas e Outras Estruturas de Uso Temporario, Exceto Andaimes"
+"1509","773900302","Leasing Operacional de Palcos, Coberturas e Outras Estruturas de Uso Temporario"
+"1509","773900302","Leasing Operacional de Palcos, Coberturas e Outras Estruturas de Uso Temporario"
+"1509","773900302","Leasing Operacional de Palcos, Coberturas e Outras Estruturas de Uso Temporario"
+"302","773900303","Locação de Standes Para Feiras e Eventos, Sem Montagem"
+"9903","773909901","Aluguel de Outras Máquinas e Equipamentos Comerciais e Industriais Não Especificados Anteriormente, Sem Operador, Exceto Locação de Aparelhos e Equipamentos de Tv, Som e Vídeo"
+"9903","773909902","Locação de Aparelhos e Equipamentos de Tv, Som e Vídeo"
+"1711","774030001","Gestao de Ativos Intangiveis Nao-financeiros"
+"1707","774030002","Venda e Licenciamento de Franquia, Franchising"
+"1711","774030003","Gestão de Banco de Dados de Terceiros"
+"1004","774030004","Agenciamento, Corretagem Ou Intermediação de Contratos de Franquia (franchising)"
+"1004","774030004","Agenciamento, Corretagem Ou Intermediação de Contratos de Franquia (franchising)"
+"1004","774030004","Agenciamento, Corretagem Ou Intermediação de Contratos de Franquia (franchising)"
+"1704","781080001","Seleção e Agenciamento de Mão-de-obra"
+"1704","781080002","Seleção de Mão-de-obra"
+"1704","781080003","Agenciamento de Mão-de-obra"
+"1705","782050001","Locação de Mão-de-obra Temporária"
+"1705","783020001","Fornecimento de Recursos Humanos Para Terceiros"
+"1711","783020002","Gestão de Recursos Humanos Para Terceiros"
+"902","791120001","Agências de Viagens"
+"902","791210001","Operadores Turisticos"
+"903","791210002","Serviços de Guia Turistico"
+"902","799020001","Agencia de Venda de Ingressos Para Teatros, Cinemas e Outras Atividades Artisticas"
+"902","799020002","Guiche de Venda de Passagens de ônibus"
+"902","799020099","Serviços de Reservas e Outros Serviços de Turismo Nao Especificados Anteriormente"
+"1102","801110101","Atividades de Vigilância e Segurança Privada"
+"1104","801110102","Armazenamento, Depósito, Carga, Descarga, Arrumação e Guarda de Bens de Qualquer Espécie"
+"1103","801110103","Atividades de Vigilancia e Seguranca Privada (escolta)"
+"1103","801110104","Serviços de Escolta No Transporte Rodoviario de Cargas Especiais, Intramunicipal"
+"508","801110201","Serviços de Adestramento de Cães de Guarda"
+"2601","801290001","Atividades de Transporte de Valores"
+"1102","802000001","Atividades de Monitoramento de Sistemas de Segurança"
+"1401","802000002","Reparação Ou Ajuste Mecânico de Cofres, Trancas e Travas"
+"1406","802000003","Instalação de Cofres, Trancas e Travas"
+"1102","802000101","Atividades de Monitoramento de Sistemas de Segurança Eletrônico"
+"1401","802000201","Reparação Ou Ajuste Mecânico de Cofres, Trancas e Travas"
+"1406","802000202","Instalação de Cofres, Trancas e Travas"
+"1102","802000299","Outras Atividades de Serviços de Segurança"
+"3401","803070001","Atividades de Investigação Particular"
+"1704","81080003","Agenciamento de Mão-de-obra"
+"1705","811170001","Serviços Combinados Para Apoio a Edificios, Exceto Condominios Prediais"
+"1705","811170002","Serviço de Recepção em Predios"
+"710","812140001","Limpeza em Prédios e Em Domicílios"
+"713","812220001","Imunização e Controle de Pragas Urbanas"
+"710","812900001","Serviços de Limpeza e Tratamento de Piscinas"
+"710","812900002","Serviços de Limpeza e Conservação de Ruas, Logradouros"
+"710","812900003","Serviço de Desentupimento em Predios"
+"713","812900004","Serviço de Esterilização de Objetos"
+"710","812900099","Atividades de Limpeza Nao Especificadas Anteriormente"
+"711","813030001","Jardinagem, Corte e Poda de árvores"
+"701","813030002","Outras Atividades Paisagísticas Voltadas à Manutenção do Solo Não-agrícola e Não-florestal"
+"1702","821130001","Serviços Combinados de Escritório e Apoio Administrativo"
+"302","821130002","Serviços de Escritório Virtual"
+"1303","821990101","Fotocópias"
+"1702","821999901","Preparação de Documentos e Serviços Especializados de Apoio Administrativo Não Especificados Anteriormente"
+"1702","822020001","Atividades de Teleatendimento"
+"1702","822020002","Serviços de Digitação de Dados Para Processamento"
+"1709","823000101","Serviços de Organização de Feiras, Congressos, Exposiçoes e Festas"
+"1723","823000102","Serviços de Apresentação de Palestras, Conferencias, Seminarios e Congeneres"
+"302","823000201","Casas de Festas e Eventos"
+"302","823000202","Gestão de Espaço Para Exposição Para Uso de Terceiros"
+"302","823000203","Gestão de Instalações Para Eventos"
+"1721","829110001","Atividades de Cobrança e Informações Cadastrais"
+"1405","829200001","Envasamento e Empacotamento Sob Contrato"
+"1701","829970101","Medição de Consumo de Energia Elétrica, Gás e água"
+"1516","829970201","Emissão de Vales-alimentação, Vales-transporte e Similares"
+"2401","829970301","Serviços de Gravação de Carimbos, Exceto Confecção"
+"1712","829970401","Leiloeiros Independentes"
+"1701","829970501","Serviços de Levantamento de Fundos Sob Contrato"
+"1901","829970601","Casas Lotéricas"
+"302","829970701","Salas de Acesso à Internet"
+"1711","829979901","Serviços de Administração em Geral"
+"1104","829979902","Serviço de Almoxarifado"
+"2801","829979903","Serviço de Avaliador, Exceto de Seguros e De Imóveis"
+"1701","829979904","Serviço de Prevenção de Incendio Por Empresa Privada"
+"2301","829979905","Serviço de Cartazista"
+"2601","829979906","Serviço de Coleta de Botijão de Gas"
+"2301","829979907","Serviços de Computação Grafica"
+"1010","829979908","Serviço de Distribuição de Diario Oficial da União"
+"1009","829979909","Escritório de Representação - Filial de Empresa Estrangeira, Exceto de Bancos Estrangeiros"
+"1401","829979910","Serviço de Manutenção de Aquarios"
+"1706","829979911","Serviço de Pintura de Faixas"
+"1510","829979912","Posto, Agencia em Estabelecimentos Comerciais Para Pagamento de Contas de Luz, Gas, Etc."
+"1301","829979913","Serviços de Sonorização Para Telefone"
+"1501","829979914","Serviços de Vistoria de Automóveis"
+"1501","829979914","Serviços de Vistoria de Automóveis"
+"1501","829979914","Serviços de Vistoria de Automóveis"
+"1501","829979915","Administração de Cartões de Descontos"
+"1501","829979915","Administração de Cartões de Descontos"
+"1501","829979915","Administração de Cartões de Descontos"
+"1010","829979916","Distribuição de Bens de Terceiros"
+"302","829979917","Exploração de Espaços Para Realização de Eventos Ou Negócios de Qualquer Natureza"
+"1701","829979999","Outras Atividades de Serviços Prestados Principalmente às Empresas Nao Especificadas Anteriormente"
+"801","851120001","Educação Infantil - Creche"
+"801","851120002","Educação Infantil - Creche - Educação Especial Para Sub e Superdotados e Deficientes Físicos"
+"801","851210001","Educação Infantil - Pré-escola"
+"801","851210002","Educação Infantil - Pré-escola - Educação Especial Para Sub e Superdotados e Deficientes Físicos"
+"801","851390001","Ensino Fundamental"
+"801","851390002","Ensino Fundamental - Educação Especial Para Sub e Superdotados e Deficientes Físicos"
+"801","852010001","Ensino Médio"
+"801","852010002","Ensino Médio Profissionalizante"
+"801","852010003","Ensino Médio - Educação Especial Para Sub e Superdotados e Deficientes Físicos"
+"801","853170001","Educação Superior - Graduação"
+"801","853250001","Educação Superior - Graduação e Pós-graduação"
+"801","853330001","Educação Superior - Especialização"
+"801","853330002","Educação Superior - Mestrado, Doutorado, Pós-doutorado"
+"801","854140001","Educação Profissional de Nível Técnico, com Habilitação de Ensino Médio"
+"802","854140002","Cursos Técnicos de Habilitação Profissional"
+"801","854220001","Educação Profissional de Nível Tecnológico"
+"1711","855030101","Administração de Caixas Escolares"
+"1701","855030201","Atividades de Apoio à Educação, Exceto Caixas Escolares"
+"802","855030202","Avaliação de Conhecimentos de Qualquer Natureza"
+"802","859110001","Ensino de Esportes"
+"604","859110002","Academia de Artes Marciais"
+"802","859290101","Ensino de Dança"
+"802","859290201","Ensino de Artes Cênicas, Exceto Dança"
+"802","859290301","Ensino de Música"
+"802","859299901","Ensino de Arte e Cultura Não Especificado Anteriormente"
+"802","859370001","Ensino de Idiomas"
+"802","859960101","Formação de Condutores"
+"802","859960201","Cursos de Pilotagem"
+"802","859960301","Treinamento em Informática"
+"802","859960401","Treinamento em Desenvolvimento Profissional e Gerencial"
+"802","859960501","Cursos Preparatórios Para Concursos"
+"802","859969901","Outras Atividades de Ensino Não Especificadas Anteriormente"
+"403","861010101","Atividades de Atendimento Hospitalar, Exceto Pronto-socorro e Unidades Para Atendimento a Urgencias"
+"407","861010102","Serviços Farmaceuticos"
+"401","861010103","Atividades de Medicina e Biomedicina."
+"403","861010104","Maternidade"
+"403","861010105","Hospital Psiquiátrico"
+"403","861010201","Atividades de Atendimento em Pronto-socorro e Unidades Hospitalares Para Atendimento a Urgências"
+"421","862160101","Uti Móvel"
+"421","862160201","Serviços Móveis de Atendimento a Urgências, Exceto Por Uti Móvel"
+"421","862240001","Serviços de Remoção de Pacientes, Exceto Os Serviços Móveis de Atendimento a Urgências"
+"403","863050101","Atividade Médica Ambulatorial com Recursos Para Realização de Procedimentos Cirúrgicos"
+"403","863050201","Atividade Médica Ambulatorial, Exceto Consultórios Médicos, com Recursos Para Realização de Exames Complementares."
+"401","863050202","Consultórios Médicos com Recursos Para Realização de Exames Complementares"
+"403","863050301","Estabelecimentos de Atendimento Ambulatorial, Exceto Consultórios Médicos"
+"401","863050302","Consultórios Médicos"
+"403","863050303","Atividades de Clínica Médica Restrita a Consultas"
+"412","863050401","Atividade Odontológica"
+"412","863050402","Clínica Odontológica Pública Ou Particular"
+"401","863050601","Serviços de Vacinação e Imunização Humana"
+"418","863050701","Atividades de Reprodução Humana Assistida"
+"403","863059901","Atividades de Atenção Ambulatorial Não Especificadas Anteriormente"
+"403","864020101","Laboratórios de Anatomia Patológica e Citológica"
+"403","864020201","Laboratórios Clínicos"
+"403","864020202","Posto de Coleta Laboratorial"
+"409","864020301","Serviços de Diálise e Nefrologia"
+"402","864020401","Serviços de Tomografia"
+"402","864020501","Serviços de Diagnóstico Por Imagem com Uso de Radiação Ionizante, Exceto Tomografia"
+"402","864020601","Serviços de Ressonância Magnética"
+"402","864020701","Serviços de Diagnóstico Por Imagem Sem Uso de Radiação Ionizante, Exceto Ressonância Magnética"
+"402","864020801","Serviços de Diagnóstico Por Registro Gráfico - Ecg, Eeg e Outros Exames Análogos"
+"402","864020901","Serviços de Diagnóstico Por Métodos ópticos - Endoscopia e Outros Exames Análogos"
+"402","864021001","Serviços de Quimioterapia"
+"402","864021101","Serviços de Radioterapia"
+"409","864021201","Serviços de Hemoterapia"
+"409","864021301","Serviços de Litotripsia"
+"419","864021401","Serviços de Bancos de Sangue, Leite, Pele, Olhos, Ovulos, Semen, Celulas e Tecidos Humanos"
+"420","864021402","Coleta de Sangue, Leite, Tecidos, Semen, órgaos e Materiais Biológicos de Qualquer Especie."
+"409","864029901","Atividades de Serviços de Complementação Diagnóstica e Terapêutica Não Especificadas Anteriormente"
+"406","865000101","Atividades de Enfermagem"
+"410","865000201","Atividades de Profissionais da Nutrição"
+"416","865000301","Atividades de Psicologia, Consultórios e Clínicas"
+"415","865000302","Atividades de Psicanalise, Consultórios e Clínicas"
+"408","865000401","Atividades de Fisioterapia"
+"408","865000501","Atividades de Terapia Ocupacional"
+"408","865000601","Atividades de Fonoaudiologia"
+"410","865000701","Atividades de Terapia de Nutrição Enteral e Parenteral"
+"404","865009901","Serviços de Instrumentação Cirurgica"
+"413","865009902","Atividades de Ortóptica"
+"409","865009903","Serviços de Quiropraxia"
+"401","865009904","Atividades de Optmetristas"
+"409","865009999","Atividades de Profissionais da Area de Saude Nao Especificadas Anteriormente"
+"1701","866070001","Atividades de Apoio à Gestao de Saude"
+"409","869090101","Atividades de Praticas Integrativas e Complementares em Saude Humana"
+"419","869090201","Atividades de Bancos de Leite Humano"
+"405","869090301","Atividades de Acupuntura"
+"409","869090401","Atividades de Podologia"
+"411","869099901","Serviços de Parteira"
+"411","869099901","Serviços de Parteira"
+"409","869099999","Outras Atividades de Atenção à Saude Humana Nao Especificadas Anteriormente"
+"417","871150101","Clinicas e Residencias Geriatricas"
+"403","871150102","Centro Medico Geriatrico"
+"417","871150201","Instituições de Longa Permanência Para Idosos"
+"417","871150301","Atividades de Assistencia a Deficientes Fisicos, Imunodeprimidos e Convalescentes"
+"417","871150302","Casas de Repouso Para Convalescentes e Imonodeprimidos"
+"417","871150401","Centros de Apoio a Pacientes com Câncer e Com Aids"
+"417","871150501","Condomínios Residenciais Para Idosos"
+"421","871230001","Atividades de Fornecimento de Infra-estrutura de Apoio e Assistência a Paciente No Domicílio"
+"417","872040101","Atividades de Centros de Assistência Psicossocial"
+"403","872040102","Hospital Psiquiátrico"
+"417","872049901","Atividades de Assistência Psicossocial e à Saúde a Portadores de Distúrbios Psíquicos, Deficiência Mental e Dependência Química e Grupos Similares Não Especificadas Anteriormente"
+"417","873010101","Orfanatos"
+"417","873010201","Albergues Assistenciais"
+"417","873019901","Atividades de Assistência Social Prestadas em Residências Coletivas e Particulares Não Especificadas Anteriormente"
+"2701","880060001","Serviços de Assistência Social Sem Alojamento"
+"1213","900190101","Produção Teatral"
+"1201","900190102","Espetaculos Teatrais."
+"1201","900190103","Teatro"
+"1213","900190201","Produção Musical"
+"1213","900190202","Atividades de Produção e Promoção de Bandas, Grupos Musicais, Orquestras e Outras Companhias Musicais"
+"1213","900190301","Produção de Espetáculos de Dança"
+"1213","900190401","Produção de Espetaculos Circenses, de Marionetes e Similares"
+"1203","900190402","Espetaculo Circense"
+"1213","900190501","Produção de Espetáculos de Rodeios, Vaquejadas e Similares"
+"3101","900190601","Atividades de Sonorização e De Iluminação"
+"3101","900190602","Atividade de Equipamento de Som e Luz com Operador"
+"3101","900190603","Serviços de Iluminação Ligada às Atividades Artisticas, Cenicas"
+"1214","900190604","Fornecimento de Música Para Ambientes Fechados Ou Não, Mediante Transmissao Por Qualquer Processo."
+"1204","900199901","Atividades de Apresentadores de Programas de Televisao e Radio"
+"1216","900199902","Espetaculo Pirotecnico"
+"1213","900199999","Artes Cenicas, Espetáculos e Atividades Complementares Nao Especificados Anteriormente"
+"3701","900270101","Atividades de Artistas Plasticos"
+"2301","900270104","Atividade de Criador de Desenho Animado"
+"3501","900270105","Atividade de Jornalista Independente"
+"4001","900270106","Obras de Arte Sob Encomenda"
+"4001","900270199","Atividades de Artistas Plásticos, Jornalistas Independentes e Escritores"
+"1401","900270201","Restauração de Obras de Arte"
+"302","900350001","Gestao de Espaços Para Artes Cenicas, Espetaculos e Outras Atividades Artisticas"
+"302","900350002","Casa de Cultura, Espetaculos Ou Shows"
+"1214","900350003","Fornecimento de Música Para Ambientes Fechados Ou Não, Mediante Transmissão Por Qualquer Processo."
+"302","900350004","Casa de Cultura"
+"302","900350005","Casa de Espetáculos"
+"302","900350006","Casa de Shows"
+"302","900350007","Exploração de Cafés-teatro"
+"302","900350008","Exploração de Salas de Espetáculos"
+"302","900350009","Gestão de Salas Dedicadas a Atividades Artísticas"
+"302","900350010","Atividade de Gestão de Sala de Shows"
+"2901","910150001","Atividades de Bibliotecas e Arquivos"
+"1104","910150002","Atividade de Arquivo"
+"2901","910150003","Biblioteca Central"
+"2901","910150004","Biblioteca de Bairro"
+"3801","910230101","Atividades de Museus e De Exploração de Lugares e Prédios Históricos e Atrações Similares"
+"3801","910230102","Planetário"
+"710","910230201","Conservação de Lugares e Prédios Históricos"
+"705","910230202","Restauração de Lugares e Prédios Históricos"
+"1205","910310001","Atividades de Jardins Botânicos, Zoológicos, Parques Nacionais, Reservas Ecológicas e áreas de Proteção Ambiental"
+"1205","910310002","Parque Metropolitano"
+"1205","910310003","Parque Urbano"
+"1205","910310004","Parque de Vizinhança Ou de Bairro"
+"1205","910310005","Horto Florestal"
+"1901","920030101","Casas de Bingo"
+"1210","920030201","Exploração de Apostas em Corridas de Cavalos"
+"1901","920039901","Exploração de Jogos de Azar e Apostas Não Especificados Anteriormente"
+"302","931150001","Gestão de Instalações de Esportes"
+"302","931150002","Gestão de Estádios"
+"302","931150003","Gestão de Ginásio de Esportes"
+"302","931150004","Exploração de Pista de Patinação"
+"302","931150005","Gestão de Quadras Esportivas"
+"302","931150006","Estádio"
+"302","931150007","Ginásio"
+"604","931310001","Atividades de Condicionamento Físico"
+"604","931310002","Academia de Fisiculturismo"
+"1213","931910101","Produção e Promoção de Eventos Esportivos"
+"1205","931919901","Atividade de Pesca Esportiva e De Lazer, Pesque Pague"
+"1211","931919902","Competições Esportivas Ou de Destreza Fisica Ou Intelectual, com Ou Sem a Participação do Espectador."
+"604","931919999","Outras Atividades Esportivas Nao Especificadas Anteriormente"
+"1205","932120001","Parques de Diversão e Parques Temáticos"
+"1206","932980101","Discotecas, Danceterias, Salões de Dança e Similares"
+"1209","932980201","Exploração de Boliches"
+"1209","932980301","Exploração de Jogos de Sinuca, Bilhar e Similares"
+"1209","932980401","Exploração de Jogos Eletrônicos Recreativos"
+"1217","932989901","Atividades de Animação e Recreação em Festas e Eventos"
+"1209","932989902","Exploração de Jogos Bilhar e Snooker"
+"1101","932989903","Serviços de Estadia de Barcos, Lanchas, Iates e Jet Ski"
+"1209","932989904","Site de Entretenimento, Inclusives Jogos, Na Internet, Exceto Jogos de Azar"
+"1208","932989905","Organização de Feiras e Shows de Natureza Recreacional"
+"902","932989906","Exploração de Trenzinho Para Passeios Turisticos"
+"902","932989907","Locação de Embarcaçoes Para Fins Recreativos"
+"1205","932989908","Exploração de Karts"
+"1205","932989909","Aquario Para Visitação"
+"1207","932989910","Shows, Ballet, Danças, Desfiles, Bailes, óperas, Concertos, Recitais, Festivais e Congeneres."
+"1603","932989911","Transporte em Veiculos de Tração Animal"
+"1603","932989911","Transporte em Veiculos de Tração Animal"
+"1217","932989999","Outras Atividades de Recreação e Lazer Nao Especificadas Anteriormente"
+"1215","949360002","Atividade de Blocos Carnavalescos"
+"1401","951180001","Reparação e Manutenção de Computadores e De Equipamentos Perifericos"
+"1402","951180002","Serviços de Assistencia Tecnica em Equipamentos de Informatica"
+"1401","951260001","Reparação e Manutenção de Equipamentos de Comunicação"
+"1402","951260002","Assistencia Tecnica em Telefone"
+"1401","952150001","Reparação e Manutenção de Equipamentos Eletroeletrônicos de Uso Pessoal e Domestico"
+"1401","952150002","Conserto de Eletrodomesticos"
+"1406","952150003","Instalação de Peças e Acessórios Para Eletrodomesticos"
+"1402","952150004","Assistência Técnica de Equipamentos Eletroeletrônicos de Uso Pessoal e Domestico"
+"1405","952910101","Reparação de Calçados, Bolsas e Artigos de Viagem"
+"2401","952910201","Chaveiros"
+"1405","952910301","Reparação de Relógios"
+"1401","952910401","Reparação de Bicicletas, Triciclos e Outros Veiculos Nao-motorizados"
+"1406","952910402","Instalação de Acessórios Bicicletas"
+"1405","952910403","Serviços de Pintura de Bicicletas, Triciclos e De Outros Veiculos Recreativos"
+"1401","952910404","Conserto de Pneus e Câmaras de Ar de Bicicletas"
+"1413","952910501","Reparação de Artigos do Mobiliario"
+"1411","952910502","Reparação de Artigos de Tapeçaria"
+"1401","952910601","Reparação de Jóias"
+"1409","952919901","Serviços de Conserto e Recuperacao de Roupas"
+"1401","952919902","Conserto de Armas de Fogo"
+"1405","952919903","Atividade de Amolador de Facas"
+"1401","952919904","Conserto de Brinquedos"
+"1401","952919905","Reparação de Artigos de Borracha, de Couro, de Pele e De Artigos de Viagem (sacolas Malas, Casacos, Sombrinhas, Etc.), Exceto Reparação de Calçados"
+"1401","952919999","Reparação e Manutenção de Outros Objetos e Equipamentos Pessoais e Domesticos Nao Especificados Anteriormente"
+"1410","960170101","Lavanderias"
+"1410","960170102","Lavanderia Industrial"
+"1410","960170103","Lavanderia Hospitalar"
+"1410","960170201","Tinturarias"
+"1410","960170202","Tinturaria Industrial"
+"1410","960170301","Toalheiros"
+"9903","960170302","Aluguel De, Locação de Roupas de Cama, Mesa e Banho"
+"601","960250101","Cabeleireiros, Manicure e Pedicure"
+"601","960250102","Barbearia"
+"601","960250111","Salão-parceiro - Cabeleireiros, Manicure e Pedicure"
+"601","960250112","Salão-parceiro - Barbearia"
+"602","960250201","Clinicas de Estetica e Similares"
+"605","960250202","Clinica de Emagrecimento"
+"602","960250203","Outras Atividades de Estetica e Serviços de Cuidados com A Beleza Não Especificadas Anteriormente"
+"605","960250211","Salão-parceiro - Clinicas de Estetica e Similares"
+"602","960250213","Salão-parceiro - Outras Atividades de Estetica e Serviços de Cuidados com A Beleza Não Especificadas Anteriormente"
+"2504","960330101","Gestão e Manutenção de Cemitérios"
+"2505","960330102","Serviços de Cessão/Locação do Uso de Jazigos/Lóculos"
+"2505","960330102","Serviços de Cessão/Locação do Uso de Jazigos/Lóculos"
+"2502","960330201","Serviços de Cremação"
+"2501","960330301","Serviços de Sepultamento, Exceto Vertical"
+"2501","960330302","Serviços de Sepultamento Vertical"
+"2501","960330401","Serviços de Funerárias"
+"2501","960330501","Serviços de Somatoconservação"
+"2501","960339901","Atividades Funerárias e Serviços Relacionados Não Especificados Anteriormente"
+"2501","960339902","Velórios"
+"1701","960920201","Agências Matrimoniais"
+"1302","960920401","Exploração de Máquinas de Serviços Pessoais Acionadas Por Moeda - Fotografia"
+"1303","960920402","Digitalização Para Entrada de Dados"
+"1701","960920403","Exploração de Máquinas de Serviços Pessoais Acionadas Por Moeda - Pesagem"
+"1701","960920499","Exploração de Máquinas de Serviços Pessoais Acionadas Por Moeda"
+"603","960920501","Atividades de Sauna e Banhos"
+"606","960920601","Serviços de Tatuagem e Colocação de Piercing"
+"508","960920701","Alojamento de Animais Domésticos"
+"508","960920801","Higiene e Embelezamento de Animais Domésticos"
+"1705","960929901","Serviços de Baby Siter"
+"1405","960929902","Serviços de Engraxate"
+"302","960929903","Serviços de Exploração de Sanitarios Publicos"
+"1702","960929904","Serviços de Mensagens Fonadas"
+"1405","960929905","Serviços de Lavagem de Estofado - Exceto de Veiculos"
+"1102","960929906","Serviços de Guarda de Piscina"
+"1101","960929907","Serviços de Manobristas"
+"1701","960929908","Consultoria em Organização Pessoal (personal Organizer)"
+"602","960929998","Serviços de Tatuagem e Colocação de Piercin"
+"603","960929999","Outras Atividades de Serviços Pessoais Não Especificadas Anteriormente"
+"9908","970050001","Serviços Domésticos"
+"1102","970050002","Guarda-costa"

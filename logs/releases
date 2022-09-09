@@ -1,4 +1,8 @@
-??/08/2022 - 2.1.31.0
+09/09/2022 - 2.1.31.0
+   • Correções
+      → Corrigido erros no resultados da pesquisa.
+
+09/09/2022 - 2.1.31.0
    • Novas Funcionalidades
       → Vigia - Observa uma área da tela e emite um alerta quando esta área for modificada.
       → Atalho para abrir uma segunda calculadora: [Shift]+[F1]

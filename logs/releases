@@ -1,5 +1,10 @@
 12/09/2022 - 2.1.31.2
    • Correções
+      → Modo de busca na aba de pesquisa alterado para Case-Insensitive.
+      → Encoding de das anotações fixado para UTF-8.
+
+12/09/2022 - 2.1.31.2
+   • Correções
       → Melhoramento na busca de NCM.
       → Checa se o computador está conectado à internet antes de atualizar as tabelas de pesquisa.
 

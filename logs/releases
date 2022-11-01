@@ -1,3 +1,9 @@
+A Lançar - 2.1.31.5
+   • Correções
+      → As seguintes palavras serão mantidas em maiúsculas pelo conversor de textos:
+         IRPJ|CSLL|CSRF|PIS|COFINS|IRRF|ISS
+         *Apenas na função de Primeira Letra Maiúscula ([Ctrl]+[Shift]+[K])
+
 20/09/2022 - 2.1.31.4
    • Novas Funcionalidades
       → Adicionada tabela de códigos GPS na aba de pesquisa.

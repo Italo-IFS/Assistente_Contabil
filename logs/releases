@@ -1,8 +1,10 @@
-A Lançar - 2.1.31.5
+07/11/2022 - 2.1.32.0
+   • Novas Funcionalidades
+      → Aba de tabelas do Simples Nacional
    • Correções
       → As seguintes palavras serão mantidas em maiúsculas pelo conversor de textos:
          IRPJ|CSLL|CSRF|PIS|COFINS|IRRF|ISS
-         *Apenas na função de Primeira Letra Maiúscula ([Ctrl]+[Shift]+[K])
+            *Apenas na função de Camel Case ([Ctrl]+[Shift]+[K])
 
 20/09/2022 - 2.1.31.4
    • Novas Funcionalidades

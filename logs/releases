@@ -1,4 +1,6 @@
 ??/??/???? - 2.1.32.1
+   • Novas Funcionalidades
+      → Tirar print somente da janela que está ativa no momento. ([Ctrl]+[Print Screen])
    • Correções
       → Adicionado instruções sobre o atalhos [Ctrl]+[Shift]+[Alt]+[V] e [Ctrl]+[Shift]+[V]
 

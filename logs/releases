@@ -1,7 +1,10 @@
-??/??/2023 - 2.1.32.1
+09/01/2023 - 2.1.33.0
    • Novas Funcionalidades
       → Tirar print somente da janela que está ativa no momento. ([Ctrl]+[Print Screen]).
+      → Conversão de declaração de faturamento (.xls|.xlsx) para .pdf.
+      → Tipo de comércio (Varejo ou Atacado) na calculadora de carga liquida (Dec. 29.560).
    • Correções
+      → Pagina principal agora exibe o link correto.
       → Adicionado instruções sobre o atalhos [Ctrl]+[Shift]+[Alt]+[V] e [Ctrl]+[Shift]+[V].
       → Correção de "página não existente" na guia Principal.
 

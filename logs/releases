@@ -1,3 +1,8 @@
+18/01/2023 - 2.1.33.1
+   • Correções
+      → Correção algumas incosistências ao se converter números por extenso.
+      → Correção sobre o cálculo incorreto na calculadora de carga líquida.
+
 09/01/2023 - 2.1.33.0
    • Novas Funcionalidades
       → Tirar print somente da janela que está ativa no momento. ([Ctrl]+[Print Screen]).

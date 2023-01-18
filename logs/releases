@@ -1,3 +1,7 @@
+18/01/2023 - 2.1.33.2
+   • Correções
+      → Correção de arquivos não serem atualizados ao inicializar.
+      
 18/01/2023 - 2.1.33.1
    • Correções
       → Correção algumas incosistências ao se converter números por extenso.
